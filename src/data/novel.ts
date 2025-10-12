@@ -153,5 +153,134 @@ Heather turned off the lamp. The room grayed. Rain wrote soft cursive against th
 헤더는 스탠드 불을 껐다. 방은 회색으로 가라앉았다. 비는 유리 위에 부드러운 필기체를 썼다. 어딘가 지하에서는 막차가 덜컹거리며, 긴 문장의 사이사이에 들어가는 쉼표처럼 낯선 이들을 집으로 데려가고 있었다.`,
       },
     },
+    {
+      id: "2",
+      number: 2,
+      title: {
+        en: "Same Seat, Same Face",
+        ko: "같은 자리, 같은 얼굴",
+      },
+      publishDate: "2025-10-12",
+      content: {
+        en: `The next night looked like the last one with slightly different weather. The city couldn't decide between snow and rain, so it wore both for a while. Heather closed the café, folded the rag one more time than necessary, and let the bell's final chime fade into the hallway air. Down the stairs, into the tiled throat of the station, she joined the small migration of people who had already used up their day's words.
+
+The platform had its usual grammar: a busker trying to coax a love song out of the cold, the overhead screens making promises they couldn't keep, a draft that belonged to no season. Heather stood near the column with the old sticker that read YOU ARE HERE in a way that felt slightly threatening. She opened her notebook, then closed it again.
+
+The wind came first, then the smell, then the brakes—wanting to be heard over even the best noise-canceling headphones. A long metallic vowel held the station in its mouth. The doors opened with their familiar, patient annoyance.
+
+She found a standing spot by the pole and wrapped her hand around it. The car wore the smell of wet wool and carried the clatter of tired shoes. She saw him then—same seat, same face—near the door that didn't always open, a half-step turned away from the aisle as if he could become part of the wall on request.
+
+He had a sketchbook on his knee. Not new. The corners softened like a favorite shirt; a strip of tape held the spine where the cardboard had given up, its edge lifting at one corner. He drew without being precious about it: small, quick marks; a hush of graphite; a kneaded eraser traveling like a little cloud. The inside of his thumb was shadowed gray. His coat tried to be serious; his scarf had lost the argument with the weather.
+
+Heather looked for three seconds, then two, then broke it into deniable fragments. She watched his hand more than his face. Hands tell the truth faster. His moved like he was stirring water, testing the temperature.
+
+Across from him, a man in a hard hat slept with an ease Heather envied. Beside him, a woman read a paperback with the intensity of someone building a bridge by hand. The car reorganized itself each stop: bodies in, bodies out, the page turning.
+
+Heather felt for her pencil without taking her eyes off an ad for a miracle mattress. On the top corner of her paper, small enough to be mistaken for nothing, she wrote:
+*He draws so he doesn't have to say hello.*
+
+The train hooked around a bend, her shoulder brushed a stranger's coat, and the car steadied. She let out a breath she hadn't committed to. She told herself she was noting a person, not a person pointed at her. That was the deal with observation: she could look without being there.
+
+At 8th Street, two tourists clung to a map like it had betrayed them. At Prince Street, a guitarist got on and got off, hopeful in another car. At Canal, a woman boarded cradling a plant whose leaves quivered each time the doors shut. The man with the sketchbook turned a page. Heather caught a quick ghost of what he'd been drawing: hands cupped around a paper cup, steam suggested in three spare lines.
+
+She wondered if he drew faces or if faces looked back too hard. He seemed like someone who saved the hardest shapes for later.
+
+The nights arranged themselves in a row after that, beads on a string.
+
+On Tuesday the car was crowded enough that strangers turned into furniture. Heather took the spot by the route map, where the announcement was louder and still not clear: "Downtown service is… sorry about everything." He was there again, same seat, sketchbook balanced, pencil making a rhythm she could find even through the noise. He drew shoes this time—scuffed boots, careful laces, a heel lifted mid-step. He looked up only when the train lurched, keeping a finger on the place he'd made, like a person who didn't trust the world not to move when he wasn't looking.
+
+*Where you sit tells on you,* she wrote. *He sits where leaving is easy.*
+
+On Wednesday the station was warm in the way basements are warm. The busker had traded love songs for scales. Heather's hair kept the day's coffee smell like stubborn perfume. She spotted him before she found the pole—coat, scarf, the slight fold of his posture as if protecting the page from weather that could happen inside a train. A kid nearby watched him with the reverence reserved for magicians and snack vendors. When the kid leaned too close, his hand hovered, then moved again, slower. Not hiding—just not offering.
+
+Heather tried a sentence about herself and failed, then wrote one about him and felt relief ring in her chest:
+*He doesn't trace outlines; he negotiates with them.*
+
+On Thursday the train was late enough to make strangers allies. The platform angled toward the edge with a shared impatience, and when the car shrieked into view, everyone pretended not to rush. Heather ended up standing near his seat. She could see the paper clearly now—thick, toothy; a nick on the cover where a sticker had been and then hadn't. He was drawing the reflection in the window—the second, paler car made from everyone inside it. He sketched a woman with a soft hat cradling a plant. He sketched a man nodding off without embarrassment. He sketched, quickly, the curve of a cheekbone and the flare of a nostril belonging to someone who looked like him if he were braver or more tired.
+
+The train jerked. His pencil slid, rolled. Heather's shoe stopped it. She nudged it back. They both reached; both retreated—the polite wrong. The pencil found his palm anyway. He glanced up—just a breath of a glance—eyes gray in the car's indifferent light. A nod: thanks, or nothing. Heather answered with the city's thin smile: you are seen, and you are safe.
+
+Friday tried to snow and gave up. The car was emptier than usual. He sat where he always sat. Heather took the seat across, the one you choose when you're tired of standing for your life. Parallel lines, pulled a little closer. He'd changed pencils; this one made a softer sound. He drew the corner of the advertisement by the door, but not the face on it—as if refusing to sell anyone anything even on paper.
+
+Chamomile would be cooling by the tip jar whether she was there or not. The thought arrived like a small, familiar weight and then left her alone.
+
+She let the train's sway move her and, against her better rules, imagined the inside of his head the way he knew the inside of his sketchbook. Not the drama—just the inventory: tins of graphite with dented lids, pages torn and folded once, the tape on the spine lifting at one corner, the way he carried the whole thing like a small animal that needed warmth.
+
+She wrote, and the line startled her with how easy it was:
+*There's a man who draws like he's remembering someone he hasn't met yet.*
+
+On a Sunday night that had borrowed weather from March, the busker found the melody he'd been missing all week. The station gathered itself to listen without pretending not to. Heather waited at the yellow line. The train rolled in, impatient and relieved. She stepped into the car, and there he was: same seat, same face, sketchbook open to a blank page.
+
+For a second, his pencil didn't move.
+
+He looked up to confirm the world was still the world. His eyes passed, paused, returned. Heather didn't smile. She let herself exist inside his field of vision and not just as a passenger in his drawing. She counted to three. She broke the stare first and wrote, small enough to be deniable:
+
+*[Last Train, #1]*
+*Being seen is not the same as being known. But it is more than disappearing.*
+
+She closed the notebook on that. The sentence carried the shape of a beginning. Somewhere under the street, the last train for someone else rattled by, moving a few faces closer to the places they pretended to be heading. Heather watched the reflection assemble and unassemble in the window. Beyond it, the tunnel made a soft, endless mouth.
+
+He turned his page. His pencil began again. The sound was small, like rain deciding to fall.`,
+        ko: `다음 밤은 전날과 거의 같았다. 날씨만 조금 달랐다. 눈과 비 사이에서 망설이던 도시가 둘 다를 잠시 걸쳤다. 헤더는 카페 문을 닫고, 걸레를 필요 이상 한 번 더 접은 뒤, 종소리의 마지막 여운이 복도 공기 속으로 사라지게 두었다. 계단을 내려가, 타일로 덮인 역의 목처럼 좁은 통로로 들어서며, 이미 하루치 말을 다 써버린 사람들의 작은 이동 행렬에 섞였다.
+
+승강장은 늘 그렇듯 문법을 갖고 있었다. 찬 공기에서 사랑 노래를 끌어내 보려 애쓰는 버스커, 지키지 못할 약속을 떠드는 전광판, 계절을 잃은 틈바람. 헤더는 "YOU ARE HERE"라고 적힌 오래된 스티커가 어쩐지 협박처럼 느껴지는 기둥 곁에 섰다. 공책을 열었다가 다시 닫았다.
+
+먼저 바람이 오고, 다음엔 냄새, 그리고 브레이크—노이즈 캔슬링 헤드폰 따위로도 막을 수 없다는 듯 울렸다. 긴 금속의 모음 하나가 역 전체를 입안에 머금은 듯 길게 늘어났다. 문은 언제나처럼 인내 어린 짜증으로 열렸다.
+
+그녀는 기둥 옆에 서서 손을 감았다. 차칸에는 젖은 모직 냄새가 배어 있었고, 지친 구두들의 달그락거림이 실려 있었다. 그때 그가 보였다—같은 자리, 같은 얼굴—가끔은 열리지 않는 문 근처, 통로에서 반걸음 비켜, 원하면 벽의 일부가 될 수 있을 것처럼 서 있었다.
+
+그의 무릎 위에는 스케치북이 있었다. 새것이 아니었다. 오래 입은 셔츠처럼 모서리가 부드러워졌고, 하드보드가 견디다 포기한 등쪽엔 테이프가 붙어 있었는데, 한쪽 끝이 살짝 들려 있었다. 그는 그것을 소중히 굴리려 들지 않았다. 작고 빠른 선들, 흑연의 낮은 속삭임, 찰흙처럼 말랑한 지우개가 작은 구름처럼 페이지 사이를 옮겨 다녔다. 엄지 안쪽은 회색으로 물들어 있었다. 코트는 진지해 보이려 애쓰는 표정이었고, 목도리는 날씨와의 언쟁에서 이미 졌다.
+
+헤더는 세 초, 두 초, 그러다 스스로도 부인할 수 있을 만큼 조각난 눈길로만 보았다. 얼굴보다 손을 더 보았다. 손이 먼저 진실을 말한다. 그의 손은 물의 온도를 가늠하듯, 살짝 저으며 움직였다.
+
+맞은편에서는 안전모를 쓴 남자가 부럽도록 쉽게 잠들어 있었다. 그 곁의 여자는 책 한 권을, 마치 맨손으로 다리를 놓듯 집중해서 읽었다. 매 정차마다 차칸은 다시 배열되었다. 몸들이 들고나며 페이지가 넘어갔다.
+
+헤더는 기적의 매트리스를 광고하는 포스터에서 눈을 떼지 않은 채, 손가락으로 연필을 더듬었다. 아무것으로도 보일 만큼 작게, 종이 모서리에 적었다.
+*그는 인사를 하지 않기 위해 그린다.*
+
+열차가 곡선을 돌 때, 그녀의 어깨가 낯선 이의 코트를 스쳤다. 곧 차가 다시 안정되었고, 그녀는 내내 붙들고 있던 숨을 조용히 풀었다. 자신에게 말했다. 사람 하나를 적을 뿐, 나를 겨냥한 사람이 아니다. 관찰과 맺은 거래였다. 보는 것으로 충분하고, 그 안에 들어가지는 않는 것.
+
+8번가에서, 두 관광객이 지도에 배신당한 사람들처럼 달라붙어 있었다. 프린스 스트리트에선, 한 기타 연주자가 탔다가 내려, 다른 칸에서 희망을 이어가기로 했다. 커낼 스트리트에서는, 문이 닫힐 때마다 잎사귀가 떨리는 화분을 안은 여자가 올라탔다. 스케치북의 남자는 페이지를 넘겼다. 헤더는 그가 방금까지 그리던 그림의 유령을 힐끗 보았다. 종이컵을 감싼 한 쌍의 손, 김은 세 줄로만 암시되어 있었다.
+
+그가 얼굴을 그리는지, 아니면 얼굴이 너무 강하게 되돌아보는지 궁금했다. 그는 어려운 형태는 나중으로 미루는 사람처럼 보였다.
+
+그 뒤로 밤들이 줄줄이 꿰어졌다. 염주알처럼.
+
+화요일에는 낯선 이들이 가구가 될 만큼 붐볐다. 헤더는 노선도 옆 자리를 골랐다. 거기선 안내 방송이 더 컸지만 여전히 또렷하진 않았다. "다운타운 행 열차는… 죄송합니다, 전부 다요." 그는 또 있었다. 같은 자리, 무릎 위 스케치북, 소음 속에서도 찾아 들을 수 있는 연필의 리듬. 이번에는 신발을 그리고 있었다—닳은 부츠, 정성스러운 끈, 한쪽 뒤꿈치가 반 걸음 들린 자세. 열차가 흔들릴 때만 잠깐 고개를 들었고, 그래도 손가락 하나를 페이지 위에 얹어, 세상이 자신이 안 보는 사이 움직이지 않도록 못질이라도 하듯 버텼다.
+
+*어디에 앉는지가 사람을 말해 준다,* 그녀는 썼다. *그는 떠나기 쉬운 자리에 앉는다.*
+
+수요일, 역은 지하실 같은 온기로 따뜻했다. 버스커는 사랑 노래를 음계 연습으로 바꾸어놓았다. 헤더의 머리카락에는 하루 내내 밴 커피 냄새가 완고한 향수처럼 남아 있었다. 그녀는 기둥을 찾기 전에 그를 먼저 보았다—코트, 목도리, 차칸 안에서도 날씨가 들이닥칠 수 있기에 페이지를 지키려 몸을 살짝 접은 자세. 근처 아이 하나가 마술사나 간식 장수를 대하듯 경외심으로 그를 바라봤다. 아이가 너무 가까이 다가오자, 그의 손이 잠깐 허공에 머물렀다가, 더 느리게 다시 움직였다. 숨기는 건 아니다—내주지 않을 뿐.
+
+헤더는 자기 이야기를 한 문장 쓰려다 실패했고, 그에 대한 문장을 쓰자 가슴 한쪽에서 안도의 종소리가 맑게 울렸다.
+*그는 선을 따라 덧그리지 않는다. 선과 흥정한다.*
+
+목요일, 열차가 늦자 낯선 이들이 동맹이 되었다. 모두가 조금씩 승강장 가장자리로 기울었고, 비명을 지르듯 들어오는 칸을 보면서도 아무도 서두르지 않는 척했다. 헤더는 그의 자리 가까이에 서게 되었다. 종이가 또렷이 보였다—두툼하고 거친 결; 스티커가 있었다가 떼어져 생긴 작은 흠집. 그는 창에 비친 것들을 그리고 있었다—차칸 안의 모두로 만들어낸 두 번째, 더 옅은 객차. 부드러운 모자를 쓰고 화분을 안은 여자. 부끄러움 없이 꾸벅꾸벅 졸고 있는 남자. 그리고, 더 용감하거나 더 지쳐 보이는 자신을 닮은 누군가의 광대뼈 곡선과 콧망울의 부풀음을 빠르게 스케치했다.
+
+열차가 급히 흔들렸다. 그의 연필이 미끄러져 굴렀다. 헤더의 신발이 그것을 멈췄다. 그녀는 발끝으로 살짝 밀어 되돌려 주었다. 둘은 동시에 손을 뻗다가, 동시에 멈췄다—예의라는 이름의 엇갈림. 그래도 연필은 그의 손바닥으로 돌아갔다. 그는 잠깐—정말 한숨만큼의 시간—고개를 들었다. 차칸의 무심한 조명 아래 눈동자는 회색이었다. 고갯짓 하나—고맙다는 뜻일 수도, 그냥 아무 것도 아닐 수도. 헤더는 도시가 쓰는 얇은 미소로 답했다. 당신은 보였고, 당신은 안전하다.
+
+금요일은 눈을 내려다 말았다. 차칸은 평소보다 한산했다. 그는 늘 앉던 자리에 앉아 있었다. 헤더는 맞은편에 앉았다. 더는 서서 하루를 버틸 힘이 없을 때 고르는 자리였다. 조금 가까워진 평행선. 그는 연필을 바꿨다. 이번 것은 소리가 더 부드러웠다. 그는 문 옆 광고의 모서리를 그렸지만, 그 안의 얼굴은 그리지 않았다—종이 위에서도 누구에게도 아무것도 팔지 않으려는 듯.
+
+그녀가 없어도 캐모마일은 팁 통 옆에서 식고 있을 것이다. 익숙한 작은 무게처럼 떠올랐다가, 다시 그녀를 홀로 두고 사라졌다.
+
+그녀는 차의 흔들림에 몸을 맡기고, 스스로의 규칙을 깨고서, 그의 머릿속을—그가 스케치북 안을 아는 것처럼—상상해 보았다. 드라마가 아니라 목록. 찌그러진 뚜껑의 흑연 틴, 한 번만 접어 떼어낸 종이들, 한쪽이 살짝 들린 등쪽 테이프, 그리고 그 모든 것을 작은 짐승 다루듯 따뜻하게 안고 다니는 버릇.
+
+그녀는 썼다. 너무 쉽게 흘러나와, 스스로가 놀랄 만큼.
+*아직 만나지 않은 누군가를 기억하듯 그림을 그리는 남자가 있다.*
+
+3월에서 빌려온 듯한 일요일 밤, 버스커는 일주일 내내 헤매던 멜로디를 마침내 찾았다. 역은 아무렇지 않은 척하지 않고 조용히 모여들어 들었다. 헤더는 노란 선 앞에 섰다. 열차가, 성급하고도 안도하는 표정으로 들어왔다. 그녀가 차칸에 오르자, 그가 있었다. 같은 자리, 같은 얼굴, 빈 페이지를 펼쳐둔 스케치북.
+
+잠깐, 그의 연필은 움직이지 않았다.
+
+그는 세상이 아직도 세상인지 확인하듯 고개를 들었다. 그녀의 얼굴을 스치고, 멈추고, 돌아왔다. 헤더는 웃지 않았다. 자신의 자리를, 그의 그림 속 승객이 아니라 그의 시야 속 사람으로 허락했다. 셋까지 셌다. 시선을 먼저 거두고, 변명할 수 있을 만큼 작게 적었다.
+
+*［라스트 트레인, #1］*
+*보이는 것과 아는 것은 다르다. 그래도 사라지는 것보다는 낫다.*
+
+그녀는 그 문장을 덮었다. 시작의 모양을 가진 문장이었다. 어딘가 지하 어둠 속에서, 누군가에게는 마지막 열차가 덜컹거리며 지나가, 몇몇 얼굴들을 그들이 향한다고 믿는 곳에 조금 더 가까이 데려다놓고 있었다. 헤더는 창에 모였다 흩어지는 반사를 바라보았다. 그 너머, 터널은 부드럽고 끝도 없는 입처럼 이어졌다.
+
+그는 페이지를 넘겼다. 연필이 다시 시작했다. 작은 소리였다. 막 비가 내리기로 마음먹는 순간 같은.`,
+      },
+    },
   ],
 };
