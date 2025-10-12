@@ -1,17 +1,24 @@
+export type Language = "en" | "ko";
+
+export interface LocalizedText {
+  en: string;
+  ko?: string;
+}
+
 export interface Chapter {
   id: string;
   number: number;
-  title: string;
-  content: string;
+  title: LocalizedText;
+  content: LocalizedText;
   publishDate: string;
 }
 
 export interface Novel {
-  title: string;
+  title: LocalizedText;
   author: string;
-  description: string;
-  genre: string;
-  status: string;
+  description: LocalizedText;
+  genre: LocalizedText;
+  status: LocalizedText;
   lastUpdated: string;
   chapters: Chapter[];
 }
