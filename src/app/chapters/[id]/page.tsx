@@ -10,6 +10,31 @@ function getText(text: LocalizedText | string, lang: "en" | "ko"): string {
   return text[lang] || text.en;
 }
 
+function parseMarkdown(text: string) {
+  const parts: (string | JSX.Element)[] = [];
+  let lastIndex = 0;
+  const regex = /\*([^*]+)\*/g;
+  let match;
+  let key = 0;
+
+  while ((match = regex.exec(text)) !== null) {
+    // Add text before the match
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index));
+    }
+    // Add the italic text
+    parts.push(<em key={key++}>{match[1]}</em>);
+    lastIndex = regex.lastIndex;
+  }
+
+  // Add remaining text
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex));
+  }
+
+  return parts.length > 0 ? parts : text;
+}
+
 export default function ChapterPage({ params }: { params: { id: string } }) {
   const { language } = useLanguage();
   const chapter = novel.chapters.find((ch) => ch.id === params.id);
@@ -70,7 +95,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
           .split("\n\n")
           .map((paragraph, index) => (
             <p key={index} className="mb-4 leading-relaxed">
-              {paragraph}
+              {parseMarkdown(paragraph)}
             </p>
           ))}
       </div>
