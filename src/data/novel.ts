@@ -646,6 +646,130 @@ The studio thinned to hums. He lay down and let the day flatten—no layers, no 
 스튜디오는 다시 작은 소음들만 남겼다. 그는 몸을 눕혀 하루를 납작하게 폈다. 겹도, 가림도 없이. 종이 한 장. 공유하지 않음.`,
       },
     },
+    {
+      id: "5",
+      number: 5,
+      title: {
+        en: "People Who Don't Speak",
+        ko: "말하지 않는 사람들",
+      },
+      publishDate: "2025-10-13",
+      content: {
+        en: `Ten minutes to close, the owner started talking the way he always did when the room thinned—hands making patient circles over the counter, voice softened by steam that had already been shut off.
+“You read her yet?” he asked Heather, as if they’d been mid-conversation. “Came out of nowhere. Two bestsellers, then she vanished. No jacket photo. Pen name. A ghost, but the good kind.”
+He didn’t wait for her answer. “There’s this line I keep thinking about—something like, ‘A man who taps the table twice before speaking, to check if it can hold his words.’ I swear I see him in here sometimes. Not him-him, just…someone like that.” He smiled at the empty seats. “Feels like she wrote this place.”
+Heather smoothed a stack of lids that didn’t need smoothing. “Sounds good,” she said.
+“What do you think happens to a writer like that?” he went on. “Burned out? Or sitting in a café somewhere, recharging by watching us?” He shrugged. “Either way, she knows people.”
+She smiled like it belonged to someone else. “Maybe she’s just quiet.”
+When he moved off to check the back door, Heather wrote in her pocket notebook and bracketed it so it wouldn’t count:
+[Last Train, #2] Some books leave on purpose. Some writers too.
+She killed the lights in sections and let the bell use up its last small voice. The café had a recessed doorway, a little pocket that kept air longer than it should. On the threshold, the wood frame held the day’s smells in layers: citrus cleaner, espresso, paper. Something else skimmed the edge—clean cedar with a bright thread she couldn’t name. Familiar, for no reason she could explain. It lifted as she stepped out, like it had only just been passing through.
+Down the stairs, into the tiled throat. The screen promised two minutes, meaning anywhere from one to four. Wind came first, then the long metal vowel that turns into a train if you trust it. She stepped into the car and into the same rectangle of air—two shoes from the pole, one tile off the door seam.
+Same seat, same face. He had the short end seat by the door that only sometimes opened. The sketchbook rested open on his knee, a pencil sleeping across the seam like a bridge he hadn’t decided to cross. A graphite crescent lived under his thumbnail, the kind you earn by drawing the day.
+The car tilted. The pencil slid across his knee toward the aisle. Her glove found it before gravity could finish its thought and stopped it with the unshowy authority of wool.
+He looked up because gravity asked him to. She didn’t look down because that would have been an admission. They let go at the same beat, a practiced handoff with no rehearsal. She adjusted her wrist so it wouldn’t brush his knee. That narrow adjustment was the entire conversation.
+—
+The week learned them.
+On Monday, he nudged his bag under the seat to his left, clearing the triangle of floor by the pole she liked to claim—an ordinary kindness pretending to be logistics. Without looking up, he checked the door light; his shoe tapped twice, a habit from a book he’s read more than once.
+On Tuesday, the ad panel threw a ghost car onto the window so their faces met only in glass, almost aligned in that other train while the real them kept their parallel angles.
+On Wednesday, as the car pulled out of Prince toward Canal, a tourist under the route map asked, “Does this stop at Canal?” and they both said “Yeah” at the same time. The brake squeal ate the sound before anyone could hear it—even them. Each stepped half a shoe back, as if giving the word its own space to cool.
+—
+Thursday rearranged everything by doing nothing.
+A suitcase apology at the staircase took longer than the suitcase. Heather missed her usual car and boarded one that smelled like too much cologne and someone losing an argument quietly. She held a pole no one had warmed yet and tried not to perform absence.
+On his car, he stayed seated, and set his bag left anyway. His eyes kept returning to the saved inch of metal where a glove should have been. When the doors breathed at Prince, his shoulders half-turned—then settled, like a question put back on the shelf. He opened the sketchbook on his knee and drew the margin—the clean-neglected strip of pole where palms get edited out. He set the point down and lifted it again, leaving a single dot where a hand should start. He drew the air around a missing wrist, the span his thumb had started to measure without permission. Negative space said the thing the pencil didn’t know how to. When Canal’s curve asked the car to lean, he breathed as if to speak and let the breath pass. The three-line receipt disappeared deeper into his coat pocket. Rule 12 kept its promise.
+That night, Heather wrote nothing. The owner’s earlier voice drifted up when the apartment went quiet—no photo, pen name—and then dropped away. She fell asleep with a sentence still moving.
+—
+Friday fixed nothing. It didn’t try. That felt merciful.
+They shared the train with the careful neutrality of people who had successfully pretended not to miss each other. At Prince, his knee moved one degree; at Canal, she tipped her shoulder so the strap wouldn’t swipe his coat. Their diplomacy lived in millimeters. No one thanked anyone. It was perfect.
+—
+Sunday made a small new sound.
+At closing, a couple built the scaffolding of a fight with a muffin as the central pillar and handed the ruins back to Heather to throw away. On the far wall, a flake of bubbled paint had curled at the edges, considering gravity. She turned the sign. The recessed doorway kept smells like a pocket; cedar with something bright hung there a beat longer than the street allowed. Not the café, not her. Familiar, without a memory attached. She let it pass and took the stairs with the lightness people confuse with ease.
+The screen’s promises improved to “arriving,” then reconsidered. When the train finally sighed open, the car had already learned her outline. He moved his bag beneath his feet, and the rectangle of floor by the pole was hers again. She stepped into it. The doors closed with their patient annoyance.
+For two stops their breathing matched by accident. When the car tilted, they tilted. When it steadied, they steadied. It was like standing on a boat with someone and trusting them not to point it out.
+The ad panel above them reflected their silhouettes onto the opposite window—a ghost car keeping pace. In that moving mirror, their faces almost faced. In the real car, they looked at the same not-quite thing. He wiped a thin line of graphite off his thumb onto his jeans, a diagonal comma no one would read.
+He cleared his throat because bodies require noise. She adjusted her scarf because hands require errands. The movement bounced their attention off each other and away again. Not a smile, not exactly—a rehearsal that decided against opening night.
+At 14th, the car performed a small shuffle as everyone organized themselves toward different futures. He stood first, not urgently, leaving space behind him that could be followed without being taken. She stayed until the last second the doors would allow and then chose the farther exit. Parallel departures are still a kind of together.
+Back at street level, the city was the same shade everywhere. She walked past her own window and saw the bubbled paint catching a weak square of light. Inside, napkins waited under the register—square, blank, more dangerous than they looked.
+[Last Train, #5] I don’t know his name. I know where he breathes when the car turns.
+She didn’t post it. She closed the notebook and let her thigh remember the weight.
+Across town, a desk lamp clicked off. A pencil settled across the seam of a closed book like a bridge kept ready. Somewhere between stations, air learned the shape of two people who hadn’t spoken and still said something. The train kept the grammar for them, safe and mechanical, until they were ready to hear it.`,
+        ko:`영업 종료 10분 전, 가게가 한산해지면 늘 그러듯, 주인은 카운터 위에서 손으로 느릿한 원을 그리며, 이미 꺼 둔 스팀의 잔열처럼 낮아진 목소리로 말을 꺼냈다.
+
+“그 작가 읽어봤어?” 그가 헤더에게, 마치 이야기 도중이기라도 한 듯 물었다. “갑자기 나타나서 베스트셀러 두 권 내고는 사라졌지. 표지 사진도 없고, 필명. 유령 같아. 좋은 쪽으로.”
+
+그는 대답을 기다리지 않았다. “자꾸 생각나는 문장이 있어. ‘말하기 전에 탁자를 두 번 두드린다. 자기 말의 무게를 버틸 수 있는지 확인하듯.’ 가끔 이 안에서 그 사람이 보여. 그 사람 그대로가 아니라, 그냥… 그런 느낌의 누군가.” 그는 빈 의자들을 보며 웃었다. “이 가게를 그 사람이 쓴 것 같아.”
+
+헤더는 다듬을 필요도 없는 뚜껑 더미를 매끈하게 맞췄다. “좋은데요,” 하고 말했다.
+
+“그런 작가는 나중에 어떻게 될까?” 그는 말을 이었다. “번아웃? 아니면 어딘가 카페에 앉아 우리 구경하면서 충전 중? 뭐 어쨌든, 사람을 아는 사람이더라.”
+
+헤더는 자기 것 같지 않은 미소를 지었다. “아마 그냥 조용한 사람일지도요.”
+
+그가 뒷문을 확인하러 물러나자, 헤더는 주머니 노트를 꺼내 한 줄 적고, 진짜가 되지 않도록 괄호로 감쌌다:
+
+[Last Train, #2] 어떤 책들은 일부러 떠난다. 어떤 작가들도.
+
+불을 구역마다 끄고, 종이 마지막 작은 목소리를 다 써 버리도록 내버려 두었다. 카페 입구는 안으로 움푹 들어가 있어, 공기를 필요 이상 오래 붙잡는 작은 주머니 같았다. 문턱의 나무 틀엔 하루의 냄새가 층층이 남아 있었다. 시트러스 세제, 에스프레소, 종이. 그 끝에 다른 것이 스쳤다—깨끗한 삼나무에 밝은 실 한 올. 이유 없이 익숙하고, 설명할 수 없이 편안했다. 막 지나가던 것처럼, 그녀가 한 발 나서자 그 냄새는 가볍게 풀렸다.
+
+계단을 내려가, 타일로 된 목구멍 속으로. 전광판은 ‘2분’을 약속했지만, 그건 1에서 4 사이 어디쯤을 뜻했다. 먼저 바람이 오고, 믿어 주면 기차가 되는 긴 금속 모음이 뒤따랐다. 그녀는 칸에 올라, 늘 그 사각형의 공기 속으로 섰다—기둥에서 두 발, 문 이음새에서 타일 한 칸.
+
+같은 자리, 같은 얼굴. 그는 가끔만 열리는 문 옆 끝자리에 앉아 있었다. 스케치북이 그의 무릎 위에 펼쳐져 있었고, 미정의 다리처럼 접힌 선 위에 연필이 누워 있었다. 엄지손톱 아래엔 하루를 그린 사람에게 생기는, 초승달 모양의 흑연 자국이 살고 있었다.
+
+열차가 한쪽으로 기울었다. 연필이 그의 무릎을 타고 통로 쪽으로 미끄러졌다. 그녀의 장갑이, 중력의 생각이 끝나기도 전에 그 움직임을 가만히 멈췄다. 요란하지 않은 양모의 권위로.
+
+그는 중력의 요청 때문에 올려다봤다. 그녀는 고개를 내리지 않았다. 그건 인정이 될 것 같아서. 둘은 같은 박자에 놓았다. 리허설 없이도 맞춰지는 바통 터치처럼. 그녀는 손목을 조금 틀어 그의 무릎에 스치지 않게 했다. 그 좁은 조정이 전부였다. 대화의 전부.
+
+—
+
+한 주가 그들을 익혔다.
+
+월요일, 그는 왼쪽 좌석 아래로 가방을 밀어 넣어, 그녀가 좋아하는 기둥 옆 삼각형 바닥을 비워 두었다—물류인 척하는 평범한 친절. 그는 고개도 들지 않고 문 불빛을 확인했고, 신발이 두 번, ‘탁 탁’ 소리를 냈다. 여러 번 읽은 책에서 배어든 습관처럼.
+
+화요일, 광고 패널이 창에 유령 같은 또 한 대의 열차를 비춰, 그 속에서만 두 사람의 얼굴이 거의 겹쳤다. 현실의 그들은 각자의 각도를 그대로 지켰다.
+
+수요일, 열차가 프린스에서 캐널로 빠져나갈 때, 노선도 아래 서 있던 관광객이 물었다. “여기서 캐널 가요?” 두 사람은 동시에 “네”라고 답했다. 브레이크의 비명이 그 겹친 소리를—그들 스스로조차—삼켜 버렸다. 둘은 반 발씩 물러섰다. 하나의 단어가 식을 자리를 내주듯.
+
+—
+
+목요일은 아무것도 하지 않음으로써 모든 것을 바꿨다.
+
+계단에서 캐리어를 끌던 이가 연신 “죄송해요” 하며 길을 막았다. 사과가 캐리어보다 더 오래 걸렸다. 헤더는 늘 타는 칸을 놓치고, 향수가 과한 데다 누군가 조용히 다투는 냄새가 배인 다른 칸에 올랐다. 아직 누구의 손도 데우지 않은 기둥을 잡고, 부재를 공연하지 않으려 했다.
+
+그의 칸에서 그는 그대로 앉아, 그래도 가방을 왼쪽으로 밀어 두었다. 그의 시선은 자꾸 그 한 치 남겨 둔 금속으로 돌아갔다. 그곳엔 장갑 낀 손이 있어야 했다. 프린스에 닿아 문이 숨을 들이쉴 때, 그의 어깨가 반쯤 돌아갔다가—선반에 올려둔 질문처럼—다시 가라앉았다. 그는 무릎 위 스케치북을 열고 여백을 그렸다—손바닥들이 늘 지워지는, 기둥 옆 깨끗-방치된 띠. 그는 펜촉을 한 번 찍고 들어 올려, 손이 시작될 자리에 점 하나를 남겼다. 보이지 않는 손목 둘레의 공기를 그렸고, 어느새 엄지가 허락도 없이 재기 시작한 그 너비를 그렸다. 부재가, 연필이 알지 못하는 말을 대신해 주었다. 캐널로 도는 곡선이 객차를 기울게 했을 때, 그는 마치 말을 꺼낼 듯 숨을 들이켰다가 흘려보냈다. 세 줄짜리 영수증은 코트 주머니 깊숙이 더 사라졌다. 규칙 12는 약속을 지켰다.
+
+그날 밤, 헤더는 아무것도 쓰지 않았다. 집이 조용해지자, 주인의 낮은 목소리가—사진도 없고, 필명—하고 떠올랐다가 가라앉았다. 그녀는 아직 진행 중인 문장과 함께 잠들었다.
+
+—
+
+금요일은 아무것도 고치지 않았다. 그럴 생각도 없었다. 그래서 오히려 자비로웠다.
+
+둘은 서로 그리워하지 않은 척 성공한 사람들처럼 조심스러운 중립으로 같은 열차를 탔다. 프린스에서 그의 무릎이 한 도 만큼 옆으로 움직이고, 캐널에서 그녀가 어깨를 비껴 가방 끈이 그의 코트를 스치지 않게 했다. 외교는 밀리미터 단위로 진행됐다. 누구도 아무에게도 고맙다고 하지 않았다. 완벽했다.
+
+—
+
+일요일은 작은 새로운 소리를 냈다.
+
+마감 직전, 한 커플이 머핀을 기둥 삼아 싸움의 비계를 세웠다가, 그 잔해를 헤더에게 건네며 버려 달라고 했다. 맞은편 벽의 부풀어 오른 페인트 조각은 모서리가 말려, 중력을 생각하는 중이었다. 그녀는 사인을 돌렸다. 움푹 들어간 문간은 냄새를 주머니처럼 붙잡았고, 삼나무에 밝은 한 줄기가 얹힌 향이 거리보다 한 박자 더 머물렀다. 카페도, 그녀도 아닌 냄새. 기억과 연결되지 않은 익숙함. 그녀는 그대로 지나치고, 사람들이 종종 ‘편안함’과 혼동하는 가벼움으로 계단을 내려갔다.
+
+전광판의 약속은 ‘도착’에 가까워졌다가, 다시 생각을 바꿨다. 마침내 기차가 한숨처럼 문을 열었을 때, 칸은 이미 그녀의 윤곽을 기억하고 있었다. 그는 발밑으로 가방을 밀어 넣었고, 기둥 곁 사각형 바닥은 다시 그녀의 자리가 됐다. 그녀는 그 안으로 섰다. 문은 늘 그렇듯 참을성 있게 짜증을 냈다.
+
+두 정거장 동안, 두 사람의 호흡이 우연히 맞았다. 칸이 기울면 함께 기울고, 바로 서면 함께 바로 섰다. 누군가와 배 위에 서 있으면서, 굳이 말하지 않기로 서로를 믿는 느낌이었다.
+
+머리 위 광고 패널이 반대쪽 창에 그들의 실루엣을 비쳤다—속도를 맞추는 유령 열차. 그 움직이는 거울 속에서, 두 얼굴은 거의 마주 보는 듯했다. 현실 속의 그들은 같은 ‘거의’를 바라봤다. 그는 엄지의 가느다란 흑연 자국을 청바지에 문질러 지웠다. 아무도 읽지 못할 대각선의 쉼표.
+
+몸은 가끔 소음을 필요로 해서, 그는 가볍게 헛기침을 했다. 손도 심부름이 필요해서, 그녀는 목도리를 만졌다. 그 움직임은 서로를 스쳐, 다시 멀어지게 했다. 웃음은 아니었다. 정확히 말하면—개막을 미룬 리허설 같았다.
+
+14번가에서, 사람들 각자의 미래를 향해 정리하듯 칸이 작은 몸놀림을 했다. 그는 먼저 일어섰지만 서두르지 않았고, 뒤를 따를 수도 있고 그냥 둘 수도 있는 간격을 남겼다. 그녀는 문이 허락하는 마지막 순간까지 있다가 더 먼 출구를 골랐다. 나란히 떠나는 것도 함께의 한 형태다.
+
+지상으로 올라오니, 도시의 색은 어디나 같았다. 그녀는 자기 가게 창을 지나며, 약하게 떨어지는 사각빛을 잡아먹는 부풀어진 페인트 조각을 보았다. 계산대 아래, 네모난 냅킨들이 기다리고 있었다—하얗고, 빈칸이고, 보기보다 위험한 것들.
+
+[Last Train, #5] 나는 그의 이름을 모른다. 열차가 돌아설 때 그가 어디에서 숨 쉬는지만 안다.
+
+그녀는 올리지 않았다. 노트를 닫고, 허벅지가 그 무게를 기억하게 했다.
+
+도시 반대편 어딘가에서, 책상 조명이 ‘딸깍’ 꺼졌다. 닫힌 책의 접힌 선 위로 연필이 다리처럼 얹혀 제자리를 찾았다. 역과 역 사이 어딘가에서, 말하지 않은 두 사람의 모양을 공기가 먼저 배웠다. 기차는 그들의 문법을, 그들이 들을 준비가 될 때까지, 안전하고 기계적으로 보관해 주었다.`,
+      },
+    },
   ],
   },
   {
