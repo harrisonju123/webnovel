@@ -656,43 +656,80 @@ The studio thinned to hums. He lay down and let the day flatten—no layers, no 
       publishDate: "2025-10-13",
       content: {
         en: `Ten minutes to close, the owner started talking the way he always did when the room thinned—hands making patient circles over the counter, voice softened by steam that had already been shut off.
-“You read her yet?” he asked Heather, as if they’d been mid-conversation. “Came out of nowhere. Two bestsellers, then she vanished. No jacket photo. Pen name. A ghost, but the good kind.”
-He didn’t wait for her answer. “There’s this line I keep thinking about—something like, ‘A man who taps the table twice before speaking, to check if it can hold his words.’ I swear I see him in here sometimes. Not him-him, just…someone like that.” He smiled at the empty seats. “Feels like she wrote this place.”
-Heather smoothed a stack of lids that didn’t need smoothing. “Sounds good,” she said.
-“What do you think happens to a writer like that?” he went on. “Burned out? Or sitting in a café somewhere, recharging by watching us?” He shrugged. “Either way, she knows people.”
-She smiled like it belonged to someone else. “Maybe she’s just quiet.”
-When he moved off to check the back door, Heather wrote in her pocket notebook and bracketed it so it wouldn’t count:
+
+"You read her yet?" he asked Heather, as if they'd been mid-conversation. "Came out of nowhere. Two bestsellers, then she vanished. No jacket photo. Pen name. A ghost, but the good kind."
+
+He didn't wait for her answer. "There's this line I keep thinking about—something like, 'A man who taps the table twice before speaking, to check if it can hold his words.' I swear I see him in here sometimes. Not him-him, just…someone like that." He smiled at the empty seats. "Feels like she wrote this place."
+
+Heather smoothed a stack of lids that didn't need smoothing. "Sounds good," she said.
+
+"What do you think happens to a writer like that?" he went on. "Burned out? Or sitting in a café somewhere, recharging by watching us?" He shrugged. "Either way, she knows people."
+
+She smiled like it belonged to someone else. "Maybe she's just quiet."
+
+When he moved off to check the back door, Heather wrote in her pocket notebook and bracketed it so it wouldn't count:
+
 [Last Train, #2] Some books leave on purpose. Some writers too.
-She killed the lights in sections and let the bell use up its last small voice. The café had a recessed doorway, a little pocket that kept air longer than it should. On the threshold, the wood frame held the day’s smells in layers: citrus cleaner, espresso, paper. Something else skimmed the edge—clean cedar with a bright thread she couldn’t name. Familiar, for no reason she could explain. It lifted as she stepped out, like it had only just been passing through.
+
+She killed the lights in sections and let the bell use up its last small voice. The café had a recessed doorway, a little pocket that kept air longer than it should. On the threshold, the wood frame held the day's smells in layers: citrus cleaner, espresso, paper. Something else skimmed the edge—clean cedar with a bright thread she couldn't name. Familiar, for no reason she could explain. It lifted as she stepped out, like it had only just been passing through.
+
 Down the stairs, into the tiled throat. The screen promised two minutes, meaning anywhere from one to four. Wind came first, then the long metal vowel that turns into a train if you trust it. She stepped into the car and into the same rectangle of air—two shoes from the pole, one tile off the door seam.
-Same seat, same face. He had the short end seat by the door that only sometimes opened. The sketchbook rested open on his knee, a pencil sleeping across the seam like a bridge he hadn’t decided to cross. A graphite crescent lived under his thumbnail, the kind you earn by drawing the day.
+
+Same seat, same face. He had the short end seat by the door that only sometimes opened. The sketchbook rested open on his knee, a pencil sleeping across the seam like a bridge he hadn't decided to cross. A graphite crescent lived under his thumbnail, the kind you earn by drawing the day.
+
 The car tilted. The pencil slid across his knee toward the aisle. Her glove found it before gravity could finish its thought and stopped it with the unshowy authority of wool.
-He looked up because gravity asked him to. She didn’t look down because that would have been an admission. They let go at the same beat, a practiced handoff with no rehearsal. She adjusted her wrist so it wouldn’t brush his knee. That narrow adjustment was the entire conversation.
+
+He looked up because gravity asked him to. She didn't look down because that would have been an admission. They let go at the same beat, a practiced handoff with no rehearsal. She adjusted her wrist so it wouldn't brush his knee. That narrow adjustment was the entire conversation.
+
 —
+
 The week learned them.
-On Monday, he nudged his bag under the seat to his left, clearing the triangle of floor by the pole she liked to claim—an ordinary kindness pretending to be logistics. Without looking up, he checked the door light; his shoe tapped twice, a habit from a book he’s read more than once.
+
+On Monday, he nudged his bag under the seat to his left, clearing the triangle of floor by the pole she liked to claim—an ordinary kindness pretending to be logistics. Without looking up, he checked the door light; his shoe tapped twice, a habit from a book he's read more than once.
+
 On Tuesday, the ad panel threw a ghost car onto the window so their faces met only in glass, almost aligned in that other train while the real them kept their parallel angles.
-On Wednesday, as the car pulled out of Prince toward Canal, a tourist under the route map asked, “Does this stop at Canal?” and they both said “Yeah” at the same time. The brake squeal ate the sound before anyone could hear it—even them. Each stepped half a shoe back, as if giving the word its own space to cool.
+
+On Wednesday, as the car pulled out of Prince toward Canal, a tourist under the route map asked, "Does this stop at Canal?" and they both said "Yeah" at the same time. The brake squeal ate the sound before anyone could hear it—even them. Each stepped half a shoe back, as if giving the word its own space to cool.
+
 —
+
 Thursday rearranged everything by doing nothing.
+
 A suitcase apology at the staircase took longer than the suitcase. Heather missed her usual car and boarded one that smelled like too much cologne and someone losing an argument quietly. She held a pole no one had warmed yet and tried not to perform absence.
-On his car, he stayed seated, and set his bag left anyway. His eyes kept returning to the saved inch of metal where a glove should have been. When the doors breathed at Prince, his shoulders half-turned—then settled, like a question put back on the shelf. He opened the sketchbook on his knee and drew the margin—the clean-neglected strip of pole where palms get edited out. He set the point down and lifted it again, leaving a single dot where a hand should start. He drew the air around a missing wrist, the span his thumb had started to measure without permission. Negative space said the thing the pencil didn’t know how to. When Canal’s curve asked the car to lean, he breathed as if to speak and let the breath pass. The three-line receipt disappeared deeper into his coat pocket. Rule 12 kept its promise.
-That night, Heather wrote nothing. The owner’s earlier voice drifted up when the apartment went quiet—no photo, pen name—and then dropped away. She fell asleep with a sentence still moving.
+
+On his car, he stayed seated, and set his bag left anyway. His eyes kept returning to the saved inch of metal where a glove should have been. When the doors breathed at Prince, his shoulders half-turned—then settled, like a question put back on the shelf. He opened the sketchbook on his knee and drew the margin—the clean-neglected strip of pole where palms get edited out. He set the point down and lifted it again, leaving a single dot where a hand should start. He drew the air around a missing wrist, the span his thumb had started to measure without permission. Negative space said the thing the pencil didn't know how to. When Canal's curve asked the car to lean, he breathed as if to speak and let the breath pass. The three-line receipt disappeared deeper into his coat pocket. Rule 12 kept its promise.
+
+That night, Heather wrote nothing. The owner's earlier voice drifted up when the apartment went quiet—no photo, pen name—and then dropped away. She fell asleep with a sentence still moving.
+
 —
-Friday fixed nothing. It didn’t try. That felt merciful.
-They shared the train with the careful neutrality of people who had successfully pretended not to miss each other. At Prince, his knee moved one degree; at Canal, she tipped her shoulder so the strap wouldn’t swipe his coat. Their diplomacy lived in millimeters. No one thanked anyone. It was perfect.
+
+Friday fixed nothing. It didn't try. That felt merciful.
+
+They shared the train with the careful neutrality of people who had successfully pretended not to miss each other. At Prince, his knee moved one degree; at Canal, she tipped her shoulder so the strap wouldn't swipe his coat. Their diplomacy lived in millimeters. No one thanked anyone. It was perfect.
+
 —
+
 Sunday made a small new sound.
+
 At closing, a couple built the scaffolding of a fight with a muffin as the central pillar and handed the ruins back to Heather to throw away. On the far wall, a flake of bubbled paint had curled at the edges, considering gravity. She turned the sign. The recessed doorway kept smells like a pocket; cedar with something bright hung there a beat longer than the street allowed. Not the café, not her. Familiar, without a memory attached. She let it pass and took the stairs with the lightness people confuse with ease.
-The screen’s promises improved to “arriving,” then reconsidered. When the train finally sighed open, the car had already learned her outline. He moved his bag beneath his feet, and the rectangle of floor by the pole was hers again. She stepped into it. The doors closed with their patient annoyance.
+
+The screen's promises improved to "arriving," then reconsidered. When the train finally sighed open, the car had already learned her outline. He moved his bag beneath his feet, and the rectangle of floor by the pole was hers again. She stepped into it. The doors closed with their patient annoyance.
+
 For two stops their breathing matched by accident. When the car tilted, they tilted. When it steadied, they steadied. It was like standing on a boat with someone and trusting them not to point it out.
+
 The ad panel above them reflected their silhouettes onto the opposite window—a ghost car keeping pace. In that moving mirror, their faces almost faced. In the real car, they looked at the same not-quite thing. He wiped a thin line of graphite off his thumb onto his jeans, a diagonal comma no one would read.
+
 He cleared his throat because bodies require noise. She adjusted her scarf because hands require errands. The movement bounced their attention off each other and away again. Not a smile, not exactly—a rehearsal that decided against opening night.
+
 At 14th, the car performed a small shuffle as everyone organized themselves toward different futures. He stood first, not urgently, leaving space behind him that could be followed without being taken. She stayed until the last second the doors would allow and then chose the farther exit. Parallel departures are still a kind of together.
+
 Back at street level, the city was the same shade everywhere. She walked past her own window and saw the bubbled paint catching a weak square of light. Inside, napkins waited under the register—square, blank, more dangerous than they looked.
-[Last Train, #5] I don’t know his name. I know where he breathes when the car turns.
-She didn’t post it. She closed the notebook and let her thigh remember the weight.
-Across town, a desk lamp clicked off. A pencil settled across the seam of a closed book like a bridge kept ready. Somewhere between stations, air learned the shape of two people who hadn’t spoken and still said something. The train kept the grammar for them, safe and mechanical, until they were ready to hear it.`,
+
+[Last Train, #5] I don't know his name. I know where he breathes when the car turns.
+
+She didn't post it. She closed the notebook and let her thigh remember the weight.
+
+Across town, a desk lamp clicked off. A pencil settled across the seam of a closed book like a bridge kept ready. Somewhere between stations, air learned the shape of two people who hadn't spoken and still said something. The train kept the grammar for them, safe and mechanical, until they were ready to hear it.`,
         ko:`영업 종료 10분 전, 가게가 한산해지면 늘 그러듯, 주인은 카운터 위에서 손으로 느릿한 원을 그리며, 이미 꺼 둔 스팀의 잔열처럼 낮아진 목소리로 말을 꺼냈다.
 
 “그 작가 읽어봤어?” 그가 헤더에게, 마치 이야기 도중이기라도 한 듯 물었다. “갑자기 나타나서 베스트셀러 두 권 내고는 사라졌지. 표지 사진도 없고, 필명. 유령 같아. 좋은 쪽으로.”
