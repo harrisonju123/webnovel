@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { LanguageProvider } from "./contexts/LanguageContext";
 import LanguageSwitcher from "./components/LanguageSwitcher";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "Midnightly1's Stories",
@@ -34,6 +35,7 @@ export default function RootLayout({
             </div>
           </footer>
         </LanguageProvider>
+        <Analytics />
       </body>
     </html>
   );
