@@ -557,8 +557,8 @@ She closed the cover and left her palm there a second, claiming the heat she cou
   {
     id: "gather-wisdom",
     title: {
-      en: "Untitled",
-      ko: "지혜로운 곳에 모여라 (근데 나는 빠졌음)",
+      en: "What's so Weird About that?",
+      ko: "이게 왜 이상해요?",
     },
     author: "Midnightly1",
     description: {
