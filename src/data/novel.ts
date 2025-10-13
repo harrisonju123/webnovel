@@ -1,5 +1,6 @@
 import { Novel } from "@/types/novel";
 
+// @ts-ignore
 export const novels: Novel[] = [
   {
     id: "chamomile-tea",
@@ -552,6 +553,59 @@ She closed the cover and left her palm there a second, claiming the heat she cou
 그대로 내리고 있었다.`,
       },
     },
+    {
+      id: "4",
+      number: 4,
+      title: {
+        en: "Ghost Drafts",
+        ko: "유령 원고",
+      },
+      publishDate: "2025-10-12",
+      content: {
+        en: `He left the café with heat in his hands and needed motion more than sleep.
+
+The studio kept different weather than the street: radiator ticking, lamp laying down a tight circle. Ian hung his coat on the chair. A drop slid off the cuff, found a floorboard seam, and chose it. He liked when water chose a line.
+
+He slid a poster proof from under newsprint and squared it to the desk. Three pencil dots to anchor, a nudge, a breath—two millimeters by eye until the headline stopped arguing with the image. He counted space with a knuckle: one, two, hairline. Too perfect. He brushed a fingertip of charcoal along the margin—introduced a millimeter of wrong—so no one asked how fast it happened.
+
+Tracing paper. One ring, clean: center mark, an ellipse that remembered pressure. Two faint construction strokes. Proof existed; he slid it under the stack. Enough.
+
+His hands were quieter tonight. Left palm up: the small polished callus where the pencil lived. "You two," he said, "behave." New sheet. Three strokes that were almost a hand—cloth edge, index ridge, weight at the heel. He reached for a fourth and stopped. Four lies. He taped a card to the lamp stem: *Rule 12: one honest line per day*—unposted.
+
+From the flat file he drew a manila folder marked *words*. Torn pages, clipped paragraphs. The one he'd saved months ago: *Some nights people don't want what they order; they want what it lets them hold until it cools.* One word out of place would collapse it; none were. In pencil at the corner: *source unknown*. He slid it back. The line sat in him like a coin.
+
+He didn't open the old chat. He didn't have to. The last thing said still lived: a screenshot of his work and one word with teeth. *Derivative*. He dimmed the lamp a click and let the edges soften.
+
+Under the newsprint, a subway map worked as a cutting mat he never cut. He tapped its corner twice, pocketed a stub pencil, and went.
+
+Outside wasn't mood; it was direction. Wind ran off the river and learned the avenue—fast mid-lane, slack at the curb. Steam rose from grates in clean columns until a cross-draft folded them. The air held brake dust and wet stone. Salt crusted in seams where plows had thrown it; boots ground it back to powder. He mapped by utility—light pool, corner, grate heat—and moved.
+
+Platform draft organized into lanes between columns. Sequence: pressure wave, brake squeal, doors unsealing. Inside: wet wool, metal, citrus cleaner cafés lend to coats. He set a hand to the pole, checked the tolerance of his grip, and let the sway pick his stance.
+
+A MetroCard skittered. He pinned it with his shoe and nudged it back. A nod. Enough.
+
+His phone buzzed: the quiet account—the place he posted raw without a name—had a message. He lifted the screen, saw just enough to read *curator*, and opened a reply box instead of the note. *Thank you—* He watched the two words sit there, then deleted them. Pocketed the phone. Ignoring still counted.
+
+He saw her as an angle before a person—far end, seated where ads turn into mirrors. Two planes—cheekbone, scarf line—and the shoulder's small change you get when someone listens to something unspoken. He looked once, counted: two beats. Strangers get two beats. No more.
+
+He pulled a receipt and drew three lines with the stub: triangle for the strap, a soft circle that could become a hand later, a diagonal for weight. A tiny cross where the shoulder had shifted. He folded the receipt and slid it back into the warm pocket like a small promise.
+
+Cold air climbed aboard at the next stop; the car recalibrated. An ad panel flickered a shade off; he corrected it in his head and let it go.
+
+The studio took him the way rooms take people who return the same way every time. Radiator. Lamp. He drank what was left in the cup; it had cooled to truth.
+
+He pinned the three-line hand to the wall with a strip of tape torn by teeth. Graphite didn't apologize. Under it he wrote with the stub: *Second chances: take one (small)*.
+
+He turned the tracing paper so desk and drawing agreed. He left the cup where it had made its mark. He washed nothing.
+
+On the way to bed he touched the subway map with two fingers, the way you test paper grain. Rooms didn't need goodnights. He checked the window latch, the kettle switch, the card on the lamp. Rule 12 did its job, small and plain.
+
+Across the room the folder of words stayed closed. Somewhere inside, the uncredited line held its heat better than tea. He didn't think about why. He didn't connect the author to anyone. He didn't go looking.
+
+The studio thinned to hums. He lay down and let the day flatten—no layers, no masks—one sheet, unshared.`,
+        ko: ``,
+      },
+    },
   ],
   },
   {
@@ -817,7 +871,7 @@ I’ll just keep spilling until I learn.`,
 
 그래도 한 번쯤은
 나도 누군가에게 사랑받을 수 있지 않을까?
-아니면, 또 컵라면처럼 새버릴까.,
+아니면, 또 컵라면처럼 새버릴까.`
         },
       },
     ],
