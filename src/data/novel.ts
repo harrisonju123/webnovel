@@ -560,7 +560,7 @@ She closed the cover and left her palm there a second, claiming the heat she cou
       en: "What's so Weird About that?",
       ko: "이게 왜 이상해요?",
     },
-    author: "Midnightly1",
+    author: "hae",
     description: {
       en: "A story about someone who sees the world in their own way.",
       ko: "세상을 자기 방식으로 이해하는 사람의 이야기.",
@@ -584,7 +584,121 @@ She closed the cover and left her palm there a second, claiming the heat she cou
         },
         publishDate: "2025-10-12",
         content: {
-          en: ``,
+          en: `My name is Ji-hye Choe.
+It means “gather in a wise place.”
+Cute meaning, unfortunate irony.
+Wisdom clearly forgot to show up when I did.
+
+Mom says I’m the kind of person whose body works harder than her brain.
+“Ji-hye, think before you move,” she used to sigh.
+But by the time I start thinking, I’ve already moved.
+That’s me—impulsive first, reflective never on time.
+
+⸻
+
+My earliest memory is from kindergarten.
+That morning, both of my sisters didn’t have school.
+Mom was visibly exhausted and clearly wanted one peaceful day off from parenting.
+She asked, “Ji-hye, what if you skip kindergarten today?”
+I said, “No! I’m going.”
+She tried again. “Really?”
+“Mom, I already said I’m going. Why are you asking again?”
+
+Mom thought I was decisive.
+I was just literal.
+
+⸻
+
+That trait never left me.
+By elementary school, I was known as the human static channel—always slightly off frequency.
+
+Once, a friend said, “Let’s go to the library tomorrow,”
+so I showed up in gym clothes.
+“How was I supposed to know we weren’t working out?”
+
+⸻
+
+Then middle school came, and the family’s genetic hearing problems became undeniable.
+
+I told Dad, “Can you pick up some soap on your way home?”
+He came back proudly carrying soup mix.
+“Got what you asked for!” he said.
+
+Later, I told Grandpa the story, thinking it’d make him laugh.
+“Grandpa, Dad heard ‘soap’ and bought ‘soup’ instead!”
+He frowned, genuinely concerned.
+“Still,” he said, “what kind of man buys a suit just because his daughter asked for one?”
+
+That’s when I realized it wasn’t just me.
+It was hereditary.
+
+⸻
+
+I’m the youngest of three sisters—the cozy one, the cold one, and me:
+the lazy-but-polite one.
+
+I like people, just not for long.
+That’s why I’m always the listener.
+People tell me, “Ji-hye, you’re such a good listener.”
+I used to think that was a compliment.
+Now I know it really means,
+“You’re easy to talk to… because I’m not trying to date you.”
+
+⸻
+
+Then, sometime after twenty, I learned something new:
+I’m not stupid.
+I just have a slightly different version of common sense.
+
+One day, my sister and I were eating cup noodles.
+I bent the lid back and started drinking from the folded edge.
+Hot broth dripped all over my hand.
+
+“Why does this keep leaking?” I said.
+My sister stared.
+“Ji-hye… you’re drinking from the folded side.”
+“So?”
+“That’s why it’s leaking!”
+“How would I know that?”
+“Everyone knows that!”
+
+To this day, I stand by what I said next:
+If they make the lid fold that way, it shouldn’t leak.
+That’s logic. Perfectly sound logic.
+
+⸻
+
+Still, I learned how to survive.
+With a strict dad and two intimidating sisters,
+I mastered the art of looking harmless while negotiating mercy.
+
+People call me “a nice girl.”
+They’re wrong.
+I’m just tired but polite.
+Inside, I’m always thinking,
+Ugh… fine, I’ll listen.
+
+⸻
+
+Now I’m twenty-eight.
+London degree, New York rent, zero relationships.
+
+Mom says, “Maybe it’s because I had you at thirty.”
+Mom, people have babies at thirty now. Try again.
+
+So what’s wrong with me?
+I have no idea.
+That’s why I decided to write this.
+
+The main character is me—Ji-hye Choe.
+As a kid, I misheard things.
+As an adult, my logic just runs on a different operating system.
+And right now… I’m a slightly lonely New Yorker.
+
+Still, I can’t help believing that someday,
+someone might finally tune in to my frequency.
+Or maybe, like my cup noodles,
+I’ll just keep spilling until I learn.`,
           ko: `내 이름은 최지회다.
 '지혜로운 곳에 모여라'라는 뜻이란다.
 근데 세상은 왜 나만 피해 가는 걸까.
