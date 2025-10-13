@@ -4,8 +4,8 @@ import { LanguageProvider } from "./contexts/LanguageContext";
 import LanguageSwitcher from "./components/LanguageSwitcher";
 
 export const metadata: Metadata = {
-  title: "Waiting For The Chamomile Tea To Get Cold - Midnightly1",
-  description: "Two people who are rebuilding themselves - not through grand confessions or miracles, but by simply being seen.",
+  title: "Midnightly1's Stories",
+  description: "A collection of stories by Midnightly1",
 };
 
 export default function RootLayout({
@@ -20,7 +20,7 @@ export default function RootLayout({
           <nav className="border-b border-gray-200 dark:border-gray-800">
             <div className="max-w-4xl mx-auto px-4 py-4 flex justify-between items-center">
               <a href="/" className="text-xl font-bold hover:text-blue-600">
-                Waiting For The Chamomile Tea To Get Cold
+                Midnightly1
               </a>
               <LanguageSwitcher />
             </div>

@@ -35,17 +35,19 @@ function parseMarkdown(text: string) {
   return parts.length > 0 ? parts : text;
 }
 
-export default function ChapterPage({ params }: { params: { id: string } }) {
+export default function ChapterPage({
+  params,
+}: {
+  params: { novelId: string; chapterId: string };
+}) {
   const { language } = useLanguage();
-  // For backward compatibility, default to first novel (chamomile-tea)
-  const novel = novels[0];
-  const chapter = novel.chapters.find((ch) => ch.id === params.id);
+  const novel = novels.find((n) => n.id === params.novelId);
 
-  if (!chapter) {
+  if (!novel) {
     return (
       <div className="text-center py-12">
         <h1 className="text-2xl font-bold mb-4">
-          {language === "ko" ? "챕터를 찾을 수 없습니다" : "Chapter not found"}
+          {language === "ko" ? "소설을 찾을 수 없습니다" : "Novel not found"}
         </h1>
         <Link href="/" className="text-blue-600 hover:text-blue-800">
           {language === "ko" ? "홈으로 돌아가기" : "Return to home"}
@@ -54,7 +56,27 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
     );
   }
 
-  const currentIndex = novel.chapters.findIndex((ch) => ch.id === params.id);
+  const chapter = novel.chapters.find((ch) => ch.id === params.chapterId);
+
+  if (!chapter) {
+    return (
+      <div className="text-center py-12">
+        <h1 className="text-2xl font-bold mb-4">
+          {language === "ko" ? "챕터를 찾을 수 없습니다" : "Chapter not found"}
+        </h1>
+        <Link
+          href={`/novels/${params.novelId}`}
+          className="text-blue-600 hover:text-blue-800"
+        >
+          {language === "ko" ? "목차로 돌아가기" : "Return to table of contents"}
+        </Link>
+      </div>
+    );
+  }
+
+  const currentIndex = novel.chapters.findIndex(
+    (ch) => ch.id === params.chapterId
+  );
   const previousChapter =
     currentIndex > 0 ? novel.chapters[currentIndex - 1] : null;
   const nextChapter =
@@ -72,14 +94,15 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
     noPreviousChapter:
       language === "ko" ? "이전 챕터 없음" : "No previous chapter",
     noNextChapter: language === "ko" ? "다음 챕터 없음" : "No next chapter",
-    returnToContents: language === "ko" ? "목차로 돌아가기" : "Return to Table of Contents",
+    returnToContents:
+      language === "ko" ? "목차로 돌아가기" : "Return to Table of Contents",
   };
 
   return (
     <article>
       <div className="mb-8">
         <Link
-          href="/"
+          href={`/novels/${params.novelId}`}
           className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 mb-4 inline-block"
         >
           {labels.backToContents}
@@ -106,7 +129,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
         <div>
           {previousChapter ? (
             <Link
-              href={`/chapters/${previousChapter.id}`}
+              href={`/novels/${params.novelId}/chapters/${previousChapter.id}`}
               className="inline-flex items-center text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
             >
               <svg
@@ -131,7 +154,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
         <div>
           {nextChapter ? (
             <Link
-              href={`/chapters/${nextChapter.id}`}
+              href={`/novels/${params.novelId}/chapters/${nextChapter.id}`}
               className="inline-flex items-center text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
             >
               {labels.nextChapter}
@@ -157,7 +180,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
 
       <div className="mt-8 text-center">
         <Link
-          href="/"
+          href={`/novels/${params.novelId}`}
           className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
         >
           {labels.returnToContents}

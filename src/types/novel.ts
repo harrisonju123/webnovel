@@ -14,6 +14,7 @@ export interface Chapter {
 }
 
 export interface Novel {
+  id: string;
   title: LocalizedText;
   author: string;
   description: LocalizedText;
