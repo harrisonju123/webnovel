@@ -282,5 +282,273 @@ He turned his page. His pencil began again. The sound was small, like rain decid
 그는 페이지를 넘겼다. 연필이 다시 시작했다. 아주 작은 소리. 막 비가 내리기로 마음먹는 순간 같은.`,
       },
     },
+    {
+      id: "3",
+      number: 3,
+      title: {
+        en: "Extra Shot",
+        ko: "엑스트라 샷",
+      },
+      publishDate: "2025-10-12",
+      content: {
+        en: `The café's air felt heavier after nine. Heather's wrists ached from tamping—the dull pulse that came from doing something almost right a hundred times. The rag in her hand had stopped being white hours ago. She wiped the counter anyway, the smell of citrus cleaner mixing with milk and rain through the cracked window. The radio murmured something indecisive between jazz and static. It was the hour when caffeine meant survival, not comfort.
+
+She cleaned the drip tray with a practiced cloth fold and watched a thin line of water run to the corner like a thought escaping. It was the slow hour when even the grinder seemed embarrassed to make noise.
+
+The bell above the door made a soft, well-behaved ring.
+
+He stepped in with a coat that had learned rain and forgotten it. Not dramatic—just precise. He paused at the door to pat his pockets for nothing in particular, the way polite people buy time. His scarf held the memory of outside.
+
+Heather's body answered before her mind did. Paper cup, sleeve, chamomile tea bag. She tugged ice from the bin—three cubes, a habit shaped like certainty. The cup fogged at the rim.
+
+He read the menu not to decide, but to stall.
+
+"Chamomile, please," he said. "Hot."
+
+She felt the cold through the paper. "Right." The word landed crooked. "I—Ah—"
+
+"Cold?" His mouth accepted the mistake without needing it to be funny. "I let it get there."
+
+The receipt printer chirped a small bird of agreement. Heather dumped the iced cup and started again. Mug, teabag, kettle. She poured carefully, spiral from edge to middle, the string doing a slow waltz. Steam drifted up with that hay-sweet, apple-adjacent smell and made a curtain between them that didn't last.
+
+"Sorry," she said. "My hands get ahead of me."
+
+He watched the steam, not her. "Happens. Mine take notes I don't mean to keep."
+
+"Artist's problem?"
+
+"Human one," he said, almost apologizing for the elevation.
+
+The radio slipped into a sax solo that didn't need to prove itself. Heather set the mug on the counter and felt the heat move through ceramic into wood, a small kindness traveling. He wrapped both hands around it and didn't drink yet, as if the first sip was better as a possibility.
+
+A delivery guy shouldered in with a squeak of boxes and the smell of cardboard and rain. "Milk," he announced to no one. He wedged a flat onto the floor, signed his own clipboard, and left a dramatic shoeprint that would become tomorrow's problem. Heather carried two gallons to the cooler and returned, cheeks touched by refrigerator air.
+
+He was still there, still holding the mug. He had moved an inch to the left to let the boxes pass. Consideration has a posture.
+
+"Do you want a lid?" she asked.
+
+"Not if it will talk me into forgetting."
+
+She nodded. "It starts better hot."
+
+"It ends honest," he said. He met her eyes for the first time—not long, not invasive—then looked back at the mug. "Thank you."
+
+He found a table against the wall where the paint had bubbled and flattened years ago. The café's fluorescent buzz negotiated with the sax—neither winning, both present. He blew across the rim once, a measured concession, and finally took a sip. The kind that asks the heat a question and accepts its answer.
+
+Heather checked the hopper, toggled the rinse cycle, wiped the counter in practiced arcs. She heard the ceramic click back to the saucer each time he set the mug down, a soft metronome. A pair of students barged in with backpacks and whispered arguments about whether to split a cookie. They left with one cookie and two napkins. The receipt printer asked for attention again and was ignored.
+
+On the back counter, a circle of water appeared where she'd set the iced cup before abandoning it. Heather pressed a fingertip into it and came away damp. The small evidence of an assumption. She reached for her notebook, and wrote:
+*Assumptions cool faster than tea.*
+
+She added, after a beat:
+*Ask first.*
+
+When she looked up, he was turning his mug slow enough to make the handle a clock hand. A sketchbook peeked from his bag—the fabric edge, the elastic's tired stretch—but he didn't take it out. Maybe it belonged to a different hour. Maybe he was letting his hands rest.
+
+The door opened again; a gust of street air carried in a damp umbrella and a regular who ordered fast and lived faster. Heather pulled a shot that ran true, tamped habit right, and sent a small heart onto milk that wasn't expecting kindness. The regular left with a half-thanks and a look that bounced off everything. The bell reset itself to neutral.
+
+He brought the empty mug back with two hands, as if escorting the last of its warmth. He didn't push it across; he set it down and waited for the sound to happen—porcelain to saucer, a click that behaved.
+
+"Thanks," he said.
+
+"For the hot water I should've poured the first time?"
+
+"For the second chance." He glanced at the ring his mug had left, faint and immediate. "I don't often take them."
+
+She could have said a dozen things and didn't. "Any time," she said, and meant it the way baristas mean it when they want you to feel like a person, not a line item.
+
+He almost gave a name. She could see it reach his mouth and reconsider. Instead, he nodded—not the city's thin politeness, not quite—then stepped out. The bell negotiated a quiet exit. Rain had dialed back to suggestion.
+
+Heather considered the ring on the table. Fresh circle beside an older, paler ghost that the wood had kept from some other night. She traced the new one lightly with the rag, didn't erase it.
+
+She wrote one more line before the hour tipped:
+*Comfort is warmer when it's offered, not guessed.*
+
+Closing came without ceremony. Chairs climbed. The mop earned its keep. The delivery shoeprint gave up under two careful passes. She snapped the deadbolt and let the window show her a flattened version of herself, then stopped looking.
+
+Down the block, the bus stop's glass had caught a film of mist that turned headlights into watercolor. She didn't check her phone. The train would be there or it wouldn't; the platform would draft ankles and promise schedules that weren't promises. She walked the corner, heard the city's low machinery under the sidewalk, and took the stairs because she always did.
+
+On the platform, she did not rehearse him. She stood under the map and tried to read neighborhoods without thinking of coffee.
+
+The train arrived with an ordinary approach—no drama, just mass and schedule. She boarded, found the bar with her palm, and let the car's sway make small decisions for her. When she saw him—it was brief, almost an accident. He was seated farther down this time, near the advertisement for a museum that never closed. A paper cup sleeve peeked from his bag, already empty of meaning.
+
+He looked up because movement attracts eyes. Their gaze met in the middle distance where strangers are allowed to meet. No smile. Not necessary. A small nod.
+
+She returned it.
+
+The car carried everyone forward in that collective compromise of balance. At the next stop she didn't look for him. She let the moment sit where it belonged: not a spark, a mark.
+
+At home, the notebook waited where she'd put it on the table. The page had dried with a slight ripple from her damp hand. She added a last sentence in the corner:
+*Start warm. It's okay if it cools.*
+
+She closed the cover and left her palm there a second, claiming the heat she could keep.`,
+        ko: `카페 안 공기는 아홉 시가 지나자 조금 눅눅해졌다.
+헤더의 손목엔 하루 종일 커피를 눌러 담은 자국 같은 피로가 맴돌았다.
+손에 쥔 행주는 이미 오래전에 하얀색을 잃었지만, 그녀는 그래도 한 번 더 닦았다.
+시트러스 세제 향이 우유 냄새, 창틈으로 들어온 빗내와 뒤섞였다.
+라디오에서는 재즈와 잡음이 엉켜 흐르고 있었다.
+이 시간의 카페인에는 위로보다 버티는 힘에 가까운 무언가가 있었다.
+
+익숙한 손놀림으로 드립 트레이를 닦았다. 물 한 줄기가 모서리로 흘러가며, 도망치는 생각처럼 가늘게 흔들렸다.
+기계조차 소리를 내기 조심스러운 느린 시간이었다.
+그때, 문 위의 종이 얌전하게 울렸다.
+
+그가 들어왔다. 비를 배웠다가 잊은 듯한 코트를 걸치고 있었다.
+과장된 기색은 없었고, 그저 조심스러웠다.
+그는 문가에 서서 주머니를 한 번 두드렸다. 찾는 건 없어 보였다.
+다만 예의 바른 사람들이 시간을 버는 방식일 뿐이었다.
+목도리에는 아직 바깥 공기의 냄새가 남아 있었다.
+
+헤더의 몸이 생각보다 먼저 움직였다. 종이컵, 슬리브, 캐모마일 티백.
+그녀는 얼음통에서 세 개를 꺼냈다. 습관이 만들어 낸 확신 같은 동작이었다.
+컵 가장자리에 희미한 김이 맺혔다.
+
+그는 메뉴를 고르기보단, 시간을 조금 벌기 위해 읽었다.
+"캐모마일 주세요." 그가 말했다. "뜨겁게요."
+헤더는 손끝으로 종이컵의 차가움을 느꼈다.
+"네." 말이 어딘가 비뚤게 흘렀다. "아, 그게…"
+"차게요?"
+그의 입매는 실수를 농담으로 돌리지 않고, 그냥 받아들였다.
+"그냥… 식을 때까지 두는 편이에요."
+
+영수증 프린터가 짧게 짹, 하고 울었다. 마치 동의라도 하듯이.
+헤더는 얼음이 든 컵을 버리고 다시 시작했다. 머그컵, 티백, 주전자.
+물을 가장자리에서부터 조심스레 부었다. 실이 느린 왈츠를 추듯 빙글 돌았다.
+건초에 사과 향이 섞인 듯한 따뜻한 냄새가 피어올라, 둘 사이에 잠시 커튼처럼 걸렸다가 사라졌다.
+
+"죄송해요." 그녀가 말했다. "손이 먼저 움직여서요."
+그는 그녀가 아닌, 김이 피어오르는 찻잔을 바라봤다.
+"그럴 때 있죠. 저도… 의도하지 않은 걸 자꾸 메모하곤 해요."
+"예술가의 버릇인가요?"
+"사람이라면 다 그렇지 않나요." 말끝엔 괜한 미안함이 묻어 있었다.
+
+라디오는 굳이 증명할 필요 없는 색소폰 솔로로 넘어갔다.
+헤더는 머그컵을 카운터 위에 올려놓으며, 열기가 도자기를 지나 나무로 스며드는 걸 느꼈다.
+작은 온기가 이동하는 듯했다.
+그는 두 손으로 컵을 감싸 쥔 채, 아직 마시지 않았다.
+첫 모금이 가능성일 때가 더 좋다는 듯이.
+
+배달원이 상자 몇 개를 들이밀며 들어왔다.
+비 냄새와 젖은 골판지 냄새가 함께 따라왔다. "우유요." 그가 말했다.
+그는 바닥에 상자를 내려놓고 스스로 전표에 서명했다.
+남겨진 신발자국이 내일의 문제로 남았다.
+헤더는 우유 두 통을 냉장고에 옮겨놓고 돌아왔다. 냉장고 바람이 볼을 스쳤다.
+
+그는 여전히 거기 있었다. 상자를 피하듯 한 걸음 옆으로 비켜서 있었다.
+배려에는 자세가 있었다.
+
+"뚜껑 드릴까요?"
+"괜찮아요. 덮어두면, 잊어버릴 것 같아서요."
+"뜨거울 때가 제일 좋죠."
+"그래도 결국 식는 게 정직하잖아요."
+그는 그렇게 말하며 처음으로 그녀를 바라봤다. 짧고 부드럽게.
+그리고 다시 찻잔으로 시선을 돌렸다. "고마워요."
+
+그는 벽 쪽 낡은 테이블에 앉았다. 오래된 페인트는 부풀었다 눌린 자국을 남기고 있었다.
+형광등의 윙윙거림과 색소폰 소리가 서로 양보하듯 얽혔다.
+그는 찻잔 가장자리에 살짝 입김을 불었다. 조심스러운 타협처럼.
+그리고 첫 모금을 마셨다. 열기에게 질문을 던지고, 그 답을 받아들이는 모양이었다.
+
+헤더는 호퍼를 확인하고, 린스 버튼을 누르고, 카운터를 익숙한 동선으로 닦았다.
+그가 찻잔을 내려놓을 때마다 도자기와 받침이 부딪히는 소리가 들렸다.
+조용한 메트로놈처럼.
+학생 둘이 배낭을 메고 들어와 쿠키를 나눠 먹을지 말지를 속삭였다.
+결국 쿠키 하나와 냅킨 두 장을 들고 나갔다.
+프린터는 또 짹 하고 울었지만, 아무도 신경 쓰지 않았다.
+
+뒤쪽 카운터에는 버려둔 아이스컵이 남긴 물자국이 남아 있었다.
+헤더는 손가락끝으로 눌러보았다. 손끝이 젖었다.
+잘못된 확신의 작은 증거였다.
+그녀는 노트를 꺼내 적었다.
+가정은 차보다 빨리 식는다.
+그리고 잠시 후 한 줄을 덧붙였다.
+먼저 물어볼 것.
+
+고개를 들었을 때, 그는 컵 손잡이를 천천히 돌리고 있었다. 마치 시침처럼.
+가방 틈으로 스케치북이 살짝 보였다. 천 커버의 낡은 모서리, 느슨해진 고무 밴드.
+그는 꺼내지 않았다.
+아마 오늘의 시간이 아닌 것 같았다.
+손을 쉬게 두는 시간일지도 몰랐다.
+
+문이 다시 열렸다. 축축한 우산 냄새와 함께 단골 손님이 들어왔다.
+말보다 주문이 빨랐다.
+헤더는 습관처럼 정확히 샷을 내리고, 거품 위에 작은 하트를 그렸다.
+그 하트는 뜻밖의 다정함처럼 컵 위에 남았다.
+단골은 반쯤 인사만 하고 나갔다. 종소리는 다시 제자리를 찾았다.
+
+그는 빈 컵을 두 손으로 감싸 들고 다가왔다.
+남은 온기를 배웅하듯 천천히.
+그는 컵을 밀지 않고, 조심스레 받침 위에 내려놓았다.
+도자기와 받침이 맞부딪히며 내는 소리가, 제자리의 소리처럼 울렸다.
+
+"감사합니다."
+"처음부터 뜨거웠어야 하는 걸요."
+"두 번째 기회를 주셔서요."
+그는 컵이 남긴 물자국을 바라보며 말했다.
+"이런 기회는 자주 안 오거든요."
+
+헤더는 수많은 말을 떠올렸다가 아무 말도 하지 않았다.
+"언제든요." 그렇게 말했다.
+그 말에는 형식보다 마음이 조금 더 있었다.
+
+그는 이름을 말하려다 멈췄다.
+입술에서 멈춘 이름 대신, 가볍게 고개를 끄덕였다.
+도시의 얇은 예의와는 조금 다른, 진짜 고개짓이었다.
+그가 나가자, 종소리가 한결 조용히 울렸다.
+밖의 비는 제 생각을 바꾼 듯, 이제는 그냥 흩날렸다.
+
+헤더는 테이블 위의 자국을 바라봤다.
+새로 생긴 원은 오래된 희미한 얼룩 옆에 있었다.
+그녀는 손끝으로 살짝 문질렀다.
+지우지 않았다.
+
+그리고 노트에 한 줄을 더 썼다.
+위로는 추측이 아니라 건네는 것.
+
+마감은 특별할 것 없었다.
+의자들이 테이블 위로 올라가고, 대걸레는 제 몫을 다했다.
+남겨진 신발자국은 두 번의 닦임 끝에 사라졌다.
+헤더는 문을 잠그고, 유리에 비친 납작한 자신의 얼굴을 잠시 바라보다가 시선을 거뒀다.
+
+버스정류장 유리에는 안개가 내려앉아 헤드라이트를 수채화처럼 번지게 했다.
+헤더는 휴대폰을 꺼내지 않았다.
+기차는 있거나 없거나, 플랫폼의 바람은 언제나 발목을 스쳤다.
+그녀는 모퉁이를 돌아 계단으로 향했다.
+늘 그랬듯이.
+
+플랫폼에서 그는 떠올리지 않으려 했다.
+지도 아래 서서 동네 이름을 읽었다. 커피 생각은 하지 않으려 했다.
+
+기차는 예고 없는 속도로 들어왔다.
+드라마도 없고, 그저 약속된 질량으로.
+헤더는 손으로 봉을 잡고, 열차의 흔들림에 몸을 맡겼다.
+그를 본 건 거의 우연이었다.
+이번엔 조금 멀리, '24시간 열려 있는 미술관' 광고 옆 자리였다.
+가방 틈 사이로 종이컵 슬리브가 보였다. 이미 식은 의미처럼.
+
+그는 움직임에 시선이 끌려 고개를 들었다.
+둘의 눈길이 중간 어딘가에서 닿았다.
+웃음은 없었다. 그럴 필요도 없었다.
+짧은 고개짓 하나.
+
+헤더도 고개를 끄덕였다.
+
+열차는 모두를 앞으로 밀어냈다. 균형을 위한 타협처럼.
+다음 역에서 그녀는 그를 찾지 않았다.
+순간을 제자리에 두었다.
+불꽃이 아니라, 흔적으로.
+
+집에 돌아왔을 때, 노트가 테이블 위에 있었다.
+손끝이 젖은 채로 넘긴 페이지가 살짝 울어 있었다.
+그녀는 구석에 한 줄을 더 적었다.
+따뜻하게 시작해도 괜찮다. 식어도 괜찮다.
+
+노트를 덮고, 잠시 손바닥을 올려두었다.
+남은 온기를 조금이라도 붙잡듯이.
+방 안엔 조용한 기계음과 불빛이 섞여 있었다.
+밖의 비는, 결국 생각을 바꾸지 않았다.
+그대로 내리고 있었다.`,
+      },
+    },
   ],
 };
