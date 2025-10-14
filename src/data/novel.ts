@@ -812,7 +812,7 @@ Across town, a desk lamp clicked off. A pencil settled across the seam of a clos
       number: 6,
       title: {
         en: "The Napkin",
-        ko: "냅킨",
+        ko: "그 냅킨",
       },
       publishDate: "2025-10-14",
       content: {
@@ -932,6 +932,268 @@ On her way to bed she pressed the center once—the way you check whether tape i
 그녀는 엄지를 씻었다. 초승달은 완전히 지워지지 않았다. 타당한 세금. 설거지는 미뤄둔 채 서 있었다. 코스터 사각은 여전히 사각형일 뿐이었다. 빈칸들은 여전히 빈칸이었다. 그녀는 그대로 두기로 했다. 천장등을 끄고 하부 조명만 남겼다. 그림은 예의 바른 회색으로 가라앉았다.
 
 침대로 가는 길에 그녀는 한 번 중앙을 눌렀다—테이프가 머물 뜻이 있는지 확인하듯. 종이는 버텼다. 연필 가루가 잠깐, 평범한 빛으로 대답했다. 그녀가 그것에게 바란 건 그 정도였다. 충분했다.`
+      }
+    },
+    {
+      id: "7",
+      number: 7,
+      title: {
+        en: "The People I See on the Last Train",
+        ko: "막차에서 마주한 사람들",
+      },
+      publishDate: "2025-10-14",
+      content: {
+        en: `The napkin lived on Heather's fridge like a small, obedient window. The café was there in graphite lines: the scar on the counter, the tilt of the bell by the door, the light that fell wrong in late evening. No caption. No theory. Just what was.
+
+At 11 p.m., Wednesday, she stood barefoot on the cold tile, drinking from a glass that kept fogging her lip. The apartment was the kind that sounded bigger after midnight. Heat knocked in the radiators and then thought better of it. Outside, someone's radio played a song that remembered it was winter only in the chorus.
+
+Her thumb still carried a faint gray where she'd folded the napkin earlier, a smudge that made her hand look briefly like it belonged to a different life. She leaned into the fridge's light and let it make a white square on her face.
+
+On the table, her notebook lay open to the page where she bracketed the things she wasn't allowed to say out loud. She ran a nail under one set of brackets—[Last Train, #5]—and pressed until the graphite broke a little. Then she erased the corners and read the sentence without its armor.
+
+I don't know his name. I know where he breathes when the car turns.
+
+It looked naked like that. Honest, and therefore dangerous.
+
+She closed her eyes and, unhelpfully, saw bookstore windows: stacks of her novels in neat, confident towers, the jackets glossy enough to throw back the city. She had watched strangers read them on trains, watched mouths lift at a sentence, watched brows pull at a turn. She had sat three feet away and been no one. That was the part she liked, before everything got big enough to tilt. That was the part she ran from.
+
+Now even anonymous felt exposed.
+She slid the notebook closer, smoothed the page, and left the unbracketed line there, like a person standing without a coat.
+
+The laptop took longer than it needed to remember her. She put it on the kitchen table and sat in the chair that always made one knee fall asleep. The screen came up in blue, then in the kind of white that made her eyes feel like they had been braided too tight.
+
+While the new-blog page spun its polite circle, another window tried to open in her head. A publisher's site—her pen name in gold, the kind of gold that knew about marketing. A banner that had once announced sales with a number that didn't fit in her mouth: 2.3 million. She closed the thought with a practiced hand.
+
+Then she could write five thousand words the way people walk a route they've memorized—eyes half on the world, half inside the body doing the moving. Now her fingers hovered like the keys were hot. The cursor blinked the way a small animal breathes when it isn't sure you're safe.
+
+She typed a username and deleted it. Another, and deleted. Each one was a character she'd retired, refusing to go quietly. She forced herself to pick a handle that meant nothing, a word she would forget until the site emailed her with it.
+
+Field: Title.
+
+Her brain flipped to its other training and laid out a tray of options that would travel well: Midnight Confessions. Urban Portraits. The Strangers We Share. She could feel, as surely as coffee cooling beside her, how each one would sit on a screen, how a certain part of the internet would climb onto it and make a little camp.
+
+She typed: The People I See on the Last Train.
+
+No keyword. No hook. A title designed to disappear. Perfect.
+
+Field: About.
+
+She wrote a sentence and erased it, wrote two and erased both. She sat with her right hand under her thigh until sensation returned and then, slowly, typed:
+
+Observations from the last car. No names. No stories. Just what I see.
+
+Her writing hand went numb again. She shook it out and took a sip of coffee that had lost the day. It was a small punishment, and she took it.
+She began the first entry the way you touch a bruise to see if it's still there. She started with him—same seat, same face—but the words came with an intimacy that made her skin heat. Delete.
+
+Second try: a man from weeks ago, the one whose sleep belonged to a different schedule than his life.
+
+Her fingers moved on their own: His dreams leak out in small twitches, Morse code from a country he'll forget by morning.
+
+She froze. That was the voice reviewers quoted. The one The Times said made the mundane feel like mythology. She heard the sentence the way you hear your name in a crowd: proven, and therefore unusable.
+
+Delete.
+
+She tried again, hauling language down to plain weight. There's a man who sleeps through his stop every Thursday. When he dreams, his fingers move.
+
+Better. Safer. She pared it even further.
+
+His phone balances on his thigh. When the conductor calls "Last stop," he wakes with practiced surprise.
+
+No metaphors. No mythology. Not her. The words went down like cold water. They sat clean on the page, refusing any shine.
+
+She swallowed, or tried to. It felt like a small pill had lodged at the base of her throat. She put the cursor away from the sentence and opened the notebook again, touched the newly unbracketed line with the side of her hand, then closed the cover.
+
+Thursday poured itself into the city like tea forgotten on a counter—shallow warmth, then a mild chill. She walked to the station in a coat that had learned how to live near her shoulders. The platform held its usual grammar: the busker whose guitar believed him more than his voice did, a flyer with tabs like missing teeth, the digital boards promising trains that had other plans. The sticker on the pillar still said YOU ARE HERE in letters that had started to crack from the edges.
+She stood close enough to the yellow line to feel the first announcement in her ankles. Wind, then the long vowel of brakes. When the car opened, it had the smell of wet wool and something more metallic, a kind of hard weather that belonged to rails.
+
+She found her space and took it—a hand to the pole, a shoulder to air. She was seeing differently now, as if someone else might one day look through her eyes and need the details to hold.
+
+He was there. Same corner seat. His sketchbook open to what looked like nothing until it didn't—the pattern of wear on the handrails where hands became habit. He drew the tired shine of it, the places where the metal had learned the shape of the city's grip.
+
+When he finished a page, he tore it out with the care people reserve for things that break easily. He folded it into a square that would pass inspection, and then slipped it into the inner pocket of his jacket, a small taxonomy of paper above his heart.
+
+The space between them did what space does when both people know it is real: it held. She could have reached it with her scarf if she left it loose, but she had wrapped it twice.
+
+She wrote, in the notebook balanced on the heel of her hand, Artists categorize empty space like grief—
+
+She stopped. The sentence sounded like an old coat that still smelled like last winter's rain. She crossed it out. Ink bled slightly into the page, an ordinary wound.
+
+On trains, we practice leaving space. The kind measured in inches.
+
+She left it at that.
+
+Across the aisle, a woman with a paper bag held at the chest like a small animal stood with her feet at the exact width of train-safety. Green leaves peered through the top—fern or something fern-shaped. When the car went under the river and the signal died, the woman lowered her head and whispered a few careful words to the leaves, like the dark would be easier for both of them if someone said something soft. Heather didn't write the words down. She didn't need to. She put a small check mark beside the moment, the way you do when your body is making a list inside your body.
+
+The conductor's voice came cracked and official. "Last stop."
+
+The sleeping man near the door woke with practiced surprise, patted his thigh for a phone that hadn't moved, then nodded at no one like he and his life had found a way to meet at a corner and keep going.
+
+Back home, the apartment had the smell of whatever the building had cooked as a group decision. The living room was just dark enough to make the laptop a face in the air. She put it on the table and sat the way people sit before tests.
+She changed a word she didn't need to change. Artist became commuter, and the paragraph unhooked itself from a particular man and walked toward a crowd.
+
+She could feel the tunnel start in the edges of her vision, the way it had begun to do whenever she accidentally stood too long in front of a store that had once stacked her life in a window. Her right hand went numb, and she willed it back, shaking out the pins like flies.
+
+She remembered a younger version of herself, on a different train, reading over a shoulder. The reader's mouth had made a slow shape of surprise, and the younger version had wanted, for an ugly second, to say I wrote that and then, for a larger mercy, had said nothing at all and gotten off two stops early.
+
+Now there was a button and the word was Publish.
+
+For a moment, the old noise started up—the nominations, the lists, the panels where she'd spoken into a room and measured the distance between her voice and her sense of truth. Then she put a finger on the trackpad and made a decision small enough to be a click.
+
+The post existed. To no one.
+
+The stats page said: Views: 1. Subscribers: 0.
+
+A small exhaustion ran through her like she'd jogged in place for too long and forgotten to stop. She closed the laptop with both palms, as if it might argue. Her body felt like it had raised its hand in a room and not been called on.
+
+She lay down still wearing the day—socks, scarf, the elastic trace on her wrist where a hair tie had been. Her heart beat with the alertness that follows doing something illicit, even when it isn't. She stared at the ceiling long enough to notice a hairline crack that had been there the whole time.
+
+She thought of two million books. She thought of seventy-three words.
+
+She let them weigh the bed in opposite directions until both felt like the same number.
+
+Across town, light from a phone moved across Ian's face in a way that made him look younger and then not. He scrolled through the slow river of other people's work—gallery shots with white walls proud of themselves, sketches posted with captions that explained too much, long essays about process written by people who sounded like they were auditioning for themselves.
+
+He was tired in his wrists and in the part of his head that had done angles all day. He visited the sites he visited when he couldn't name what he was missing. A sidebar offered New Blogs and a list of titles that tried too hard. His thumb hovered and then kept going. He added a page about zine design to a folder that didn't need more pages and put the phone down like a tool he didn't trust.
+
+The apartment returned to itself. The radiator ticked the slow math of sleeping.
+
+In the quiet that finally took the room, the blog floated in a digital nowhere, a message still tucked in a hand on shore. No lists would track it. No reviews would dismantle it in public. No one would say her name, which had never been her name.
+
+On the fridge, the napkin kept doing what it had done from the start: showing a room without telling it what it meant.
+
+On her table, the notebook held a single sentence without brackets.
+
+In bed, Heather let her eyes close around the fact of it. She had written again. She had stayed hidden. Both victories. Both defeats.
+
+She slept with her thumb still faintly gray.
+`,
+        ko: `냅킨은 헤더의 냉장고에 작은 얌전한 창처럼 붙어 있었다. 카페는 흑연 선으로 거기 있었다: 카운터의 흉터, 문가 종의 기울기, 늦은 저녁에만 빗겨 드는 빛. 설명도 없고, 이론도 없었다. 그냥 거기 있는 것.
+
+수요일 밤 11시, 그녀는 맨발로 차가운 타일 위에 서서 금세 입김으로 흐려지는 유리잔을 들었다. 이 아파트는 자정이 지나야 더 크게 들리는 집이었다. 라디에이터는 두드리다 그쳤고, 밖에서는 누군가의 라디오가 후렴에서만 겨울을 기억하는 노래를 틀고 있었다.
+
+아까 냅킨을 접을 때 묻은 옅은 회색이 아직 엄지에 남아 있었고, 그 얼룩은 잠깐 그녀의 손이 다른 삶에 속한 것처럼 보이게 했다. 그녀는 냉장고 불빛 앞으로 몸을 기울여 얼굴에 하얀 사각형을 얹히게 했다.
+
+탁자 위에는 소리 내고 싶지 않은 말들을 대괄호로 묶어두던 노트가 펼쳐져 있었다. 그녀는 [Last Train, #5]라는 괄호 밑을 손톱으로 쓸어, 흑연이 살짝 부러지게 했다. 모서리를 지우고, 갑옷을 벗긴 문장을 읽었다.
+
+나는 그의 이름을 모른다. 열차가 방향을 틀 때 그가 어디서 숨 쉬는지는 안다.
+
+이렇게 두니 벌거벗은 것 같았다. 솔직했고, 그래서 위험했다.
+
+그녀는 눈을 감았고, 도움이 되지 않게도 서점 진열창이 떠올랐다: 반들반들 도시를 되비추는 재킷들, 가지런하고 자신만만한 탑처럼 쌓인 자기 소설들. 그녀는 지하철에서 낯선 이들이 그것을 읽는 걸 지켜본 적이 있었다. 문장에 입꼬리가 살짝 오르고, 어느 대목에서 이마가 찌푸려지는 것까지. 세 걸음 옆에 앉아 있으면서도 아무도 아니었다. 그것이 좋았다, 모든 것이 기울기 전까지. 그게 그녀가 도망친 이유였다.
+
+이제는 익명조차 노출처럼 느껴졌다.
+
+그녀는 노트를 끌어당겨 페이지를 매만지고, 괄호를 벗은 그 한 줄을 외투 없이 서 있는 사람처럼 그대로 두었다.
+
+노트북은 필요 이상 오래 그녀를 기억해내지 못했다. 그녀는 부엌 테이블에 그것을 올려놓고, 늘 한쪽 무릎을 저리게 만드는 의자에 앉았다. 화면은 푸른빛으로 떴다가, 머릿속을 너무 촘촘히 땋아놓은 듯한 흰빛으로 바뀌었다.
+
+새 블로그 페이지가 공손하게 빙글도는 동안, 머릿속 다른 창이 열리려 했다. 출판사 사이트—마케팅을 아는 종류의 금색으로 표기된 필명. 한때 입 밖으로 내기 어려운 숫자를 자랑하던 배너: 230만 부. 그녀는 익숙한 손짓으로 그 생각을 닫았다.
+
+그때의 그녀는 오천 자를, 사람들이 외워 걷는 길처럼 썼다—눈은 반쯤 바깥에, 반쯤은 움직이는 몸 안에. 지금 그녀의 손가락은 뜨거운 건반 위에 머무는 듯 맴돌았다. 커서는 작은 동물이, 안전한지 살피며 내쉬는 숨처럼 깜빡였다.
+
+사용자 이름을 쳤다가 지웠다. 또 쳤다가 지웠다. 하나하나가 얌전히 은퇴하기를 거부하는 옛 등장인물들이었다. 그녀는 아무 뜻도 없는 조합을 억지로 골랐다. 알림 메일이 오기 전엔 기억하지 못할 단어.
+
+항목: 제목.
+
+뇌는 다른 훈련으로 뒤집혔고, 잘 팔릴 만한 후보 트레이를 내밀었다: Midnight Confessions, Urban Portraits, The Strangers We Share. 어느 제목이 화면에서 어떻게 앉고, 인터넷의 어느 구역이 올라타 작은 캠프를 칠지, 식어 가는 커피만큼이나 또렷이 느껴졌다.
+
+그녀는 이렇게 쳤다: The People I See on the Last Train.
+
+키워드도, 훅도 없다. 사라지라고 만든 듯한 제목. 완벽했다.
+
+항목: 소개.
+
+문장을 하나 쓰고 지웠다. 둘을 쓰고 둘 다 지웠다. 그녀는 오른손을 허벅지 밑에 넣어 감각을 되살리고, 천천히 이렇게 쳤다.
+
+마지막 칸에서의 관찰. 이름은 없다. 이야기도 없다. 내가 본 것만.
+
+글쓰는 손이 다시 저려왔다. 그녀는 손을 털고, 하루의 맛이 다 빠진 커피를 한 모금 마셨다. 작은 벌이었다, 그리고 기꺼이 받았다.
+
+첫 번째 글은 멍을 눌러보듯 시작했다. 그—늘 같은 자리, 같은 얼굴—로 시작했지만, 단어들이 너무 가까워져 피부가 뜨거워졌다. 삭제.
+
+두 번째 시도: 몇 주 전의 남자, 삶과 다른 시간표를 가진 잠.
+
+손가락이 저절로 움직였다. 그의 꿈은 작은 경련으로 새어 나왔다, 아침이면 잊을 나라에서 온 모스부호처럼.
+
+그녀는 굳었다. 평론가들이 인용하던 목소리였다. 일간지에서 말하던, 평범을 신화처럼 보이게 만드는 비유. 군중 속에서 자기 이름을 듣는 순간처럼 들렸다. 증명된, 그러므로 쓸 수 없는.
+
+삭제.
+
+그녀는 다시 시도했다. 언어를 순수한 무게까지 끌어내리며. 매주 목요일, 역을 지나쳐 자는 남자가 있다. 꿈을 꾸면 손가락이 움직인다.
+
+더 낫다. 더 안전하다. 그녀는 더 깎아냈다.
+
+그의 폰은 허벅지 위에서 균형을 잡는다. 차장이 ‘종착역입니다’라고 말하면, 그는 숙련된 놀람으로 깨어난다.
+
+비유 없음. 신화 없음. 그녀답지 않다. 단어들은 찬물처럼 내려가, 어떤 반짝임도 허락하지 않은 채 깨끗이 앉았다.
+
+그녀는 삼키려 했다, 잘 되지 않았다. 목 밑바닥에 작은 알약이 걸린 느낌. 그녀는 커서를 문장에서 치워 두고, 괄호를 벗긴 그 한 줄을 손날로 만진 뒤, 노트를 덮었다.
+
+목요일은 카운터 위에 잊힌 차처럼 도시로 부어졌다—얕은 온기, 곧 미세한 냉기. 그녀는 어깨에 잘 사는 코트를 입고 역으로 걸었다. 플랫폼은 늘 그 문법이었다: 목소리보다 기타가 그를 더 믿는 버스커, 이가 빠진 전단의 탭, 다른 계획을 가진 전광판. 기둥의 스티커는 여전히 YOU ARE HERE라 적혀 있었고, 글자 가장자리부터 금이 가기 시작했다.
+
+노란 선 가까이에 서면 첫 알림이 발목으로 올라왔다. 바람, 그리고 긴 모음처럼 늘어지는 제동음. 문이 열리자 객차에는 젖은 모직 냄새와 금속성의 더 단단한 날씨가 섞여 있었다—레일의 냄새였다.
+
+그녀는 자기 자리를 찾아—폴에 한 손, 어깨에는 공기—차지했다. 언젠가 누군가가 이 눈을 통해 볼지 모른다고 생각하며, 버틸 수 있는 디테일을 모으듯 다르게 보기 시작했다.
+
+그가 있었다. 늘 같은 모서리 좌석. 스케치북은 처음엔 아무것도 아닌 듯하다가, 곧 손잡이가 손을 습관으로 만드는 마모의 패턴을 드러냈다. 그는 그 지친 광택을, 금속이 도시의 잡는 법을 배운 자리를 그렸다.
+
+한 페이지가 끝나면, 쉽게 부서질 것들을 다룰 때 쓰는 배려로 그는 종이를 뜯었다. 검사를 통과할 만한 정사각형으로 접어, 재킷 안주머니에 넣었다. 심장 위, 종이의 작은 분류학.
+
+둘 사이의 공간은 둘 다 그것이 진짜임을 아는 사이의 공간이 하는 일을 했다: 버텼다. 스카프를 느슨히 했다면 닿을 수 있었겠지만, 그녀는 두 번 감아 두었다.
+
+그녀는 손꿈치에 노트를 얹고 썼다. 예술가들은 빈 공간을 슬픔처럼 분류한다—
+
+그녀는 멈췄다. 그 문장은 지난겨울 비를 머금은 낡은 코트 같은 냄새가 났다. 그녀는 줄을 그었다. 잉크가 페이지에 살짝 번졌다. 일상의 상처처럼.
+
+기차에서는 우리는 거리를 남기는 연습을 한다. 몇 센티로 재는 종류의 거리.
+
+그녀는 거기서 멈췄다.
+
+맞은편 통로에서는 종이봉투를 가슴께에 품은 여자가, 기차 안전자세의 정확한 폭으로 두 발을 벌리고 서 있었다. 봉투 위로 초록 잎이 고개를 내밀었다—양치류, 혹은 양치류처럼 생긴 것. 열차가 강 아래로 들어가 신호가 죽자, 여자는 고개를 낮추고 잎에게 몇 마디 조심스러운 말을 건넸다. 어둠이, 누군가 부드럽게 무엇을 말해 준다면, 둘 다에게 조금 쉬울 것처럼. 헤더는 그 말을 적지 않았다. 필요하지 않았다. 몸속에 또 다른 몸이 목록을 만들 듯, 그 순간 옆에 작은 체크 표시만 했다.
+
+차장의 목소리는 갈라졌지만 공적이었다. “종착역입니다.”
+
+문 옆에서 잠들어 있던 남자는 숙련된 놀람으로 깨어나, 한 번도 움직이지 않은 폰을 허벅지에서 더듬었다. 그리고 아무도 없는 쪽을 향해 고개를 끄덕였다. 자기와 자기 삶이 모퉁이에서 만나 계속 가기로 합의한 것처럼.
+
+집에 돌아오니, 아파트에는 건물 사람들이 단체로 조리한 무엇의 냄새가 났다. 거실은 노트북이 공중에 떠 있는 얼굴처럼 보일 만큼만 어두웠다. 그녀는 그것을 테이블 위에 올리고, 시험을 앞둔 사람처럼 앉았다.
+
+바꿀 필요 없는 단어를 하나 바꿨다. ‘예술가’는 ‘통근자’가 되었고, 문단은 특정한 남자에게서 풀려나 군중 쪽으로 걸어갔다.
+
+시야 가장자리에서 터널이 시작되는 게 느껴졌다. 한때 자신의 책이 진열되던 가게 앞에 너무 오래 서 있으면 종종 찾아오던 그 느낌. 그녀의 오른손이 저려왔고, 그녀는 파리 떼를 털 듯 손끝의 바늘감을 털어냈다.
+
+그녀는 더 어린 자신을 기억했다. 다른 열차, 다른 어깨 위. 독자의 입이 천천히 놀라움의 모양을 만드는 것을 보며, 그녀는 못나게도 잠깐 이렇게 말하고 싶었다—나 그거 썼어요. 그리고 더 큰 자비로, 아무 말도 하지 않고 두 정거장 먼저 내렸다.
+
+이제 하나의 버튼이 있었다. 그 옆에는 이렇게 적혀 있었다—Publish.
+
+잠시, 옛 소음이 다시 켜졌다—후보 지명, 목록, 자신의 목소리와 진실감 사이의 거리를 재던 패널들. 그녀는 트랙패드 위에 손가락을 얹고, 클릭이라 부르기에도 작은 결심을 했다.
+
+그 글은 존재했다. 아무에게도 아닌 채.
+
+통계 페이지에는 이렇게 적혔다: 조회수 1. 구독자 0.
+
+가볍지만 지치는 피로가 몸을 훑었다. 한 자리에 오래 제자리달리기를 해놓고 멈추는 걸 잊었을 때 같은. 그녀는 두 손바닥으로 노트북을 덮었다. 반박이라도 할까 봐.
+
+그녀는 하루를 입은 채로 누웠다—양말, 스카프, 머리끈이 남긴 손목의 얇은 자국까지. 하지도 않은 어떤 위법 뒤에 오는 경계심이 심장에서 뛰었다. 그녀는 천장을 오래 바라보다, 처음부터 있었던 가느다란 금을 알아챘다.
+
+그녀는 이백만 권을 떠올렸다. 그리고 일흔세 단어를 떠올렸다.
+
+그 둘이 침대를 서로 다른 방향으로 눌렀다. 그리고 결국 같은 무게처럼 느껴질 때까지.
+
+도심 반대편에서, 휴대전화 불빛이 이안의 얼굴을 가로지르며 그를 한순간 젊게, 다음 순간엔 그렇지 않게 만들었다. 그는 다른 사람들의 작업이 흐르는 느린 강을 스크롤했다—스스로를 자랑스러워하는 하얀 벽의 갤러리 사진들, 설명이 지나친 캡션들과 함께 올라온 스케치들, 자신에게 오디션을 보는 사람처럼 들리는 긴 작업 에세이들.
+
+손목과, 하루 종일 각도를 계산하던 머릿속 한 구석이 피곤했다. 그는 이름 붙일 수 없는 결핍을 느낄 때 찾는 사이트들을 돌았다. 사이드바에는 New Blogs와 너무 애쓰는 제목들의 목록이 있었다. 그의 엄지는 잠깐 머물다, 그냥 지나쳤다. 그는 진(zine) 디자인에 대한 페이지 하나를, 더는 필요 없는 폴더에 추가하고, 믿기 어려운 도구처럼 휴대폰을 내려놓았다.
+
+아파트는 제 모습으로 돌아왔다. 라디에이터가 잠의 느린 셈을 톡톡 셌다.
+
+마침내 방을 차지한 고요 속에서, 그 블로그는 디지털의 아무데도 아닌 곳을 떠돌았다. 아직 물에 닿지 못한 병 속 편지처럼. 어떤 목록도 그것을 추적하지 않을 것이다. 어떤 리뷰도 공개적으로 그것을 해체하지 않을 것이다. 누구도 그녀의 이름—애초에 그녀의 이름이 아니었던—을 말하지 않을 것이다.
+
+냉장고 위에선, 냅킨이 처음부터 하던 일을 계속했다. 방을 보여주되, 의미를 강요하지 않는 일.
+
+탁자 위 노트에는 괄호가 없는 한 문장만 남아 있었다.
+
+침대에서, 헤더는 그 사실을 품고 눈을 감았다. 그녀는 다시 썼다. 그리고 숨었다. 둘 다 승리. 둘 다 패배.
+
+그녀는 엄지에 희미한 회색을 남긴 채 잠들었다.`
       }
     }
   ],
