@@ -807,6 +807,133 @@ Across town, a desk lamp clicked off. A pencil settled across the seam of a clos
 도시 반대편 어딘가에서, 책상 조명이 ‘딸깍’ 꺼졌다. 닫힌 책의 접힌 선 위로 연필이 다리처럼 얹혀 제자리를 찾았다. 역과 역 사이 어딘가에서, 말하지 않은 두 사람의 모양을 공기가 먼저 배웠다. 기차는 그들의 문법을, 그들이 들을 준비가 될 때까지, 안전하고 기계적으로 보관해 주었다.`,
       },
     },
+    {
+      id: "6",
+      number: 6,
+      title: {
+        en: "The Napkin",
+        ko: "냅킨",
+      },
+      publishDate: "2025-10-14",
+      content: {
+        en: `The café thinned to edges.
+
+The last regular left his newspaper folded to the crossword, three downs unsolved. Heather knew they'd stay that way—he never touched weekend puzzles, only left them for whoever cleaned tables. The radiator's tick slowed from allegro to largo, then stopped, and a particular quiet took the room—the kind that only arrives after heat quits trying.
+
+The fridge compressor surrendered with a soft shutoff. Without its hum, the city came through the glass: not loud, just present, like someone breathing in the next room. She dried a square on the counter where a cup had lived all afternoon. A faint coaster shadow remained, refusing the towel's instructions. The OPEN sign's red tipped toward a tired pink over the tile by the door; the stainless edge of the counter held its strip of cold blue and returned her hands in thin, nervous halves.
+
+She stacked lids into a column that didn't need straightening. A delivery crate settled in the back with a small, finished thud. The faucet gave one apologetic drip and then behaved. She liked this hour—the room done asking.
+
+The door hissed at the seal.
+He stepped in with an exact politeness of gait—space left for a person who might be leaving, shoulders arranged to calm a coat that wanted to flare. He set his umbrella against the wall; it didn't slide. Dark wool, cuff a shade darker where the elbow learns tables. His scarf carried a single white thread like a tally mark. His eyes did a fast inventory, then let go of it.
+
+"Chamomile, hot?" she asked.
+
+"Please."
+
+Heather worked by muscle and sight. Paper cup, sleeve, tag kept from slipping with a finger. She watched for the small things she trusted more than talk: his wallet opening with notes squared; his left hand resting on the counter with the thumb kept off the metal, as if smudges were a kind of rudeness; the card returned to its lane, face the same way as the others. When the kettle thinned to a line, she followed the thread of gold until it pooled. She set the lid until the faint click said it intended to stay.
+
+The receipt printer chirped and cut. He didn't reach for it. He placed a coin on the counter he didn't owe and nudged it nearer to square. Along the side of his index finger, the faint shine of graphite—like another task had already happened where no one could see it.
+
+She slid the cup. "Careful."
+
+"Thanks."
+
+He took a napkin from the jar, one of the heavier kraft squares, and something changed radius around him. A stub pencil came out of his jacket the way a tool lives where it belongs. The sound, when it touched paper, drew a circle—dry, tidy, the noise of making room for a line.
+
+He didn't draw a face. He drew what the room had already agreed to be.
+First, the corner of the folded newspaper: a small grid of dark and light, three blanks left vertical like missing teeth. He added tiny clue numbers—3, 12, 17—so small they almost hid. Below it, the counter's edge, a single firm stroke. Inside that angle, he shaded a pale square: the coaster shadow she'd failed to erase, made visible on purpose. Across the bottom margin he pulled a soft band, a horizontal wash that stood in for the window's tired pink on tile. Near the band, he wrote nothing, only broke the line into dashes where the light breaks against grout. In the upper right, he mis-registered the letters of the window sign just enough to suggest them backwards without spelling anything smug. He paused, made one correction with a quiet eraser thup, and brushed the crumb aside with the back of his knuckle. The graphite along his finger deepened a shade.
+
+Heather wiped a clean place that didn't require it. Her mind tried to sprint ahead—portrait? critique?—and then tripped on the coaster square. Was that a note to clean better? The three blanks in the crossword—were those hers, the pieces she keeps refusing to fill? The band of light—was he watching that closely, down to color? She didn't tilt her head. She made the spoon handles in the rack line up and let the picture keep making itself without her help.
+
+He paid. Coins landed without clatter. He lifted the cup. For a fraction he considered the napkin. He left it where a saucer would have gone if saucers were still a thing here. His jacket zipper closed with a neat rasp. The door's rubber lip sighed around him, and the pink from the window walked across his shoulder and left.
+
+She finished the list. Mats up. Chairs. Lights to half. A rag folded into a smaller square than necessary. She reached the counter last, and the napkin gave a dry whisper into her palm. Graphite found her thumb, a faint crescent. Up close, the drawing refused performance. The crossword corner was only a corner. The three blanks were just blanks. The coaster square looked exactly like a coaster square and not a moral. She held it over the trash and the room did not vote.
+
+She folded once along a line that wasn't there, careful not to drag through the grid, and slid the square into her apron pocket. Paper touched seam with mild insistence. The choice made a small, useful click inside her—like a switch that doesn't power anything yet but admits there will be power later.
+
+She turned the sign, locked the door, and rested her forehead near the glass a breath. The city's presence returned—delivery van beeper somewhere far off, a scooter's thin whine, a storefront gate brought down slowly so it wouldn't start a fight it couldn't finish. Across the way, the bone-white figure in the crosswalk flashed at a tempo that wanted cooperation, not obedience.
+
+Down the stairwell, the old handrail kept its splinters on the underside where only truth touches. The vestibule smelled faintly of citrus and cardboard. She checked her pocket because she wanted to—not as a guard, as a proof. The napkin held its shape and reminded her where her hip was. Outside, the pharmacy's green spill washed the pavement without meaning anything. She walked the two blocks with her knees steady and her head quiet, not counting, letting the square of paper reset the size of attention.
+
+Up four flights, the bulbs argued, then committed. The door gave its usual resistance to the second turn and then relented. Keys to the metal dish—small argument, quick settlement. The heater offered a practical sigh and stayed out of it.
+She untied her apron and set it on the counter. The napkin came out warmer than she liked admitting. She flattened the fold with the side of her hand. The lines behaved better than the paper deserved.
+
+Now the image was unmistakable: the newspaper corner (tiny numbers, three blanks), the counter edge, the stubborn coaster square, the low stripe of light. Up close, the three blanks were not perfect; each had a soft hook where the pencil first touched down. The pink band wasn't pink—of course it wasn't—but the way he broke the line into small dashes felt right for light that can't commit to being solid. The almost-letters in the corner didn't spell anything. They only suggested that words exist on the other side of glass.
+
+She tried a few places on the fridge. Too high announced itself. Too low apologized. She taped it at the height you meet when you pour water at two in the morning. Blue painter's tape, pressed from center to edge with two fingers. The napkin rasped under her palm; the graphite flashed and went quiet as the kitchen light shifted when the fridge found its hum again.
+
+She judged the coaster square first because that was honest—was this a dig? Then she stood closer. No, it wasn't a dig. It was a fact. He had drawn what was there: the hour, not the person. The three blanks did their small work on her anyway. Not accusation—permission to leave something unfinished and still call the picture complete.
+
+Across town, a glove thudded on a small hallway table. Ian wiped a gray sheen from his index finger and watched it transfer to his thumb without metaphor. He redrew the corner of the grid in his head and considered whether the band of light had needed the broken line. He knew there wouldn't be a version two tonight. He felt for where the napkin would have been and decided the absence was the exact size he meant to leave in the world. That was enough for a day.
+
+Back in the kitchen, the tape lifted a hair at the top right and she pressed it down. The paper warmed under her palm, then cooled. The grid's tiny numbers held the room's rhythm better than the clock ever had. She set a glass beside the napkin and liked the blunt sound it made—no pretty chime, just contact. When she leaned, the pencil caught the light one stroke at a time—dull, then bright, then dull—like a row of small nods in agreement.
+
+She rinsed her thumb; the crescent didn't quite leave. Reasonable tax. She stood without doing dishes. The coaster square was still only a square. The blanks were still blanks. She let them be. She turned off the overhead and left the under-cabinet strip to keep watch. The drawing settled into a respectful gray.
+
+On her way to bed she pressed the center once—the way you check whether tape intends to stay. The paper held. The graphite answered with a brief, ordinary shine. That was all she asked of it. That was plenty.
+`,
+        ko: `카페는 가장자리만 남은 듯 얇아졌다.
+
+마지막 단골은 신문을 십자말풀이 면으로 접어 두고 갔다. 세 칸짜리 세로 문제가 비어 있었다. 헤더는 그 칸들이 그대로 남을 거라는 걸 알았다—그는 주말 퍼즐에는 손대지 않고, 테이블 치우는 사람을 위해 남겨두곤 했다. 라디에이터의 똑딱임은 알레그로에서 라르고로, 그리고 완전히 멈췄다. 열이 노력하길 그만둔 뒤에야 오는, 그 특유의 고요가 방을 채웠다.
+
+냉장고 압축기가 작은 체념과 함께 멈췄다. 웅음이 사라지자 유리 너머의 도시가 들려왔다. 시끄럽지 않되 분명한 존재감—옆방에서 누군가 숨 쉬는 정도. 그녀는 오후 내내 컵이 자리했던 카운터의 한 사각을 말렸다. 희미한 코스터 자국이 수건의 지시를 거부하듯 남아 있었다. 문가 타일 위로는 OPEN 표지의 빨강이 지친 분홍으로 번졌고, 스테인리스 가장자리는 차가운 푸른 선을 유지한 채, 잘려나간 듯 반쪽짜리로 떨리는 그녀의 손을 되비쳤다.
+
+필요도 없는 뚜껑들을 곧게 쌓았다. 뒤쪽에서는 배달 상자가 작은 “끝” 소리와 함께 자리를 잡았다. 수도꼭지가 미안하다는 듯 한 번 똑 떨어지고 얌전해졌다. 그녀는 이 시간을 좋아했다—방이 더 이상 요구하지 않는 시간.
+
+문 고무 패킹이 스스륵 숨을 쉬었다.
+
+그가 들어왔다. 나가려는 사람을 위한 공간을 남기고, 퍼지려는 코트를 진정시키는 어깨—정확하게 예의 바른 걸음새였다. 그는 우산을 벽에 기대어 뒀다. 미끄러지지 않았다. 짙은 모직, 테이블을 배운 팔꿈치 근처만 한 톤 더 어두웠다. 목도리에는 계산처럼 보이는 하얀 실 한 올이 걸려 있었다. 그의 시선이 빠르게 방을 세고는, 곧 놓아주었다.
+
+“캐모마일, 뜨거운 거요?”
+
+“네, 부탁해요.”
+
+헤더의 손은 근육과 눈으로 일했다. 종이컵, 슬리브, 실이 미끄러지지 않게 손가락으로 잡기. 그녀는 말보다 믿는 작은 것들을 살폈다. 지폐 모서리가 맞춰진 지갑, 금속에 지문을 남기지 않으려는 듯 카운터 모서리에 엄지만 떼고 올려둔 왼손, 같은 방향으로 다시 꽂히는 카드. 주전자 물줄기가 가늘게 선으로 변하자, 금빛 실이 작은 웅덩이가 될 때까지 따라갔다. “딸깍” 하고 의지를 밝히는 작은 소리까지 뚜껑을 밀어 맞췄다.
+
+영수증 프린터가 짹 하고 찍고 잘랐다. 그는 손을 뻗지 않았다. 내지 않아도 되는 동전을 카운터 위에 올려놓고 정사각에 더 가깝게 밀어두었다. 집게손가락 옆면에는 그래파이트가 은은히 번들거렸다—어디선가, 남에게 들키지 않은 다른 일이 이미 진행된 흔적처럼.
+
+그녀가 컵을 밀었다. “조심하세요.”
+
+“감사합니다.”
+
+그는 두꺼운 크래프트 냅킨을 하나 꺼냈다. 그를 중심으로 반경이 달라졌다. 재킷 속에서 짧은 연필이 제자리에서 꺼내진다—도구가 있어야 할 곳에 있다는 태도. 종이에 닿자 소리가 생겼다. 마른, 단정한, 선 하나를 위해 공간을 비우는 소리.
+
+얼굴을 그리진 않았다. 이 방이 이미 동의하고 있던 풍경을 그렸다.
+
+먼저, 접혀 있는 신문의 모서리. 어둠과 밝음이 만든 작은 격자, 빠진 이빨처럼 세 칸의 빈칸이 세로로 섰다. 그는 아주 작은 글씨로 단서 번호—3, 12, 17—를 적었다. 눈에 띄지 않을 만큼 작게. 그 아래에는 카운터 모서리를 단호한 한 획으로 그었다. 그 각 안쪽에는 연한 사각형을 깔아 음영을 줬다. 그녀가 지우지 못한, 고의로 드러낸 코스터 자리. 아래 여백에는 부드러운 띠를 길게 긋고, 문가 타일 위로 번진 지친 분홍빛을 대신했다. 그 근처에 글자는 쓰지 않고, 줄을 잘게 끊어 타일 줄눈에서 빛이 깨지는 느낌만 남겼다. 오른쪽 위에는 창문 글자의 역상처럼 보이게 일부러 살짝 어긋나게 스케치했다. 잘난 척은 없는 정도로만. 그는 잠깐 멈춰 조용한 지우개 ‘툭’ 한 번으로 각도를 고쳤고, 주먹 등으로 가루를 쓸어냈다. 그의 손가락 옆면의 그래파이트는 한 톤 더 짙어졌다.
+
+헤더는 깨끗한 곳을 괜히 한 번 더 닦았다. 마음은 앞질러 달리려 했다—초상화? 비평?—그러다 코스터 사각에 걸려 넘어졌다. 더 잘 닦으라는 암시일까? 십자말풀이의 세 칸—그건 내 이야기일까, 내가 계속 비워두는 조각들? 그 빛의 띠—색감까지 보고 있었던 걸까? 그녀는 고개를 기울이지 않았다. 레일의 숟가락 손잡이를 나란히 맞춰두고, 그림이 그녀의 도움 없이 스스로 계속 만들어지게 두었다.
+
+그는 값을 치렀다. 동전이 소리 없이 내려앉았다. 컵을 들었다. 아주 짧은 순간, 그는 냅킨을 생각했다. 이곳에 접시가 있었다면 놓였을 자리—그 자리에 냅킨을 남겼다. 재킷 지퍼가 정확한 소리로 닫혔다. 문턱의 고무 립이 그를 감싸듯 한숨 쉬었고, 창가의 분홍빛이 그의 어깨를 스쳐 나갔다.
+
+그녀는 체크리스트를 끝냈다. 매트 올리고. 의자 올리고. 조명 절반. 걸레는 필요 이상으로 작은 정사각이 되도록 접었다. 마지막에 카운터로 돌아오자, 냅킨이 그녀의 손바닥에 마른 속삭임을 남겼다. 엄지에 초승달 같은 회색이 묻었다. 가까이서 보니, 그림은 공연을 거부했다. 십자말풀이의 모서리는 그냥 모서리였다. 세 칸의 빈칸은 그냥 빈칸이었다. 코스터 사각형도 도덕이 아니고, 그저 코스터 자리였다. 그녀는 그것을 쓰레기통 위로 들어 올렸고, 방은 아무 의견도 내지 않았다.
+
+그녀는 없는 선을 따라 한 번 접었다. 격자를 문지르지 않도록 조심하며, 사각을 앞치마 주머니로 밀어 넣었다. 종이가 솔기에 닿으며 은근히 자리를 주장했다. 그 선택이 안쪽 어딘가에서 작고 유용한 ‘딸칵’을 냈다—아직 아무것도 켜지지 않지만, 언젠가 전기가 통할 것을 인정하는 스위치처럼.
+
+표지판을 돌리고, 문을 잠그고, 유리 가까이 이마를 잠깐 댔다. 도시의 존재감이 돌아왔다—어디 먼 데서 들리는 배달차의 경고음, 얇게 우는 스쿠터, 괜한 싸움을 만들지 않으려 천천히 내려오는 셔터 소리. 길 건너, 횡단보도의 하얀 사람 표시는 복종이 아니라 협력을 원할 때의 박자로 깜박였다.
+
+계단참을 내려가자, 오래된 난간은 진실만 닿는 아랫면에만 가시를 감췄다. 현관은 미약한 시트러스와 골판지 냄새가 섞여 있었다. 그녀는 확인하고 싶어서—경계가 아니라 증명으로—주머니를 짚었다. 냅킨은 모양을 유지했고, 그녀의 엉덩이가 어디 있는지 상기시켰다. 바깥에서는 약국의 초록빛이 아무 의미 없이 보도를 씻었다. 그녀는 무릎을 고르게, 머릿속을 조용히 두 블록을 걸었다. 숫자를 세지 않고, 종이 사각형이 주의의 크기를 다시 맞추게 하면서.
+
+네 층을 올라가며 전구가 잠깐 옥신각신하다가, 결국 마음을 정했다. 문은 두 번째 회전에 늘 그렇듯 작은 저항을 보이다가 물러났다. 열쇠는 금속 그릇에—소소한 언쟁, 빠른 합의. 히터는 실용적인 한숨을 쉬고 대화 밖에 머물렀다.
+
+앞치마 매듭을 풀어 카운터에 내려놓았다. 냅킨은 그녀가 인정하고 싶지 않을 만큼 따뜻했다. 그녀는 손날로 접힌 자리를 펼쳤다. 종이 수준보다 선들이 더 점잖게 굴었다.
+
+이제 그림은 분명했다. 신문 모서리(작은 숫자들, 세 개의 빈칸), 카운터의 모, 억지로 남아 있던 코스터 사각, 낮게 깔린 빛의 띠. 가까이 보니 빈칸들은 완벽한 사각이 아니었다. 연필이 처음 닿던 자리마다 작은 갈고리가 있었다. 분홍 띠는—당연히—분홍이 아니었지만, 선을 잘게 끊어놓은 방식이, 단단함을 끝내 결정하지 못하는 빛의 성질과 잘 맞았다. 모서리의 거의-글자들은 아무 말도 쓰지 않았다. 다만 유리 건너편에 단어들이 존재한다는 사실만 암시했다.
+
+그녀는 냉장고 위 몇 자리를 시험했다. 너무 높으면 스스로 알렸다. 너무 낮으면 미안해 보였다. 새벽 두 시에 물을 따를 때 눈이 맞을 높이에 붙였다. 파란 마스킹테이프를 중앙에서 바깥으로 두 손가락으로 밀어 눌렀다. 종이가 손바닥 아래서 사각거렸다. 냉장고가 다시 웅 하고 숨을 찾자, 부엌 불빛에 그래파이트가 반짝였다가 잠잠해졌다.
+
+그녀는 먼저 코스터 사각을 판단했다. 그게 솔직하니까—빈정거림일까? 한 걸음 더 다가섰다. 아니다, 빈정거림이 아니다. 사실이다. 그가 그린 건 거기 있던 것들—사람이 아니라 시간. 그래도 세 개의 빈칸은 그녀에게 작은 일을 했다. 책망이 아니라 허락. 미완으로 남겨도 그림은 완성될 수 있다는 허락.
+
+도시 반대편, 작은 현관 탁자에 장갑이 툭 떨어졌다. 이안은 집게손가락의 회색 윤기를 엄지로 훑어 옮기는 걸 보았다. 비유는 필요 없었다. 그는 머릿속에서 그 격자의 모퉁이를 다시 그려보며, 빛의 띠에 그 끊어진 선이 꼭 필요했는지 생각했다. 오늘 밤엔 2번 버전이 없을 것을 알고 있었다. 그는 냅킨이 있을 자리를 더듬었고, 세상에 남겨 두려 했던 빈자리의 정확한 크기가 지금의 부재와 같다고 결론냈다. 오늘로는 충분했다.
+
+부엌으로 돌아와 보니, 테이프 오른쪽 위가 머리카락 한 올만큼 들떠 있었다. 그녀는 눌러 붙였다. 종이는 손바닥 아래서 따뜻해졌다가 식었다. 격자의 작은 숫자들이 시계보다 더 정확하게 방의 리듬을 붙들었다. 그녀는 냅킨 옆에 유리컵을 내려놓았고, 그 둔탁한 소리가 마음에 들었다—예쁜 맑음이 아니라, 그저 맞닿는 소리. 몸을 기울이자 연필 자국이 한 획씩 빛을 받았다—무디고, 반짝이고, 다시 무딘—작은 끄덕임들이 줄지어 서로에게 응답하는 것처럼.
+
+그녀는 엄지를 씻었다. 초승달은 완전히 지워지지 않았다. 타당한 세금. 설거지는 미뤄둔 채 서 있었다. 코스터 사각은 여전히 사각형일 뿐이었다. 빈칸들은 여전히 빈칸이었다. 그녀는 그대로 두기로 했다. 천장등을 끄고 하부 조명만 남겼다. 그림은 예의 바른 회색으로 가라앉았다.
+
+침대로 가는 길에 그녀는 한 번 중앙을 눌렀다—테이프가 머물 뜻이 있는지 확인하듯. 종이는 버텼다. 연필 가루가 잠깐, 평범한 빛으로 대답했다. 그녀가 그것에게 바란 건 그 정도였다. 충분했다.`
+      }
+    }
   ],
   },
   {
