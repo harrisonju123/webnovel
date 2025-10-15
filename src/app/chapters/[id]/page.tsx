@@ -1,12 +1,12 @@
-"use client";
+'use client';
 
-import Link from "next/link";
-import { novels } from "@/data/novel";
-import { useLanguage } from "@/app/contexts/LanguageContext";
-import { LocalizedText } from "@/types/novel";
+import Link from 'next/link';
+import { novels } from '@/data/novel';
+import { useLanguage } from '@/app/contexts/LanguageContext';
+import { LocalizedText } from '@/types/novel';
 
-function getText(text: LocalizedText | string, lang: "en" | "ko"): string {
-  if (typeof text === "string") return text;
+function getText(text: LocalizedText | string, lang: 'en' | 'ko'): string {
+  if (typeof text === 'string') return text;
   return text[lang] || text.en;
 }
 
@@ -45,34 +45,29 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
     return (
       <div className="text-center py-12">
         <h1 className="text-2xl font-bold mb-4">
-          {language === "ko" ? "챕터를 찾을 수 없습니다" : "Chapter not found"}
+          {language === 'ko' ? '챕터를 찾을 수 없습니다' : 'Chapter not found'}
         </h1>
         <Link href="/" className="text-blue-600 hover:text-blue-800">
-          {language === "ko" ? "홈으로 돌아가기" : "Return to home"}
+          {language === 'ko' ? '홈으로 돌아가기' : 'Return to home'}
         </Link>
       </div>
     );
   }
 
   const currentIndex = novel.chapters.findIndex((ch) => ch.id === params.id);
-  const previousChapter =
-    currentIndex > 0 ? novel.chapters[currentIndex - 1] : null;
+  const previousChapter = currentIndex > 0 ? novel.chapters[currentIndex - 1] : null;
   const nextChapter =
-    currentIndex < novel.chapters.length - 1
-      ? novel.chapters[currentIndex + 1]
-      : null;
+    currentIndex < novel.chapters.length - 1 ? novel.chapters[currentIndex + 1] : null;
 
   const labels = {
-    backToContents:
-      language === "ko" ? "← 목차로 돌아가기" : "← Back to Table of Contents",
-    chapter: language === "ko" ? "챕터" : "Chapter",
-    publishedOn: language === "ko" ? "출간일" : "Published on",
-    previousChapter: language === "ko" ? "이전 챕터" : "Previous Chapter",
-    nextChapter: language === "ko" ? "다음 챕터" : "Next Chapter",
-    noPreviousChapter:
-      language === "ko" ? "이전 챕터 없음" : "No previous chapter",
-    noNextChapter: language === "ko" ? "다음 챕터 없음" : "No next chapter",
-    returnToContents: language === "ko" ? "목차로 돌아가기" : "Return to Table of Contents",
+    backToContents: language === 'ko' ? '← 목차로 돌아가기' : '← Back to Table of Contents',
+    chapter: language === 'ko' ? '챕터' : 'Chapter',
+    publishedOn: language === 'ko' ? '출간일' : 'Published on',
+    previousChapter: language === 'ko' ? '이전 챕터' : 'Previous Chapter',
+    nextChapter: language === 'ko' ? '다음 챕터' : 'Next Chapter',
+    noPreviousChapter: language === 'ko' ? '이전 챕터 없음' : 'No previous chapter',
+    noNextChapter: language === 'ko' ? '다음 챕터 없음' : 'No next chapter',
+    returnToContents: language === 'ko' ? '목차로 돌아가기' : 'Return to Table of Contents',
   };
 
   return (
@@ -94,7 +89,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
 
       <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
         {getText(chapter.content, language)
-          .split("\n\n")
+          .split('\n\n')
           .map((paragraph, index) => (
             <p key={index} className="mb-4 leading-relaxed">
               {parseMarkdown(paragraph)}
@@ -109,12 +104,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
               href={`/chapters/${previousChapter.id}`}
               className="inline-flex items-center text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
             >
-              <svg
-                className="w-5 h-5 mr-2"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
@@ -135,12 +125,7 @@ export default function ChapterPage({ params }: { params: { id: string } }) {
               className="inline-flex items-center text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
             >
               {labels.nextChapter}
-              <svg
-                className="w-5 h-5 ml-2"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"

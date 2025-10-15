@@ -22,11 +22,13 @@ A modern web novel hosting platform built with Next.js, TypeScript, and Tailwind
 
 1. Clone the repository
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Run the development server:
+
    ```bash
    npm run dev
    ```
@@ -69,6 +71,7 @@ Edit `/src/data/novel.ts` to customize your web novel:
 ### Method 1: Using Vercel CLI
 
 1. Install Vercel CLI:
+
    ```bash
    npm i -g vercel
    ```

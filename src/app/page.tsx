@@ -1,12 +1,12 @@
-"use client";
+'use client';
 
-import Link from "next/link";
-import { novels } from "@/data/novel";
-import { useLanguage } from "@/app/contexts/LanguageContext";
-import { LocalizedText } from "@/types/novel";
+import Link from 'next/link';
+import { novels } from '@/data/novel';
+import { useLanguage } from '@/app/contexts/LanguageContext';
+import { LocalizedText } from '@/types/novel';
 
-function getText(text: LocalizedText | string, lang: "en" | "ko"): string {
-  if (typeof text === "string") return text;
+function getText(text: LocalizedText | string, lang: 'en' | 'ko'): string {
+  if (typeof text === 'string') return text;
   return text[lang] || text.en;
 }
 
@@ -14,10 +14,10 @@ export default function Home() {
   const { language } = useLanguage();
 
   const labels = {
-    myStories: language === "ko" ? "내 이야기들" : "My Stories",
-    by: language === "ko" ? "작가" : "by",
-    chapters: language === "ko" ? "챕터" : "chapters",
-    readNow: language === "ko" ? "읽기" : "Read Now",
+    myStories: language === 'ko' ? '내 이야기들' : 'My Stories',
+    by: language === 'ko' ? '작가' : 'by',
+    chapters: language === 'ko' ? '챕터' : 'chapters',
+    readNow: language === 'ko' ? '읽기' : 'Read Now',
   };
 
   return (
@@ -25,9 +25,7 @@ export default function Home() {
       <div className="mb-8">
         <h1 className="text-4xl font-bold mb-4">{labels.myStories}</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400">
-          {language === "ko"
-            ? "다양한 이야기를 만나보세요"
-            : "Explore different stories"}
+          {language === 'ko' ? '다양한 이야기를 만나보세요' : 'Explore different stories'}
         </p>
       </div>
 
@@ -40,9 +38,7 @@ export default function Home() {
           >
             <div className="flex justify-between items-start">
               <div className="flex-1">
-                <h2 className="text-2xl font-bold mb-2">
-                  {getText(novel.title, language)}
-                </h2>
+                <h2 className="text-2xl font-bold mb-2">{getText(novel.title, language)}</h2>
                 <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">
                   {labels.by} {novel.author}
                 </p>

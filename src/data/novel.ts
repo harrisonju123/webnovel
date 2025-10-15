@@ -1,38 +1,38 @@
-import { Novel } from "@/types/novel";
+import { Novel } from '@/types/novel';
 
-// @ts-ignore
+// @ts-expect-error - Novel data structure is being dynamically built
 export const novels: Novel[] = [
   {
-    id: "chamomile-tea",
+    id: 'chamomile-tea',
     title: {
-      en: "Waiting For The Chamomile Tea To Get Cold",
-      ko: "카모마일 차가 식기를 기다리며",
+      en: 'Waiting For The Chamomile Tea To Get Cold',
+      ko: '카모마일 차가 식기를 기다리며',
     },
-    author: "Midnightly1",
-  description: {
-    en: "Two people who are rebuilding themselves - not through grand confessions or miracles, but by simply being seen. The story isn't about \"falling in love,\" but about learning to exist again after love, burnout, or disillusionment.",
-    ko: "웅장한 고백이나 기적이 아니라 단순히 보여지는 것으로 자신을 재건하는 두 사람. 이 이야기는 \"사랑에 빠지는 것\"이 아니라 사랑, 번아웃 또는 환멸 후에 다시 존재하는 법을 배우는 것에 관한 것입니다.",
-  },
-  genre: {
-    en: "Slice of Life / Drama / Romance",
-    ko: "일상 / 드라마 / 로맨스",
-  },
-  status: {
-    en: "Ongoing",
-    ko: "연재중",
-  },
-  lastUpdated: "2025-10-12",
-  chapters: [
-    {
-      id: "1",
-      number: 1,
-      title: {
-        en: "The Color of Exhaustion",
-        ko: "지친 색",
-      },
-      publishDate: "2025-10-12",
-      content: {
-        en: `At closing, the cafe looked like it had yawned. Chairs tipped onto tables like tired elbows, floor brushed with footprints that had melted from salt to dark gray circles. Heather snapped the deadbolt and watched her reflection waver in the glass.
+    author: 'Midnightly1',
+    description: {
+      en: 'Two people who are rebuilding themselves - not through grand confessions or miracles, but by simply being seen. The story isn\'t about "falling in love," but about learning to exist again after love, burnout, or disillusionment.',
+      ko: '웅장한 고백이나 기적이 아니라 단순히 보여지는 것으로 자신을 재건하는 두 사람. 이 이야기는 "사랑에 빠지는 것"이 아니라 사랑, 번아웃 또는 환멸 후에 다시 존재하는 법을 배우는 것에 관한 것입니다.',
+    },
+    genre: {
+      en: 'Slice of Life / Drama / Romance',
+      ko: '일상 / 드라마 / 로맨스',
+    },
+    status: {
+      en: 'Ongoing',
+      ko: '연재중',
+    },
+    lastUpdated: '2025-10-12',
+    chapters: [
+      {
+        id: '1',
+        number: 1,
+        title: {
+          en: 'The Color of Exhaustion',
+          ko: '지친 색',
+        },
+        publishDate: '2025-10-12',
+        content: {
+          en: `At closing, the cafe looked like it had yawned. Chairs tipped onto tables like tired elbows, floor brushed with footprints that had melted from salt to dark gray circles. Heather snapped the deadbolt and watched her reflection waver in the glass.
 
 Ghosted by streetlight, a smear of taxi yellow moving across her face as if color were something that only passed through.
 
@@ -93,7 +93,7 @@ The radiator ticked once, then again, a metronome returning. Outside, somebody l
 She thought maybe the city didn't sleep. Maybe it just sighed between breaths.
 
 Heather turned off the lamp. The room grayed. Rain wrote soft cursive against the glass. The last train rattled somewhere beneath the street, carrying strangers home like commas in a long sentence that would finish itself eventually.`,
-        ko: `마감 시간, 카페는 막 하품이라도 한 듯했다. 의자들은 테이블 위에 거꾸로 올려져 있었고, 바닥에는 소금기 묻은 발자국이 녹아 어두운 회색 얼룩을 만들고 있었다. 헤더는 데드볼트를 탁 잠그고, 유리에 흔들리는 자신의 얼굴을 바라보았다.
+          ko: `마감 시간, 카페는 막 하품이라도 한 듯했다. 의자들은 테이블 위에 거꾸로 올려져 있었고, 바닥에는 소금기 묻은 발자국이 녹아 어두운 회색 얼룩을 만들고 있었다. 헤더는 데드볼트를 탁 잠그고, 유리에 흔들리는 자신의 얼굴을 바라보았다.
 
 가로등 아래, 유령 같은 얼굴 위로 택시의 노란빛이 한 번 스쳐 지나갔다. 색이란 건 지나가기만 하는 것 같았다.
 
@@ -154,18 +154,18 @@ Heather turned off the lamp. The room grayed. Rain wrote soft cursive against th
 어쩌면 도시는 잠들지 않는 게 아닐지도 모른다. 그저 숨과 숨 사이에서 한숨을 쉬는 것일 뿐.
 
 헤더는 스탠드 불을 껐다. 방은 회색으로 가라앉았다. 비는 유리 위에 부드러운 필기체를 썼다. 어딘가 지하에서는 막차가 덜컹거리며, 긴 문장의 사이사이에 찍히는 쉼표처럼 낯선 이들을 집으로 데려가고 있었다.`,
+        },
       },
-    },
-    {
-      id: "2",
-      number: 2,
-      title: {
-        en: "Same Seat, Same Face",
-        ko: "같은 자리, 같은 얼굴",
-      },
-      publishDate: "2025-10-12",
-      content: {
-        en: `The next night looked like the last one with slightly different weather. The city couldn't decide between snow and rain, so it wore both for a while. Heather closed the café, folded the rag one more time than necessary, and let the bell's final chime fade into the hallway air. Down the stairs, into the tiled throat of the station, she joined the small migration of people who had already used up their day's words.
+      {
+        id: '2',
+        number: 2,
+        title: {
+          en: 'Same Seat, Same Face',
+          ko: '같은 자리, 같은 얼굴',
+        },
+        publishDate: '2025-10-12',
+        content: {
+          en: `The next night looked like the last one with slightly different weather. The city couldn't decide between snow and rain, so it wore both for a while. Heather closed the café, folded the rag one more time than necessary, and let the bell's final chime fade into the hallway air. Down the stairs, into the tiled throat of the station, she joined the small migration of people who had already used up their day's words.
 
 The platform had its usual grammar: a busker trying to coax a love song out of the cold, the overhead screens making promises they couldn't keep, a draft that belonged to no season. Heather stood near the column with the old sticker that read YOU ARE HERE in a way that felt slightly threatening. She opened her notebook, then closed it again.
 
@@ -224,7 +224,7 @@ He looked up to confirm the world was still the world. His eyes passed, paused, 
 She closed the notebook on that. The sentence carried the shape of a beginning. Somewhere under the street, the last train for someone else rattled by, moving a few faces closer to the places they pretended to be heading. Heather watched the reflection assemble and unassemble in the window. Beyond it, the tunnel made a soft, endless mouth.
 
 He turned his page. His pencil began again. The sound was small, like rain deciding to fall.`,
-        ko: `다음 날 밤도 전날과 비슷했다. 달라진 건 날씨뿐이었다. 도시는 눈과 비 사이를 맴돌다 잠시 둘 다를 걸쳤다. 헤더는 카페 문을 잠그고, 걸레를 필요 이상 한 번 더 접은 뒤, 마지막 종소리가 복도 공기 속으로 사라지게 두었다. 계단을 내려가 타일로 마감된 좁은 통로로 들어서며, 이미 하루치 말을 다 써버린 사람들의 작은 행렬에 섞였다.
+          ko: `다음 날 밤도 전날과 비슷했다. 달라진 건 날씨뿐이었다. 도시는 눈과 비 사이를 맴돌다 잠시 둘 다를 걸쳤다. 헤더는 카페 문을 잠그고, 걸레를 필요 이상 한 번 더 접은 뒤, 마지막 종소리가 복도 공기 속으로 사라지게 두었다. 계단을 내려가 타일로 마감된 좁은 통로로 들어서며, 이미 하루치 말을 다 써버린 사람들의 작은 행렬에 섞였다.
 
 승강장에도 늘 그곳만의 문법이 있었다. 찬 공기에서 사랑 노래를 끌어내려 애쓰는 버스커, 지킬 수 없는 약속을 내거는 전광판, 계절을 잃어버린 틈바람. 헤더는 ‘YOU ARE HERE’라 적힌 오래된 스티커가 어쩐지 협박처럼 느껴지는 기둥 곁에 섰다. 공책을 열었다가 다시 닫았다.
 
@@ -283,18 +283,18 @@ He turned his page. His pencil began again. The sound was small, like rain decid
 그 문장을 덮었다. 시작의 모양을 한 문장이었다. 어딘가 지하의 어둠 속에선 누군가에게 마지막 열차가 덜컹거리며 지나가고 있었다. 몇몇 얼굴을, 그들이 향한다고 믿는 곳에 조금 더 가까이 밀어 주면서. 헤더는 창에 모였다 흩어지는 반사를 보았다. 그 너머로 터널은 부드럽고 끝도 없는 입처럼 이어졌다.
 
 그는 페이지를 넘겼다. 연필이 다시 시작했다. 아주 작은 소리. 막 비가 내리기로 마음먹는 순간 같은.`,
+        },
       },
-    },
-    {
-      id: "3",
-      number: 3,
-      title: {
-        en: "Extra Shot",
-        ko: "엑스트라 샷",
-      },
-      publishDate: "2025-10-12",
-      content: {
-        en: `The café's air felt heavier after nine. Heather's wrists ached from tamping—the dull pulse that came from doing something almost right a hundred times. The rag in her hand had stopped being white hours ago. She wiped the counter anyway, the smell of citrus cleaner mixing with milk and rain through the cracked window. The radio murmured something indecisive between jazz and static. It was the hour when caffeine meant survival, not comfort.
+      {
+        id: '3',
+        number: 3,
+        title: {
+          en: 'Extra Shot',
+          ko: '엑스트라 샷',
+        },
+        publishDate: '2025-10-12',
+        content: {
+          en: `The café's air felt heavier after nine. Heather's wrists ached from tamping—the dull pulse that came from doing something almost right a hundred times. The rag in her hand had stopped being white hours ago. She wiped the counter anyway, the smell of citrus cleaner mixing with milk and rain through the cracked window. The radio murmured something indecisive between jazz and static. It was the hour when caffeine meant survival, not comfort.
 
 She cleaned the drip tray with a practiced cloth fold and watched a thin line of water run to the corner like a thought escaping. It was the slow hour when even the grinder seemed embarrassed to make noise.
 
@@ -385,7 +385,7 @@ At home, the notebook waited where she'd put it on the table. The page had dried
 *Start warm. It's okay if it cools.*
 
 She closed the cover and left her palm there a second, claiming the heat she could keep.`,
-        ko: `카페 안 공기는 아홉 시가 지나자 조금 눅눅해졌다.
+          ko: `카페 안 공기는 아홉 시가 지나자 조금 눅눅해졌다.
 헤더의 손목엔 하루 종일 커피를 눌러 담은 자국 같은 피로가 맴돌았다.
 손에 쥔 행주는 이미 오래전에 하얀색을 잃었지만, 그녀는 그래도 한 번 더 닦았다.
 시트러스 세제 향이 우유 냄새, 창틈으로 들어온 빗내와 뒤섞였다.
@@ -551,18 +551,18 @@ She closed the cover and left her palm there a second, claiming the heat she cou
 방 안엔 조용한 기계음과 불빛이 섞여 있었다.
 밖의 비는, 결국 생각을 바꾸지 않았다.
 그대로 내리고 있었다.`,
+        },
       },
-    },
-    {
-      id: "4",
-      number: 4,
-      title: {
-        en: "Ghost Drafts",
-        ko: "유령 원고",
-      },
-      publishDate: "2025-10-12",
-      content: {
-        en: `He left the café with heat in his hands and needed motion more than sleep.
+      {
+        id: '4',
+        number: 4,
+        title: {
+          en: 'Ghost Drafts',
+          ko: '유령 원고',
+        },
+        publishDate: '2025-10-12',
+        content: {
+          en: `He left the café with heat in his hands and needed motion more than sleep.
 
 The studio kept different weather than the street: radiator ticking, lamp laying down a tight circle. Ian hung his coat on the chair. A drop slid off the cuff, found a floorboard seam, and chose it. He liked when water chose a line.
 
@@ -603,7 +603,7 @@ On the way to bed he touched the subway map with two fingers, the way you test p
 Across the room the folder of words stayed closed. Somewhere inside, the uncredited line held its heat better than tea. He didn't think about why. He didn't connect the author to anyone. He didn't go looking.
 
 The studio thinned to hums. He lay down and let the day flatten—no layers, no masks—one sheet, unshared.`,
-        ko: `그는 손에 남은 온기를 쥔 채 카페를 나왔다. 잠보다 움직임이 더 필요했다.
+          ko: `그는 손에 남은 온기를 쥔 채 카페를 나왔다. 잠보다 움직임이 더 필요했다.
 
 스튜디오는 거리와는 다른 날씨를 지녔다. 라디에이터가 또각거리고, 스탠드 조명이 작은 원을 고요히 깔렸다. 이안은 코트를 의자에 걸었다. 소매 끝에서 떨어진 물방울 하나가 마룻장 틈을 찾아 들어갔다. 물이 선을 고르는 순간이 좋았다.
 
@@ -644,18 +644,18 @@ The studio thinned to hums. He lay down and let the day flatten—no layers, no 
 맞은편에 둔 'WORDS' 폴더는 닫혀 있었다. 그 안 어딘가의, 이름 없는 그 문장은 차보다 오래 열을 지키고 있었다. 이유는 생각하지 않았다. 그 문장을 누구와도 연결하지 않았다. 찾으려 하지도 않았다.
 
 스튜디오는 다시 작은 소음들만 남겼다. 그는 몸을 눕혀 하루를 납작하게 폈다. 겹도, 가림도 없이. 종이 한 장. 공유하지 않음.`,
+        },
       },
-    },
-    {
-      id: "5",
-      number: 5,
-      title: {
-        en: "People Who Don't Speak",
-        ko: "말하지 않는 사람들",
-      },
-      publishDate: "2025-10-13",
-      content: {
-        en: `Ten minutes to close, the owner started talking the way he always did when the room thinned—hands making patient circles over the counter, voice softened by steam that had already been shut off.
+      {
+        id: '5',
+        number: 5,
+        title: {
+          en: "People Who Don't Speak",
+          ko: '말하지 않는 사람들',
+        },
+        publishDate: '2025-10-13',
+        content: {
+          en: `Ten minutes to close, the owner started talking the way he always did when the room thinned—hands making patient circles over the counter, voice softened by steam that had already been shut off.
 
 "You read her yet?" he asked Heather, as if they'd been mid-conversation. "Came out of nowhere. Two bestsellers, then she vanished. No jacket photo. Pen name. A ghost, but the good kind."
 
@@ -730,7 +730,7 @@ Back at street level, the city was the same shade everywhere. She walked past he
 She didn't post it. She closed the notebook and let her thigh remember the weight.
 
 Across town, a desk lamp clicked off. A pencil settled across the seam of a closed book like a bridge kept ready. Somewhere between stations, air learned the shape of two people who hadn't spoken and still said something. The train kept the grammar for them, safe and mechanical, until they were ready to hear it.`,
-        ko:`영업 종료 10분 전, 가게가 한산해지면 늘 그러듯, 주인은 카운터 위에서 손으로 느릿한 원을 그리며, 이미 꺼 둔 스팀의 잔열처럼 낮아진 목소리로 말을 꺼냈다.
+          ko: `영업 종료 10분 전, 가게가 한산해지면 늘 그러듯, 주인은 카운터 위에서 손으로 느릿한 원을 그리며, 이미 꺼 둔 스팀의 잔열처럼 낮아진 목소리로 말을 꺼냈다.
 
 “그 작가 읽어봤어?” 그가 헤더에게, 마치 이야기 도중이기라도 한 듯 물었다. “갑자기 나타나서 베스트셀러 두 권 내고는 사라졌지. 표지 사진도 없고, 필명. 유령 같아. 좋은 쪽으로.”
 
@@ -805,18 +805,18 @@ Across town, a desk lamp clicked off. A pencil settled across the seam of a clos
 그녀는 올리지 않았다. 노트를 닫고, 허벅지가 그 무게를 기억하게 했다.
 
 도시 반대편 어딘가에서, 책상 조명이 ‘딸깍’ 꺼졌다. 닫힌 책의 접힌 선 위로 연필이 다리처럼 얹혀 제자리를 찾았다. 역과 역 사이 어딘가에서, 말하지 않은 두 사람의 모양을 공기가 먼저 배웠다. 기차는 그들의 문법을, 그들이 들을 준비가 될 때까지, 안전하고 기계적으로 보관해 주었다.`,
+        },
       },
-    },
-    {
-      id: "6",
-      number: 6,
-      title: {
-        en: "The Napkin",
-        ko: "그 냅킨",
-      },
-      publishDate: "2025-10-14",
-      content: {
-        en: `The café thinned to edges.
+      {
+        id: '6',
+        number: 6,
+        title: {
+          en: 'The Napkin',
+          ko: '그 냅킨',
+        },
+        publishDate: '2025-10-14',
+        content: {
+          en: `The café thinned to edges.
 
 The last regular left his newspaper folded to the crossword, three downs unsolved. Heather knew they'd stay that way—he never touched weekend puzzles, only left them for whoever cleaned tables. The radiator's tick slowed from allegro to largo, then stopped, and a particular quiet took the room—the kind that only arrives after heat quits trying.
 
@@ -873,7 +873,7 @@ She rinsed her thumb; the crescent didn't quite leave. Reasonable tax. She stood
 
 On her way to bed she pressed the center once—the way you check whether tape intends to stay. The paper held. The graphite answered with a brief, ordinary shine. That was all she asked of it. That was plenty.
 `,
-        ko: `카페는 가장자리만 남은 듯 얇아졌다.
+          ko: `카페는 가장자리만 남은 듯 얇아졌다.
 
 마지막 단골은 신문을 십자말풀이 면으로 접어 두고 갔다. 세 칸짜리 세로 문제가 비어 있었다. 헤더는 그 칸들이 그대로 남을 거라는 걸 알았다—그는 주말 퍼즐에는 손대지 않고, 테이블 치우는 사람을 위해 남겨두곤 했다. 라디에이터의 똑딱임은 알레그로에서 라르고로, 그리고 완전히 멈췄다. 열이 노력하길 그만둔 뒤에야 오는, 그 특유의 고요가 방을 채웠다.
 
@@ -931,19 +931,19 @@ On her way to bed she pressed the center once—the way you check whether tape i
 
 그녀는 엄지를 씻었다. 초승달은 완전히 지워지지 않았다. 타당한 세금. 설거지는 미뤄둔 채 서 있었다. 코스터 사각은 여전히 사각형일 뿐이었다. 빈칸들은 여전히 빈칸이었다. 그녀는 그대로 두기로 했다. 천장등을 끄고 하부 조명만 남겼다. 그림은 예의 바른 회색으로 가라앉았다.
 
-침대로 가는 길에 그녀는 한 번 중앙을 눌렀다—테이프가 머물 뜻이 있는지 확인하듯. 종이는 버텼다. 연필 가루가 잠깐, 평범한 빛으로 대답했다. 그녀가 그것에게 바란 건 그 정도였다. 충분했다.`
-      }
-    },
-    {
-      id: "7",
-      number: 7,
-      title: {
-        en: "The People I See on the Last Train",
-        ko: "막차에서 마주한 사람들",
+침대로 가는 길에 그녀는 한 번 중앙을 눌렀다—테이프가 머물 뜻이 있는지 확인하듯. 종이는 버텼다. 연필 가루가 잠깐, 평범한 빛으로 대답했다. 그녀가 그것에게 바란 건 그 정도였다. 충분했다.`,
+        },
       },
-      publishDate: "2025-10-14",
-      content: {
-        en: `The napkin lived on Heather's fridge like a small, obedient window. The café was there in graphite lines: the scar on the counter, the tilt of the bell by the door, the light that fell wrong in late evening. No caption. No theory. Just what was.
+      {
+        id: '7',
+        number: 7,
+        title: {
+          en: 'The People I See on the Last Train',
+          ko: '막차에서 마주한 사람들',
+        },
+        publishDate: '2025-10-14',
+        content: {
+          en: `The napkin lived on Heather's fridge like a small, obedient window. The café was there in graphite lines: the scar on the counter, the tilt of the bell by the door, the light that fell wrong in late evening. No caption. No theory. Just what was.
 
 At 11 p.m., Wednesday, she stood barefoot on the cold tile, drinking from a glass that kept fogging her lip. The apartment was the kind that sounded bigger after midnight. Heat knocked in the radiators and then thought better of it. Outside, someone's radio played a song that remembered it was winter only in the chorus.
 
@@ -1067,7 +1067,7 @@ In bed, Heather let her eyes close around the fact of it. She had written again.
 
 She slept with her thumb still faintly gray.
 `,
-        ko: `냅킨은 헤더의 냉장고에 작은 얌전한 창처럼 붙어 있었다. 카페는 흑연 선으로 거기 있었다: 카운터의 흉터, 문가 종의 기울기, 늦은 저녁에만 빗겨 드는 빛. 설명도 없고, 이론도 없었다. 그냥 거기 있는 것.
+          ko: `냅킨은 헤더의 냉장고에 작은 얌전한 창처럼 붙어 있었다. 카페는 흑연 선으로 거기 있었다: 카운터의 흉터, 문가 종의 기울기, 늦은 저녁에만 빗겨 드는 빛. 설명도 없고, 이론도 없었다. 그냥 거기 있는 것.
 
 수요일 밤 11시, 그녀는 맨발로 차가운 타일 위에 서서 금세 입김으로 흐려지는 유리잔을 들었다. 이 아파트는 자정이 지나야 더 크게 들리는 집이었다. 라디에이터는 두드리다 그쳤고, 밖에서는 누군가의 라디오가 후렴에서만 겨울을 기억하는 노래를 틀고 있었다.
 
@@ -1193,40 +1193,40 @@ She slept with her thumb still faintly gray.
 
 침대에서, 헤더는 그 사실을 품고 눈을 감았다. 그녀는 다시 썼다. 그리고 숨었다. 둘 다 승리. 둘 다 패배.
 
-그녀는 엄지에 희미한 회색을 남긴 채 잠들었다.`
-      }
-    }
-  ],
+그녀는 엄지에 희미한 회색을 남긴 채 잠들었다.`,
+        },
+      },
+    ],
   },
   {
-    id: "gather-wisdom",
+    id: 'gather-wisdom',
     title: {
       en: "What's so Weird About that?",
-      ko: "이게 왜 이상해요?",
+      ko: '이게 왜 이상해요?',
     },
-    author: "hae",
+    author: 'hae',
     description: {
-      en: "A story about someone who sees the world in their own way.",
-      ko: "세상을 자기 방식으로 이해하는 사람의 이야기.",
+      en: 'A story about someone who sees the world in their own way.',
+      ko: '세상을 자기 방식으로 이해하는 사람의 이야기.',
     },
     genre: {
-      en: "Slice of Life / Comedy",
-      ko: "일상 / 코미디",
+      en: 'Slice of Life / Comedy',
+      ko: '일상 / 코미디',
     },
     status: {
-      en: "Ongoing",
-      ko: "연재중",
+      en: 'Ongoing',
+      ko: '연재중',
     },
-    lastUpdated: "2025-10-12",
+    lastUpdated: '2025-10-12',
     chapters: [
       {
-        id: "1",
+        id: '1',
         number: 1,
         title: {
           en: "I've Always Been Kind of That Way",
-          ko: "나, 원래 좀 그런 애였다",
+          ko: '나, 원래 좀 그런 애였다',
         },
-        publishDate: "2025-10-12",
+        publishDate: '2025-10-12',
         content: {
           en: `My name is Ji-hye Choe.
 It means “gather in a wise place.”
@@ -1461,39 +1461,37 @@ I’ll just keep spilling until I learn.`,
 
 그래도 한 번쯤은
 나도 누군가에게 사랑받을 수 있지 않을까?
-아니면, 또 컵라면처럼 새버릴까.`
+아니면, 또 컵라면처럼 새버릴까.`,
         },
       },
     ],
   },
   {
-    id: "kids-of-cuba",
+    id: 'kids-of-cuba',
     title: {
-      en: "Kids of Cuba"
+      en: 'Kids of Cuba',
     },
-    author: "Chachacha",
+    author: 'Chachacha',
     description: {
-      en: "Little lives that shine, fade, and remind us that love itself might be the only evidence of God."
+      en: 'Little lives that shine, fade, and remind us that love itself might be the only evidence of God.',
     },
     genre: {
-      en: "Spiritual Memoir"
+      en: 'Spiritual Memoir',
     },
     status: {
-      en: "Ongoing"
+      en: 'Ongoing',
     },
-    lastUpdated: "2025-10-14",
+    lastUpdated: '2025-10-14',
     chapters: [
       {
-        id: "1",
+        id: '1',
         number: 1,
         title: {
-          en: "Anthony"
+          en: 'Anthony',
         },
-        publishDate: "2025-10-14",
+        publishDate: '2025-10-14',
         content: {
-          en: `Anthony
-
-On a school roof, a fork rested halfway through rice. Decision already made. Grilled chicken cooling in the sun. Steam lifted and thinned. Around him: the sound of children's forks on plastic; his silence.
+          en: `On a school roof, a fork rested halfway through rice. Decision already made. Grilled chicken cooling in the sun. Steam lifted and thinned. Around him: the sound of children's forks on plastic; his silence.
 
 He pushed the plate toward his friends—practiced generosity. Avocado browned at the edges.
 
@@ -1536,9 +1534,9 @@ The day's thread stayed simple:
 "God loves you."
 "I know."
 
-The equation held because it worked. God > sister > himself. The one he could recite and the one he lived were close. Love multiplied in careful hands. He said less and watched more.`
-        }
-      }
-    ]
-  }
+The equation held because it worked. God > sister > himself. The one he could recite and the one he lived were close. Love multiplied in careful hands. He said less and watched more.`,
+        },
+      },
+    ],
+  },
 ];
