@@ -1466,4 +1466,79 @@ I’ll just keep spilling until I learn.`,
       },
     ],
   },
+  {
+    id: "kids-of-cuba",
+    title: {
+      en: "Kids of Cuba"
+    },
+    author: "Chachacha",
+    description: {
+      en: "Little lives that shine, fade, and remind us that love itself might be the only evidence of God."
+    },
+    genre: {
+      en: "Spiritual Memoir"
+    },
+    status: {
+      en: "Ongoing"
+    },
+    lastUpdated: "2025-10-14",
+    chapters: [
+      {
+        id: "1",
+        number: 1,
+        title: {
+          en: "Anthony"
+        },
+        publishDate: "2025-10-14",
+        content: {
+          en: `Anthony
+
+On a school roof, a fork rested halfway through rice. Decision already made. Grilled chicken cooling in the sun. Steam lifted and thinned. Around him: the sound of children's forks on plastic; his silence.
+
+He pushed the plate toward his friends—practiced generosity. Avocado browned at the edges.
+
+"Do you like soccer?" someone asked.
+
+"Messi," he said, voice traveling no farther than a shoulder's width.
+
+Plenty sat differently in him than in others. Being well-off in San Miguel del Padrón had weight. He knew how to give away what he had but didn't need. He thought of his sister at home, probably finishing everything on her plate. The fork in his hand felt like a line between hunger and something else he didn't yet know how to name.
+
+The church was familiar: a quiet nave, wooden chairs worn smooth, afternoon light across the floor. Then the yard.
+
+His sister ran—straight lines, sudden circles. Ten minutes apart could feel long. Other children were loud; Anthony stayed near. He followed her, close enough to catch, far enough to let her run. "Ven acá," he called—not to stop her, but to keep the distance where safety lived.
+
+He adjusted where he stood: nearer if she wobbled, back if she didn't, ready if laughter turned sharp. Someone older took over for a while—an aunt, a cousin, a neighbor. He exhaled. The line moved; his post shifted. She ran until her face brightened with breath. When she barreled back at him, he moved without thinking and lifted her. For a moment there was only her small weight and the feel of her hair in his hand. Then the yard returned to noise and routine, and he watched again.
+
+People who didn't know him mistook the quiet. He wasn't indifferent. He opened slowly. What stayed closed protected what mattered. It wasn't a lack of trust; it was time. His voice had a radius: shoulder, sometimes elbow, never farther. Questions about himself ended in a silence that held decisions.
+
+Inside: stillness. Outside: dust and sun. His sister's hair between his fingers. His low voice. Distant play. Light across the floor.
+
+The bus home held him while the barrio moved. Diesel in the air. Windows flashing light. The city slid by; he stayed still.
+
+"¿Qué piensas?" a visitor's Spanish asked—words shaped like questions even when they weren't.
+
+"Mi hermana," he said. Always his sister at home.
+
+The composition of love arranged itself, quiet and exact:
+Dios > mi hermana > todo lo demás.
+
+"I need to think about it," he added—big questions saved like coins.
+
+He knew the line everyone told him: "Dios te ama." He also knew the difference between knowing about and knowing. Love had weight even when he couldn't lift the reason for it. Fall air pushed through the latch. Something was burning somewhere; something usually was.
+
+"Eres muy callado," the voice said. You're very quiet.
+
+He watched the glass more than the street: laundry, a boy pacing a bicycle he never mounted, a dog in the shade. In the window he saw himself thinking about her—his sister as center, everything else moving around that.
+
+The day's thread stayed simple:
+"What are you thinking about?"
+"My sister."
+"God loves you."
+"I know."
+
+The equation held because it worked. God > sister > himself. The one he could recite and the one he lived were close. Love multiplied in careful hands. He said less and watched more.`
+        }
+      }
+    ]
+  }
 ];
