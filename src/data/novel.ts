@@ -1,6 +1,5 @@
 import { Novel } from '@/types/novel';
 
-// @ts-expect-error - Novel data structure is being dynamically built
 export const novels: Novel[] = [
   {
     id: 'chamomile-tea',
@@ -21,7 +20,7 @@ export const novels: Novel[] = [
       en: 'Ongoing',
       ko: '연재중',
     },
-    lastUpdated: '2025-10-12',
+    lastUpdated: '2025-10-16',
     chapters: [
       {
         id: '1',
@@ -1194,6 +1193,295 @@ She slept with her thumb still faintly gray.
 침대에서, 헤더는 그 사실을 품고 눈을 감았다. 그녀는 다시 썼다. 그리고 숨었다. 둘 다 승리. 둘 다 패배.
 
 그녀는 엄지에 희미한 회색을 남긴 채 잠들었다.`,
+        },
+      },
+      {
+        id: '8',
+        number: 8,
+        title: {
+          en: 'Someone Still Dreaming',
+          ko: '아직도 꿈꾸는 누군가',
+        },
+        publishDate: '2025-10-16',
+        content: {
+          en: `The café had already put its night face on—chairs balanced on tables like folded knees, mop water cooling in a bluish bucket. Only the corner table was still itself. Heather rolled a sleeve and wiped a clean circle cleaner, the citrus cutting through the smell of milk.
+
+The door eased open; a ribbon of cold air slipped across the floor.
+
+He stood in the doorway with rain on his shoulder seams, a breath late into the hour. "We close in fifteen," she said, reaching for the kettle.
+
+"Chamomile, please," he said.
+
+She dipped the bag, watched the steam rise and thin. When she set the cup down, she noticed the corner of a white envelope half-zipped in his bag—heavy paper, gray crest. Meridian Contemporary. Regret to inform… She didn't mention it. Observing is safer than asking.
+
+He took the cup in both hands and didn't drink.
+
+Heather went back to closing: lids counted into tens, the pastry case wiped of fingerprints that would be back by morning. Somewhere in the back the fridge compressor clicked off. The city filled the quiet: a far siren, tires on wet asphalt, the radiator's patient tick.
+
+"You don't have to wait for me to finish," she said without looking up.
+
+"I won't keep you," he said. Then, after a beat: "Just… sitting."
+
+She brought him a napkin—blank this time—and set it beside the cup. "In case."
+
+"In case of what?"
+
+"I don't know. Whatever needs catching."
+
+He almost smiled. He folded the napkin into a perfect square. Unfolded it. Folded it again, as if building a small structure sturdy enough for a thought.
+
+He traced the cup's rim with one finger. She turned off the track lights section by section until the room wore shadows, leaving his corner for last. When she finally switched that row, the light above him surrendered and he was a figure in window-glow—outline, breath.
+
+When she locked up, he was still standing there.
+
+She flipped the sign, pocketed the key. Outside, the street was spare: a taxi sliding past, a cyclist leaning at a red light, steam lifting from a manhole.
+
+They fell into step without trying. He tucked his chin into his scarf. She kept her hands in her coat pockets, the work-day chill still living in her knuckles. They cut south on Second Avenue toward Houston; the F train was six blocks. A neon dumpling shop buzzed half-lit, a bodega cat slept between towers of water bottles, scaffolding rattled in a light wind.
+
+They passed a ground-floor studio with the lights off and monitors winking their tiny sleep lights.
+
+"You work there?" she asked, nodding at the glass.
+
+"Most days," he said.
+
+"Do you like it?"
+
+"It keeps the lights on." A breath. "Some days I make things. Other days I rename files that pretend to be things."
+
+She nodded. That sounded like a truth he used sparingly.
+
+Half a block of silence. Their footsteps matched the seams in the sidewalk.
+
+"I used to write," she said. "Real writing, I mean."
+
+"Used to?"
+
+"Used to."
+
+They walked under scaffolding that clipped their voices smaller. A bus sighed by; the warm air from its underside wrapped their ankles for a second.
+
+"What did you write?" he asked.
+
+"Stories about people who didn't know they were being watched."
+
+"And now?"
+
+"Now I just watch."
+
+He paused. "But you still see them. The stories." Not a question.
+
+She didn't answer.
+
+Steam rose from a subway grate. They moved through it and kept going. He touched the strap of his bag like he was checking that it still belonged to him. The envelope corner showed again, white against black canvas. He looked at it, then away.
+
+"I still dream in color," he said finally, almost to the air. "I just draw in grayscale now."
+
+Something in her opened and didn't make a sound. She nodded. "Maybe that's careful," she said.
+
+At the stairs, metal spoke below. He lifted two fingers in a goodbye that wasn't practiced. She did the same.
+
+Her apartment kept only the light of the laptop and the small glow from the open fridge. The radiator ticked once and quit. She pulled her hair into a loose knot and sat.
+
+First attempt: too close to the real shape. Delete.
+
+Second: too far—clever sentences that left no fingerprints. Delete.
+
+She circled the truth for a while. Then she began.
+
+⸻
+
+Entry #4: Someone Still Dreaming
+
+There's a man who orders tea he never drinks hot.
+Tonight I understood why.
+
+Some people need their comfort to wait for them. To stay
+patient while they remember how to want it. He holds the
+cup like it's keeping his hands employed. By the time he
+takes the first sip, the tea has cooled to the exact
+temperature of giving up.
+
+But here's what I didn't expect:
+He hasn't given up. He's just careful about his hoping.
+
+I see it in the way he sketches—not the big gestures, but
+the small ones. The wear patterns on handrails. The specific
+angle of exhaustion in a stranger's shoulder. He documents
+what survives the commute: the small erosions that prove
+we were here.
+
+Someone told him once that his art didn't matter.
+(I know this because I recognize the way he hides it.)
+
+Walking to the station, he said:
+"I still dream in color. I just draw in grayscale now."
+
+Maybe that's what burnout really is—not the absence of
+dreams, but the careful rationing of them. We portion out
+our hoping like medicine. Too much and we remember what
+we've lost. Too little and we forget we're still alive.
+
+The man with the cold tea is still dreaming.
+He's just doing it quietly, in case the world is listening.
+
+⸻
+
+She read the last line twice, then once more for the part of her that usually argued with hope. It didn't. She hit publish and felt foolish for how much her heart behaved like she'd opened a window.
+
+Saturday found the room without asking. Light moved across the floorboards and warmed the rug. She made tea and let it sit, watching the steam thin.
+
+Three views. One comment: This helped. Thank you. Small words that felt like a door unlocking somewhere.
+
+She reached into her coat pocket for a hair tie and found a folded napkin instead, a careful geometry. When she opened it, a tiny drawing in soft graphite: the café's corner as it looked from the counter—tile seam, table edge, the ghost of a cup ring. She must have picked it up when she wiped the table down.
+
+On the fridge, the old window sketch he'd left once—just lines and the suggestion of light—was still taped there. She added the corner beside it, edges barely touching.
+
+A window and a corner. Two points. The start of a line.
+
+She opened the unsent email to her publisher, didn't type, didn't close it. She wrote a line in her notebook that could be a to-do or a promise: Call back the part that left. Then she did nothing for a while, which felt like doing everything right.
+
+The tea had cooled to the exact temperature of telling the truth. She drank.
+
+Somewhere else in the city, a notification blinked on a dim phone: New post: "Someone Still Dreaming." A thumb hovered, then tapped. A familiar breath settled. She didn't know that yet.
+
+On the fridge, the two drawings learned each other's company. Together they looked less like souvenirs and more like the beginning of a map. She didn't try to name where it led. She let it be lines practicing being a place.`,
+          ko: `카페는 이미 밤의 얼굴을 하고 있었다. 의자들은 테이블 위에 무릎처럼 포개졌고, 양동이의 물은 푸른빛을 띤 채 식어 갔다. 모서리 테이블 하나만이 아직 제 자리를 지키고 있었다. 헤더는 소매를 걷고 원을 그리듯 닦았다. 레몬 향이 우유 냄새를 잘랐다.
+
+문이 살짝 열리며 차가운 공기가 바닥을 스쳤다.
+
+그가 문가에 서 있었다. 어깨 솔기에 비가 잔뜩 묻어 있었다.
+"열다섯 분 뒤에 닫아요." 그녀가 주전자를 들며 말했다.
+"캐모마일 주세요."
+
+티백을 담그고, 올랐다가 옅어지는 김을 잠깐 지켜봤다. 컵을 내려놓다가 가방 지퍼 틈으로 흰 봉투 모서리가 비치는 걸 보았다. 두꺼운 종이, 회색 문장(紋章). 메리디언 컨템퍼러리. 그 아래로 '…유감스럽게도…'라는 문구가 살짝 보였다. 말하지 않았다. 물어보지 않는 편이 안전하다.
+
+그는 컵을 두 손으로 감싸 쥐고도 마시지 않았다.
+
+헤더는 마감을 계속했다. 뚜껑을 열 개씩 세고, 아침이면 다시 생길 지문을 진열대에서 지웠다. 안쪽에서 냉장고가 딸깍 소리를 내며 멈췄다. 도시는 조용함을 채웠다. 멀리 사이렌, 젖은 아스팔트 위 타이어 소리, 라디에이터의 느린 틱.
+
+"다 끝날 때까지 굳이 기다리실 필요 없어요."
+"방해하지 않을게요." 잠깐 뜸. "그냥… 앉아 있으려고요."
+
+빈 냅킨을 컵 옆에 내려놓았다. "혹시 몰라서요."
+"무엇을 위해서요?"
+"모르겠어요. 잡아야 할 게 있을지도."
+
+그는 미소인지 아닌지 모를 표정을 지었다. 냅킨을 반듯한 정사각형으로 접었다가 폈다. 다시 접었다. 생각이 올라앉을 자리를 만드는 손놀림.
+
+그는 손가락으로 컵의 테두리를 한 바퀴 쓸었다. 트랙 조명을 구역별로 껐다. 마지막까지 그의 모서리는 남겨두었다. 그 줄까지 꺼지자, 창밖 불빛 속에서 그는 윤곽만 남았다. 숨과 실루엣만.
+
+문을 잠갔을 때, 그는 그대로 서 있었다.
+
+영업 표지판을 뒤집고 열쇠를 주머니에 넣었다. 밖은 비어 있었다. 미끄러지듯 지나가는 택시, 빨간불에서 몸을 기울인 자전거, 맨홀에서 올라오는 김.
+
+애쓰지 않아도 보폭이 맞았다. 그는 목을 스카프에 묻었다. 손은 코트 주머니에 들어갔다. 하루의 냉기가 아직 손마디에 남아 있었다. 세컨드 애비뉴를 따라 하우스턴 스트리트 쪽으로 남쪽으로 내려갔다. F 트레인까지 여섯 블록. 반쯤 나간 네온 간판이 윙윙거리는 만두 가게, 생수 박스 사이에서 졸고 있는 동네 가게 고양이, 바람에 공사장 비계가 가볍게 덜컹였다.
+
+1층 스튜디오 앞을 지났다. 불은 꺼져 있었고, 모니터엔 점 같은 대기등만 깜빡였다.
+
+"거기서 일해요?" 그녀가 유리 너머를 턱짓했다.
+"대부분의 날은요."
+"좋아해요?"
+"생활은 굴러가요." 숨을 한 번. "어떤 날은 뭔가를 만들고, 어떤 날은 '무언가인 척'하는 파일 이름만 바꿔요."
+
+고개를 끄덕였다. 아껴 쓰는 진실처럼 들렸다.
+
+잠시 말이 없었다. 발걸음은 보도블록의 이음과 박자를 맞췄다.
+
+"예전에 글을 썼어요." 그녀가 말했다. "진짜 글요."
+"예전에?"
+"예전에."
+
+비계 아래로 걸었다. 목소리가 작게 잘렸다. 버스가 지나가며 한숨 같은 소리를 냈고, 아래에서 나온 따뜻한 공기가 한순간 발목을 감쌌다.
+
+"무슨 글 썼어요?"
+"자신이 관찰당하고 있는 줄 모르는 사람들 이야기."
+"지금은요?"
+"지금은 그냥… 보기만 해요."
+
+그가 잠깐 멈췄다. "그래도 보이잖아요. 이야기들이." 질문은 아니었다.
+
+대답하지 않았다.
+
+지하철 환풍구에서 김이 올랐다. 그 속을 지나 그냥 걸었다. 그는 가방 끈을 한번 만졌다. 아직 자기 것인지를 확인하듯. 흰 봉투 모서리가 다시 보였다. 그것을 보았다가 고개를 돌렸다.
+
+"아직도 컬러로 꿈꾸긴 해요." 그가 말했다. 먼저 공기에게 말하듯. "다만 지금은 회색조로만 그릴 뿐."
+
+무언가가 소리 없이 열렸다. 그녀는 고개를 끄덕였다. "그게 오히려 신중한 걸지도."
+
+계단에 닿자, 아래에서 금속이 말하는 소리가 올라왔다. 그는 두 손가락을 들어 인사했다. 그녀도 그대로 답했다.
+
+집 안에는 노트북 불빛과 열린 냉장고의 희미한 빛만 남아 있었다. 라디에이터는 한 번 틱 하고는 그만두었다. 머리를 느슨하게 묶고 앉았다.
+
+첫 번째 시도: 너무 가까이 갔다. 삭제.
+두 번째: 너무 멀었다. 지문 하나 남기지 않는 영리한 문장들. 삭제.
+
+잠시 진실의 가장자리를 맴돌았다. 그리고 다시 시작했다.
+
+⸻
+
+글 #4: 아직 꿈꾸는 사람
+
+뜨거울 때는 거의 마시지 않는 차를
+매번 주문하는 사람이 있다.
+오늘은 그 이유를 알 것 같았다.
+
+어떤 사람들에게 위로는 기다려 주는 것이어야 한다.
+다시 원할 줄 기억할 때까지,
+자리를 지키며. 그는
+손을 놀리게 하려는 듯 컵을 감싼다.
+첫 모금을 들이킬 때면 차는
+딱 포기의 온도로 식어 있다.
+
+하지만 예상 못 했던 게 있다.
+그는 포기하지 않았다. 다만
+희망을 조심스럽게 다룬다.
+
+그가 스케치하는 방식을 보면 안다.
+큰 제스처가 아니라, 작은 것들.
+난간에 남은 손의 마모.
+낯선 이의 어깨에 내려앉은 정확한 피로의 각도.
+그는 출퇴근을 버텨 살아남은 것들을 기록한다.
+우리가 여기 있었다는
+작은 마모의 증거들을.
+
+누군가 언젠가 그의 예술은 중요하지 않다고 말했다.
+(알고 있다. 그가 숨기는 방식을 나도 알아서.)
+
+역으로 걸어가며 그가 말했다.
+"아직도 컬러로 꿈꿔요. 다만 지금은 회색조로만 그려요."
+
+아마 번아웃은, 꿈이 사라지는 게 아니라
+그 꿈을 조금씩 나눠 쓰는 일일 것이다.
+희망을 약처럼 나눠 쓴다.
+너무 많이 먹으면 잃어버린 것을 떠올리고,
+너무 적게 먹으면 아직 살아 있음을 잊는다.
+
+차가운 차를 마시는 그 사람은
+여전히 꿈꾸고 있다.
+세상이 듣고 있을지 몰라
+조용히 그러고 있을 뿐.
+
+⸻
+
+마지막 문장을 두 번 읽었다. 보통은 희망과 다투던 마음 한 조각이 이번엔 조용했다. 발행 버튼을 눌렀다. 창문을 연 것처럼 가슴이 가벼워졌다.
+
+토요일 아침 빛은 말없이 방 안으로 들어왔다. 바닥을 건너 러그를 데웠다. 차를 우려두고, 김이 옅어지는 걸 지켜봤다.
+
+조회수 3. 댓글 1. 도움이 됐어요. 고맙습니다. 작은 문장이었지만 어딘가의 문이 풀리는 느낌이었다.
+
+머리끈을 찾으려고 코트 주머니에 손을 넣었다가, 정성스레 접힌 냅킨을 꺼냈다. 펼치자 연필로 그린 작은 그림이 나왔다. 카운터에서 본 카페의 모서리—타일 이음, 테이블 가장자리, 사라진 컵이 남긴 희미한 고리. 아마 테이블을 닦을 때 무심코 챙겨온 것.
+
+냉장고에는 그가 한 번 남기고 간 오래된 창문 스케치가 아직 붙어 있었다. 선 몇 개와 빛의 암시만으로 된, 얌전한 직사각형. 그 옆에 이번 모서리를 붙였다. 모서리끼리 가볍게 닿을 듯 말 듯.
+
+창 하나와 모서리 하나. 점 두 개. 선의 시작.
+
+출판사에 보내지 못한 이메일을 열었다. 아무것도 쓰지 않았고, 닫지도 않았다. 노트에 한 줄을 적었다. 떠나 있던 부분을 다시 불러올 것. 그리고 한동안 아무것도 하지 않았다. 그게 오히려 제대로 하는 일처럼 느껴졌다.
+
+차는 진실을 말하기 좋은 온도로 식어 있었다. 마셨다.
+
+도시 어딘가에서 어두운 휴대폰 화면에 알림 하나가 반짝였다. 새 글: '아직 꿈꾸는 사람'. 엄지손가락이 잠시 머뭇이다가 눌렀다. 익숙한 숨이 가라앉았다. 그녀는 아직 몰랐다.
+
+냉장고 위 두 장의 그림은 함께 있는 법을 배우고 있었다. 기념품 같던 조각들이 나란히 있으니 지도가 되기 시작했다. 어디로 이끄는지 굳이 이름 붙이지 않았다. 그대로 두었다. 선들이 장소가 되는 연습을 하도록.`,
         },
       },
     ],
