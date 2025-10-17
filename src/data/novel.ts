@@ -1484,6 +1484,283 @@ On the fridge, the two drawings learned each other's company. Together they look
 냉장고 위 두 장의 그림은 함께 있는 법을 배우고 있었다. 기념품 같던 조각들이 나란히 있으니 지도가 되기 시작했다. 어디로 이끄는지 굳이 이름 붙이지 않았다. 그대로 두었다. 선들이 장소가 되는 연습을 하도록.`,
         },
       },
+      {
+        id: '9',
+        number: 9,
+        title: {
+          en: 'Recognition',
+          ko: '인식',
+        },
+        publishDate: '2025-10-17',
+        content: {
+          en: `Sunday, 11:47 PM — Ian's apartment
+
+The rejection letter lay flat on his desk like ice under glass. Meridian Contemporary—polite fonts, a careful apology that still froze him out. He'd carried it for days, hoping the cold would spend itself.
+
+He wasn't sleeping. The room kept its aquarium blue while the laptop lit his face. He drifted through places his hands knew: a news site; three portfolio tabs he never updated; a thread about ink weights that solved nothing. The radiator clicked once, then withheld the next word.
+
+In a forum where sketchers gathered, someone had shared a link: "Writer captures what we draw—found this blog about NYC observations." In the comments, a quiet debate drifted through about whether lines or sentences hold a moment longer. Someone wrote, This reminds me of my sketchbook but in words. His chest agreed before he clicked.
+
+Title: The People I See on the Last Train. Only one post. Entry #4: Someone Still Dreaming. He lifted his mug and read the first line.
+
+There's a man who orders tea he never drinks hot.
+
+The mug hovered. Chamomile wasn't special—paper cup, sleeve, ritual—yet the sentence knew where the light switch was. He kept reading.
+
+A construction worker with dust crescents at the cuticles. A teenage couple practicing courage. A nurse counting stops. Faces without faces; he'd drawn their outlines for months.
+
+Then a sentence that sounded like his, steadier on the page than in the air:
+
+He said, "I still dream in color. I just draw in grayscale now."
+
+He scrolled. One comment. Two words: This helped. Thank you.
+
+The phrasing tugged. He opened his browser history the way you check a latch twice. Back past Thursday. Past PDFs of the Meridian letter. There—Friday, 2:47 AM. The same URL. The same entry. Submitted.
+
+He'd already been here—half-awake, insomnia-soft—offering thanks to a stranger who'd handed him a sentence to breathe through. Rule Twelve: one honest line per day. That had been Friday's: This helped. Thank you. He'd answered her before he knew the voice was hers. He'd recognized himself before he understood why.
+
+The sketchbook on his desk lay open to Thursday: a hand at a metal pole—the same pole, he realized, third from the door, worn smooth at exactly her height—the ellipse of a cup catching light, a note in the margin: lo-fi from the counter, D squeal at Canal. He flipped back: scarf like a promise; coin tapped to keep time; the nurse; the teenagers; the dust crescents. Two records written side by side, unaware and aligned.
+
+Meridian hadn't seen him. A stranger at 2:47 AM had.
+
+The laptop lowered until the room belonged to itself again.
+
+—
+
+Monday, 5:30 AM — the studio
+
+Sleep had visited for an hour and left. The streets spoke in steam and intersections. His door stuck the way damp insists.
+
+No careful array of tools this time. One sheet on the desk. The blog's page in his head. He didn't want to illustrate sentences; the idea felt smaller than the feeling.
+
+His hand moved, stopped, moved again—teaching itself a looser grammar. Words loosened into marks, and the marks lifted—departures more than birds. Steam from a cup unspooled into a ribbon that threaded the page. He reached for the gray and hesitated. When he set it down, the values spread wider than usual, flirting with what they might become. The drawing was still grayscale, but the grays had more range.
+
+Under the glass blotter, the rejection letter remained like a frozen pond. Above it, his lines began to thaw. In the margin he wrote: recognition = lift. He took a photo and didn't post it. The phone went face down. The room held its breath with him—the way the whole city does between trains.
+
+—
+
+Monday, 7:45 PM — the café
+
+The bell behaved. Heather looked up without breaking her count. He ordered chamomile. When the cup landed, he wrapped both hands around it and didn't wait. Steam met his mouth; warmth traveled farther than his throat—into jaw, into shoulders, into the places that had been braced since Meridian.
+
+At the machine, her hand paused—a brief catch in rhythm. Their eyes met and didn't hurry away. Something had shifted. They let that certainty speak first.
+
+"I found your blog," he said when the line thinned to a couple and a man rereading a menu he'd already chosen.
+
+"How?" Not suspicion—orientation.
+
+"Someone shared it where artists talk." He kept his voice even. "And I think I left the comment. Friday. Two forty-seven. I left it to someone. Now you're Heather. The someone became specific." He exhaled. "Before I realized it was…about—" A loose circle that collected the register, his coat, the city.
+
+"You were awake," she said, finding the truest part.
+
+"I was." He took another warm sip. It felt modest and enormous at once.
+
+He slid his phone across the counter with both hands, angling the screen to cut the overhead glare. Blue-white light pooled over his knuckles. She leaned in but kept a polite inch between them, steam from a pitcher fogging the lower edge of the glass. Squares of his anonymous account—corners and elbows and right-angle satisfactions. A lamppost haloed by dirty snow. A newspaper folded into an accidental grid.
+
+"I know that pane," she said. "The scratched glass that makes light look tired."
+
+"It's my favorite tired light."
+
+The grinder jolted to life; orders rushed through. While she pulled shots, he drew on a napkin with a pencil stub, graphite darkening his thumb's edge—the same crescent she'd noticed weeks ago. Not the café's corner this time—steam shaped like an unspooling sentence, a rectangle of a phone screen, Entry #4's opening line loosening into gray drift. In the corner: Entry 4, seen backward. He left it by the register, not insisting she notice.
+
+When the machine quieted, she did. Coffee moons ringed her cuticles; she tucked a stray strand behind her ear with a wrist that smelled like citrus and milk. "I've been writing about the train for weeks," she said, almost to the pitcher. "Only posted one. The others feel…like wet paper."
+
+"Yeah," he said. "I've got a hundred drafts of almost."
+
+Meridian didn't recognize him. She just had.
+
+—
+
+After closing, 10:30 PM — toward the subway
+
+New York after CLOSED isn't quieter, just less translated. Keys in her pocket orbited her finger, still warm from seven hours of returns to the same lock. A manhole exhaled its nightly steam—the city's sigh between breaths. His cup was empty, but chamomile still lived in the air.
+
+"So you found it, not realizing," she said.
+
+"I saw it, not understanding," he answered, because repetition can make the world consent. "I left that comment because I needed to thank someone who made a sentence usable. Rule Twelve doing its job." He tried not to gesture too broadly and failed. "Now the someone is you."
+
+She nodded, then glanced down at her hands. "Writing files the edges so you can hold them," she said. "Though I haven't sent anything to my publisher in months. The email just sits there, subject line blinking at me like a dare."
+
+"You'll send it," he said, and didn't dress the sentence in hope; he handed it to her plain.
+
+They walked. He told her about rereading with the lights on inside his head. "You heard me Thursday," he said. "Then you made it survivable."
+
+She lifted her notebook. "We've been saving the same moments in different containers." She opened it. The older pages wore brackets like armor: [coin-tap = heartbeat], [teen braid unraveling / on purpose?], [nurse: stop-counting religion]. But the new page sat bare, no brackets to protect it: Entry #5: Someone Who Knew Before Knowing.
+
+He read the title and felt a hand settle on his sternum. "Yes," he said, meaning necessary.
+
+A streetlight did its best. "I don't want to edit you," he said. "Or be edited. That's not what this is."
+
+"Same," she said. "I want to keep seeing and not apologize." She looked at the unbracketed title again, as if surprised by her own courage.
+
+By the station entrance, the map repeated its old lie: YOU ARE HERE as if geometry were enough. He tried something earnest anyway. "What if your next entry skipped people and stayed with the in-betweens? Doors thinking about closing. The fuzz in the scratched glass. Light that wants to be kind but is on a budget."
+
+"The geometry of exhaustion," she said, surprised into a smile.
+
+He nodded. "I can draw that—parallel, not matching. Aware of each other, not performing for each other."
+
+She wrote beneath the title: doors breathing / window scratches / air gap between strangers // parallel sketch. She let him see it. He let the weight of that trust be heavy for a beat, then right-sized it.
+
+Above them, faintly: "Last stop, last stop." But they both knew better now. There are always more stations.
+
+At the split where platforms peel apart, she said, "We're not riding together."
+
+"Not tonight," he said. "I'll keep the tea warm tomorrow."
+
+"Progress," she said, glancing at his cup.
+
+He lifted it in a quiet toast. "Progress."
+
+They turned away on separate stairs. At the bottom he called up, letting the station carry it. "I liked your sentence about dreaming in color."
+
+She stood with her map and her pen and a key warming her finger. "I liked it better when you said it."
+
+Their laughter traveled farther than either expected—unshowy sound with reach.
+
+—
+
+What changed
+
+On his train, the sketch stayed off the internet; strangers didn't have to be first. His reflection doubled in the scratched window—the ghost car where her face used to almost align with his. Tomorrow they'd share the same car again, but differently. At her table, the napkin slid into the notebook pocket—the third in the trail: one on the fridge, one in her coat, one now.
+
+Back at his desk, the letter from Meridian stayed flat, an ice sheet going nowhere. But something else had opened. On her screen, Entry #5 waited at the cursor—unbracketed. On his tongue, chamomile kept its warmth longer than habit allowed.
+
+Two people had found each other before they had names for it. Not fate; an algorithm doing the plain work of kindness—carrying a sentence across a sleepless hour to the person who needed it. Recognition—like heat—travels in its own time. Steam lifted from a cup and didn't vanish right away; it hung, visible, while the air learned what to do with it. Two people learning whether to remain someone or become specific.`,
+          ko: `일요일 밤 11시 47분 — 이안의 아파트
+
+거절 편지는 유리 아래 얼음처럼 책상에 납작하게 누워 있었다. Meridian Contemporary—정중한 서체, 다정한 말투. 그래도 문은 닫혔다. 며칠째 그는 그 종이를 들고 다녔다. 차가움이 스스로 닳아 없어지길 바라면서.
+
+잠은 오지 않았다. 방은 수족관 같은 푸른빛을 유지했고, 노트북 불빛이 그의 얼굴만 살렸다. 손이 기억하는 곳들을 떠돌았다. 뉴스, 업데이트하지 않은 포트폴리오 탭 세 개, 해결책 없는 잉크 굵기 토론글. 라디에이터가 한 번 딸깍 하고, 다음 문장은 삼켰다.
+
+스케쳐들이 모여 수다를 푸는 포럼에서 누군가 링크를 올렸다. “우리가 그리는 걸 글로 붙잡는 작가—뉴욕 관찰 블로그 발견.” 댓글에는 조용한 논쟁이 떠다녔다. 선과 문장 중 무엇이 순간을 더 오래 붙들 수 있는가. 누군가는 썼다. 내 스케치북을 글로 본 느낌. 그는 클릭하기도 전에 가슴이 먼저 대답했다.
+
+제목: 마지막 지하철에서 본 사람들. 게시물은 하나. 엔트리 #4: 아직 꿈꾸는 누군가. 그는 머그를 들고 첫 줄을 읽었다.
+
+뜨겁게 마시지 않는 차를 늘 주문하는 남자가 있다.
+
+머그가 허공에 멈췄다. 캐모마일은 특별할 것 없는 의식—종이컵, 슬리브, 습관—그런데 그 문장은 방의 불을 어디에 켜야 하는지 알고 있었다. 그는 계속 읽었다.
+
+손톱 가장자리에 먼지 초승달이 낀 공사장 일꾼. 용기를 예행연습 중인 십대 커플. 정거장을 속으로 세는 간호사. 얼굴 없는 얼굴들—그는 몇 달째 여백에 그들을 그려왔다.
+
+그리고 자신에게서 나온 문장이, 글 위에서 더 단단하게 들렸다.
+
+그가 말했다. “나는 여전히 색으로 꿈꾼다. 다만 지금은 회색으로만 그릴 뿐.”
+
+그는 끝까지 내렸다. 댓글 하나. 두 단어. 도움이 됐어요. 고맙습니다.
+
+어딘가 익숙한 문장. 그는 문고리를 두 번 확인하듯 브라우저 기록을 열었다. 목요일을 지나, 메리디안 편지의 PDF들을 지나, 거기에—금요일 새벽 2시 47분. 똑같은 URL, 똑같은 글, 제출 완료.
+
+이미 다녀간 곳이었다. 잠 반 깬 상태로, 부드러워진 경계 사이로 흘러나온 감사. 규칙 12: 하루에 진짜 한 줄. 그날 그의 한 줄은 *도움이 됐어요. 고맙습니다.*였다. 글쓴이가 헤더인 줄 모르고도 대답했다. 왜인지 모른 채 자기 자신을 먼저 알아봤다.
+
+책상 위 스케치북은 목요일 페이지에 멈춰 있었다. 금속 봉을 잡은 한 손—그 봉, 문에서 세 번째, 딱 그녀 키 높이에 닳아 반들거리는 그 봉—빛을 잡아먹는 컵의 타원, 여백에 낙서처럼 쓴 메모: 카운터에서 흐른 로파이, 캐널에서 비명 지른 D. 그는 페이지를 거슬렀다. 약속 같은 머플러, 시간을 맞추는 동전 두드림, 간호사, 십대들, 먼지 초승달들. 서로 모른 채 나란히 쓰인 두 개의 기록.
+
+메리디안은 그를 보지 못했다. 새벽 2시 47분의 낯선 이는 보았다.
+
+노트북 덮개를 천천히 내리자, 방이 제 숨을 되찾았다.
+
+—
+
+월요일 새벽 5시 30분 — 스튜디오
+
+잠은 한 시간 들렀다가 떠났다. 거리는 김과 교차로의 언어로 말했다. 문은 습기대로 고집을 부리며 또 끼익거렸다.
+
+오늘은 도구를 반듯이 세우지 않았다. 종이 한 장. 머릿속엔 블로그의 페이지. 그는 문장을 그림으로 옮기고 싶지 않았다. 감정이 아이디어보다 컸다.
+
+손이 움직였다, 멈췄다, 다시 움직였다—몸이 스스로 느슨한 문법을 익히는 중. 단어들이 선으로 풀리고, 선들이 들떠 올랐다—새라기보다 이륙에 가까운 것들. 컵에서 뻗어나온 김은 페이지를 관통하는 리본이 되었다. 그는 회색을 집어 들다 잠깐 머뭇거렸다. 내려놓고 보니 값이 넓어졌다. 예전보다 더 많은 회색의 폭. 여전히 흑백인데, 회색의 스펙트럼이 돌아왔다.
+
+유리 받침 아래 거절 편지는 얼어붙은 연못처럼 남아 있었다. 그 위에서 그의 선은 서서히 해빙 중이었다. 여백에 적었다. recognition = lift(인지 = 들림). 사진을 찍고 게시하지 않았다. 폰을 화면 아래로 뒤집었다. 방은 그의 숨에 맞춰 숨을 참았다—도시 전체가 열차 사이 간격에서 그러하듯.
+
+—
+
+월요일 저녁 7시 45분 — 카페
+
+종소리는 얌전했다. 헤더는 계산을 멈추지 않고도 그를 보았다. 그는 캐모마일을 주문했다. 컵이 내려오자 두 손으로 감싸쥐고 기다리지 않았다. 김이 입술을 만났다. 따뜻함이 목을 넘어 더 멀리 퍼졌다—턱, 어깨, 메리디안 이후 내내 굳어 있던 곳들까지.
+
+머신 앞에서 그녀의 손이 아주 잠깐 멈췄다. 시선이 만나고 서둘러 피하지 않았다. 무언가 달라졌고, 둘은 그 확실함이 먼저 말하게 두었다.
+
+“블로그를 봤어요.” 주문이 뜸해졌을 때, 그는 말했다. 메뉴를 이미 정해 놓고 다시 읽는 남자 한 명과, 커플 하나만 남아 있었다.
+
+“어떻게?” 의심이 아니라 방향을 묻는 목소리.
+
+“아티스트들이 모여 얘기하는 데서 누가 링크를 올렸어요.” 그의 목소리는 고르게 흘렀다. “그리고, 댓글을 단 것도 아마 저예요. 금요일. 새벽 두 시 사십칠 분. 그땐 누군가에게 남겼어요. 지금은 당신, 헤더예요. ‘누군가’가 특정해졌죠.” 그는 숨을 뱉었다. “그게…나에 관한 얘기인 줄 모르고.”
+
+“깨어 있었네요.” 그녀가 말했다. 가장 진실한 부분을 정확히 짚었다.
+
+“그랬어요.” 그는 아직 따뜻한 차를 한 모금 더 마셨다. 소박한데도 큰 사건처럼 느껴졌다.
+
+그는 휴대폰을 두 손으로 미끄러뜨려 건넸다. 위의 형광등 반사를 피하도록 각도를 살짝 틀었다. 푸른 빛이 그의 손마디에 고였다. 그녀는 한 치쯤 거리를 둔 채 몸을 기울였다. 피처에서 오른 김이 화면 아래쪽을 얇게 흐렸다. 그의 익명 계정. 모서리, 팔꿈치, 직각의 만족. 더러운 눈에 둘러싸인 가로등의 후광. 우연히 격자처럼 접힌 신문.
+
+“그 유리, 알아요.” 그녀가 말했다. “스크래치 때문에 빛이 늘 지친 표정을 하는 창.”
+
+“내가 제일 좋아하는 지친 빛.”
+
+그라인더가 놀라듯 윙 하고 깨어났다. 주문이 한꺼번에 몰렸다. 그녀가 샷을 뽑는 동안, 그는 연필 쪼가리로 냅킨에 그렸다. 엄지 가장자리에 흑연이 초승달처럼 번졌다—몇 주 전 그녀가 봤던 그 흔적 그대로. 이번엔 카페의 코너가 아니었다. 문장이 풀려 나가는 모양의 김, 전화기 화면의 직사각형, 엔트리 #4의 첫 줄이 회색으로 흩어져 떠오르는 그림. 모서리에 작게 적었다. Entry 4, 뒤집어 보기. 그는 그것을 계산대에 살짝 두었다. 알아봐 달라고 재촉하지도 않았다.
+
+잠잠해지자 그녀가 보았다. 커피빛 초승달이 그녀 손톱 둘레에 얇게 맴돌았다. 감귤 세제와 우유가 섞인 향이 손목에서 났다. “한동안 지하철에 대해 써왔어요.” 그녀가 피처에게 말하듯 중얼거렸다. “올린 건 하나뿐. 나머지는…젖은 종이 같아서.”
+
+“알아요.” 그가 말했다. “나는 거의인 초안이 백 장쯤.”
+
+메리디안은 그를 알아보지 못했다. 그녀는 방금 그를 보았다.
+
+—
+
+마감 후 밤 10시 30분 — 지하철역으로
+
+OPEN이 CLOSED로 뒤집힌 뒤의 뉴욕은 더 조용해지지 않는다. 다만 번역이 덜 된다. 그녀의 주머니에서 열쇠가 손가락을 돌았다. 같은 자물쇠를 일곱 시간이나 드나든 그 온기가 남아 있었다. 맨홀은 밤마다 증기를 내뿜었다. 도시가 한숨 쉬는 순간. 그의 컵은 비었는데도 캐모마일이 공기 속에 남아 있었다.
+
+“그러니까, 모른 채로 본 거네요.” 그녀가 말했다.
+
+“보고도 제대로 몰랐죠.” 그가 답했다. 반복은 때때로 현실을 납득시킨다. “그 댓글은, 누군가에게 고맙다고 말하고 싶어서였어요. 문장을 쓸 수 있게 만들어 준 사람에게. 규칙 12가 자기 일을 한 셈.” 그는 손짓을 아끼려다 결국 크게 그렸다. “이제 그 ‘누군가’가 당신이에요.”
+
+그녀는 고개를 끄덕이고 자기 손을 내려다보았다. “글은 가장자리를 다듬어서 잡을 수 있게 해 줘요.” 잠시 뜸을 들인 뒤 말을 이어갔다. “그래도 출판사에 보낼 메일은 몇 달째 못 보냈어요. 제목 줄만 깜박거리는 채로.”
+
+“보낼 거예요.” 그는 희망을 포장지로 싸지 않았다. 맨손으로 건넸다.
+
+둘은 걸었다. 그는 머릿속 불을 켠 채 다시 읽었던 밤을 이야기했다. “목요일에 내 말을 들었죠.” 그가 말했다. “그리고 그걸 견딜 만하게 만들었어요.”
+
+그녀가 노트를 들었다. “우리는 같은 걸 다른 그릇에 담아 왔네요.” 그녀가 펼쳤다. 오래된 페이지들은 갑옷처럼 괄호를 걸치고 있었다. [동전-탭 = 심장박동], [풀려가는 십대의 땋은 머리 / 일부러?], [간호사: 정거장 세기라는 신앙]. 그런데 새 페이지는 맨몸이었다. 보호해 줄 괄호 하나 없이. Entry #5: 알기도 전에 알던 사람.
+
+그는 제목을 읽고 가슴뼈 한가운데 따뜻한 손이 얹히는 기분을 느꼈다. “좋네요.” 그가 말했다. 필요하다는 뜻으로.
+
+가로등은 최선을 다하고 있었다. “서로를 편집하고 싶진 않아요.” 그가 말했다. “편집당하고도 싶지 않고. 우리의 일은 그게 아닌 것 같아요.”
+
+“저도요.” 그녀가 말했다. “그냥 계속 보면서, 미안해하지 않기.”
+
+역 입구에 이르자 지도는 오래된 거짓말을 반복했다. YOU ARE HERE(당신은 여기). 마치 좌표만으로 충분하다는 듯. 그는 그래도 성실하게 말해 본다. “다음 글은 사람을 빼볼래요? 사이에 있는 것들만. 닫히기 직전의 문. 긁힌 유리의 보풀. 친절하고 싶은데 예산이 빠듯한 빛.”
+
+“피로의 기하학.” 그녀가 미소와 함께 따라 말했다. 스스로도 놀란 얼굴.
+
+그가 고개를 끄덕였다. “나는 그걸 그릴게요. 나란히, 복제 말고. 서로를 의식하되, 보여주기 위해서가 아니라.”
+
+그녀는 제목 아래에 적었다. 문이 숨 쉬는 소리 / 유리의 스크래치 / 사람과 사람 사이의 공기 // 평행 스케치. 보여주었다. 그는 그 신뢰의 무게를 잠시 제대로 들고, 제 크기로 내려놓았다.
+
+머리 위로 희미하게 들렸다. “막차입니다, 막차.” 둘은 알고 있었다. 역은 언제나 더 남아 있다는 걸.
+
+플랫폼이 갈라지는 지점에서 그녀가 말했다. “오늘은 같이 안 타겠네요.”
+
+“오늘은.” 그가 말했다. “내일도 따뜻하게 마실게요.”
+
+“진전이네요.” 그녀가 그의 컵을 보며 말했다.
+
+그는 조용히 컵을 들어 올렸다. “진전.”
+
+둘은 각자의 계단으로 돌아섰다. 그는 아래에서, 역의 울림을 빌려 위로 불렀다. “색으로 꿈꾼다는 문장, 좋았어요.”
+
+그녀는 지도와 펜, 그리고 손가락을 덥히는 열쇠를 가진 채 서 있었다. “당신이 말했을 때가 더 좋았죠.”
+
+둘의 웃음은 과시하지 않는 소리였지만, 생각보다 멀리 갔다.
+
+—
+
+무엇이 달라졌는가
+
+그의 열차 안에서, 그 스케치는 인터넷에 올리지 않았다. 낯선 이들이 먼저 알 필요는 없었다. 긁힌 창에 비친 그의 얼굴이 겹쳐졌다. 한때 그녀의 얼굴이 거의 맞닿아 보이던 유령의 객차. 내일은 같은 칸을 타겠지만, 다르게. 그녀의 식탁에서는, 그가 두고 간 냅킨이 노트 포켓으로 들어갔다—세 번째 흔적. 하나는 냉장고, 하나는 코트, 그리고 오늘.
+
+그의 책상 위, 메리디안의 편지는 여전히 평평했다. 어디로도 흐르지 못하는 얼음판. 그런데 다른 것이 열렸다. 그녀의 화면에는, 괄호를 벗은 엔트리 #5가 커서를 기다렸다. 그의 혓바닥 위에서, 캐모마일은 습관이 허락하던 시간보다 오래 따뜻함을 유지했다.
+
+둘은 이름을 갖기 전 서로를 먼저 찾아냈다. 운명이라기보다, 호의를 맡은 알고리즘이 한 소박한 일—잠 못 이루는 시간 사이를 건너 문장을 필요한 사람에게 전달하는 일. 인지는—열처럼—자기 속도로 이동한다. 컵에서 김이 올라와 쉽게 사라지지 않았다. 공기가 그걸 어떻게 다루어야 할지 배우는 동안 잠시 머물렀다. 둘은 누군가로 남을지, 서로에게 특정한 사람이 될지, 그 시간을 배우는 중이었다.`,
+        },
+      },
     ],
   },
   {
