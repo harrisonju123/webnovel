@@ -27,7 +27,7 @@ export const novels: Novel[] = [
         number: 1,
         title: {
           en: 'The Color of Exhaustion',
-          ko: '지친 색',
+          ko: '피로의 색',
         },
         publishDate: '2025-10-12',
         content: {
@@ -92,67 +92,142 @@ The radiator ticked once, then again, a metronome returning. Outside, somebody l
 She thought maybe the city didn't sleep. Maybe it just sighed between breaths.
 
 Heather turned off the lamp. The room grayed. Rain wrote soft cursive against the glass. The last train rattled somewhere beneath the street, carrying strangers home like commas in a long sentence that would finish itself eventually.`,
-          ko: `마감 시간, 카페는 막 하품이라도 한 듯했다. 의자들은 테이블 위에 거꾸로 올려져 있었고, 바닥에는 소금기 묻은 발자국이 녹아 어두운 회색 얼룩을 만들고 있었다. 헤더는 데드볼트를 탁 잠그고, 유리에 흔들리는 자신의 얼굴을 바라보았다.
+          ko: `마감 직전의 카페. 커다란 하품이 지나간 자리처럼 공기가 낮아졌다.
+테이블 위에 거꾸로 올라앉은 의자 다리들, 바닥에서는 소금기 섞인 얼룩이 느리게 퍼지는 중.
+헤더는 데드볼트를 ‘탁’ 잠그고, 유리 속 흔들리는 얼굴을 한 번 마주한다.
 
-가로등 아래, 유령 같은 얼굴 위로 택시의 노란빛이 한 번 스쳐 지나갔다. 색이란 건 지나가기만 하는 것 같았다.
+가로등 아래로 택시의 노란 칼날이 스쳐 지나간다.
+색이라는 것, 대개 그렇게—잠깐 스쳐서 사라지는 생기.
 
-밖에는 결심하지 못한 비가 바람을 타고 비스듬히 내렸다. 부드럽고 끈질겼다. 믿음을 다 써버린 눈의 연장선 같았다. 모퉁이 맨홀에서는 김이 올랐다. 도시가 내쉬는 숨이었다. 그녀는 목도리를 턱까지 끌어올리고 회색 속으로 걸음을 옮겼다.
+밖은 결심하지 못한 비. 바람을 타고 비스듬히, 부드럽고 끈질기게.
+다 써버린 믿음에서 이어진 눈 같은 기분. 모퉁이 맨홀에서는 도시의 숨처럼 김이 오른다.
+목도리를 턱까지 끌어올리고, 회색 속으로 발을 들인다.
 
-열쇠는 아직 손바닥의 온기를 품고 있었다. 주머니 속 공책은 더 따뜻했다. 일곱 시간을 서 있었지만 어디에도 도착한 느낌이 없었다. 문종은 이백 번쯤 울렸을 것이다. 손은 주문마다 기억하는 동작이 있었다—포타필터를 두드리고, 피처를 돌리고, 숨을 들이쉬고. 삐딱한 하트가 사랑에서 빠져나오려는 듯 보이는 카푸치노를 세 잔 만들었다. 도서관 먼지 냄새가 나는 단골은 캐모마일을 또 주문해놓고, 이번에도 손도 대지 않은 채 두었다.
+손바닥엔 아직 열쇠의 온기. 주머니 속 공책은 그보다 더 따뜻함.
+일곱 시간을 서 있었지만 어딘가에 도착했다는 느낌은 없어—문종만 아마 이백 번.
+손은 주문을 기억한다. 포타필터 툭, 피처 한 바퀴, 짧은 들숨.
+삐딱한 하트가 사랑 밖으로 미끄러지는 카푸치노 세 잔.
+도서관 먼지 냄새의 단골은 오늘도 캐모마일을 시켜 놓고, 또다시 식도록 내버려둔 채.
 
-공책에는 작게 기울어진 글씨로 이렇게 적혀 있었다. “차가 식을 때까지 캐모마일을 마시지 않는 남자가 있다.”
+공책에 작고 기울어진 글씨.
+“차가 식을 때까지 캐모마일을 마시지 않는 남자가 있다.”
 
-밖에서는 타이어가 반사선을 그리듯 거리를 칠했다. 횡단보도 페인트 위에서 부츠가 한 번 끽 소리를 내고, 다시 아스팔트를 찾았다. 건물 타이머와 함께 카페 네온이 꺼지자 골목은 한 박자 낮아졌다. 마치 노래가 간주로 넘어가듯.
+타이어가 물 위로 반사선을 그리며 지나가고,
+횡단보도 페인트에서 부츠가 ‘끽’ 한 번 긁힌 뒤 아스팔트로 복귀.
+타이머에 맞춰 네온이 꺼지자 골목의 음이 한 음 낮아진다—노래가 간주로 넘어가듯.
 
-헤더는 도시가 이렇게 반쯤 잠들어 솔직해질 때가 가장 좋았다.
+도시가 반쯤 잠들어 솔직해지는 이 시각, 그게 헤더에겐 가장 좋은 시간.
 
-계단을 내려가자 지하철은 숨을 멈춘 듯 고요했다. 타일 벽은 나이를 숨기지 않았다. 잔금은 작은 강처럼 뻗었고, 공연 포스터는 세상을 약속했다. 회전문이 끼익거렸다. OMNY 패드가 짧게 ‘삑’ 하고 울렸다. 어딘가에서 버스커의 색소폰이 선율을 더듬다가 말듯 포기하는 소리를 냈다.
+지하로 내려가면, 플랫폼은 숨을 잠깐 멈춘 사람처럼 고요.
+타일 벽은 나이를 숨기지 않는다—잔금이 작은 강처럼 번지고,
+공연 포스터는 세상을 약속하는 말들로 과장된 반짝임.
 
-승강장에는 사람들이 각자의 피로한 모양으로 몸을 접었다. 십대 둘은 무릎과 웃음을 한 칸의 벤치에 욱여넣듯 바짝 붙어 앉아 있었고, 한 건설 노동자는 장갑 낀 손으로 눈을 비비다가 뺨에 먼지 초승달을 남겼다.
+회전문 ‘끼익’, OMNY의 짧은 ‘삑’.
+어디선가 색소폰이 선율을 더듬다 말아 버린다—반 박자쯤 남겨 둔 채.
 
-헤더는 노란 선 가장자리에서 아래를 보지 않았다. 대신 공책을 꺼냈다. 그녀의 연필은 깎인 자국보다 씹힌 자국이 더 많았다. 흑연의 맛이 좋았다. 그럴 때만 뭔가 느껴지는 것 같아서.
+사람들은 각자의 피로한 모양으로 몸을 접는다.
+십대 둘은 무릎과 웃음을 한 칸에 욱여넣고,
+건설 노동자는 장갑 낀 손으로 눈을 비비다 뺨에 먼지 초승달.
 
-먼저 바람. 그다음 냄새. 그리고 브레이크—최고급 노이즈 캔슬링도 뚫고 들어오는, 길고 금속성의 울림. 문은 익숙하고도 참을성 있는 짜증을 내며 열렸다. 그녀는 열차에 올라 기둥 옆에 섰다. 형광등은 모두를 같은 종류의 물고기처럼 보이게 했다.
+노란 선 가장자리에 서서 아래를 보지 않는다. 대신, 공책.
+연필은 깎은 자리보다 씹은 자국이 더 많다. 흑연의 맛이 혀끝에 스친다—금속의 미세한 기척.
+이럴 때만, 뭔가 살아 움직이는 감각.
 
-그녀는 자신을 붙잡지도 놓아주지도 않는 카페를 떠올렸다. 시트러스 세제와 커피 오일 냄새, 계산대 근처에 딱지처럼 벗겨진 페인트 자국이 다시 칠해지지 않은 채 남아 있는 곳. 늘 “서프라이즈요”라고 했다가 막상 놀라면 얼굴을 찡그리는 단골. 너무 빨리 연해져 버린 에스프레소 샷. 네 시간쯤 지나면 자동으로 켜지는 자신의 목소리—다음 분이요, 영수증은 봉투에, 좋은 밤 보내세요. 주머니에 넣어두고 더는 만지지 않는, 매끈한 조약돌 같은 말들.
+먼저 바람. 그다음 냄새. 그리고 브레이크.
+최신 노이즈 캔슬링을 뚫고 들어오는 금속의 길고 낮은 울림.
 
-그녀는 다시 공책의 부드러운 모서리를 만졌다. 도시를 적어두는 게, 그 안에서 무언가를 느끼는 것보다 쉬웠다.
+문은 익숙하고도 참을성 없는 투로 열린다.
+기둥 옆에 선 자리. 형광등은 모두를 같은 종류의 물고기로 만든다—희고 무심한 비늘.
 
-맞은편에서 모직 코트를 입은 남자가 문자를 쓰다 그대로 잠들었다. 전화기는 그의 허벅지 위에 간신히 균형을 잡았다. 열차가 흔들려도 그는 미동도 하지 않았다. 그 옆에는 스케치북을 펼친 사람이 있었고, 연필은 사각사각, 손목의 작은 튕김과 함께 그을음 같은 음영을 얹고 있었다. 헤더는 의미를 만들 만큼 오래 보지 않았다. 그녀는 눈을 아껴 썼다. 대신 이렇게 적었다.
+헤더는 자신을 붙잡지도 놓아주지도 않는 카페를 떠올린다.
+시트러스 세제와 커피 오일, 계산대 옆에서 껍질처럼 벗겨진 페인트—끝내 덧칠되지 않은 결.
+늘 “서프라이즈요”라고 했다가 정말 놀라면 얼굴을 찡그리는 단골,
+너무 빨리 연해지는 샷, 네 시간이 지나면 자동 재생되는 목소리.
+다음 분이요, 영수증은 봉투에, 좋은 밤 보내세요—주머니 속에서 더는 꺼내지 않는 조약돌 같은 말들.
 
-“손은 우리를 들킨다—바리스타의 손톱 아래엔 커피의 초승달, 학생들의 손등엔 잉크 자국, 겨울 손은 마디가 벌겋다. 예술가의 손목은 물을 흐리듯 움직인다.”
+공책 모서리를 엄지로 문지른다.
+도시를 적어 두는 일, 그 안에서 직접 느끼는 일보다 훨씬 쉽다.
 
-열차가 툭, 하고 덜컹였다. 맞은편 광고는 “올바른 매트리스를 사면 3주 안에 숙면”을 약속한다고 했다. 그녀는 자기 침대를 떠올렸다. 시트가 모서리를 끌어당겨 다른 것이 되려는—돛, 혹은 조용한 깃발—모양이었다. 그녀의 아파트에는 벽돌담과 비둘기 기분에 따라 색이 바뀌는 하늘 조각이 보이는, 그럭저럭 괜찮은 창이 하나 있었다. 라디에이터가 똑딱거리면 오래된 시계가 아직 작동하는 소리 같아서 그때가 가장 좋았다.
+맞은편, 모직 코트의 남자가 문자를 쓰다 그대로 꾸벅—전화기는 허벅지 위에서 간신히 균형.
+옆자리엔 스케치북. 연필 끝이 사각사각, 손목의 작은 튕김에 따라 그을음 같은 음영이 얹힌다.
 
-유니언 스퀘어에서 사람들은 빗살 빠지듯 흩어졌다. 화분을 안은 여자는 문이 닫힐 때마다 떨리는 잎을 더 꼭 끌어안았다. 헤더는 밤이면 뿌리도 깨어나 귀를 기울일 것이라 상상했다.
+헤더는 의미를 만들 만큼 오래 보지 않는다. 눈을 아껴 쓰는 편.
+대신 이렇게 한 줄을 더해 둔다.
 
-그녀는 차가운 금속에 머리를 기댔다. 눈을 감아도 카페의 우유가 하얀 안개로 피어오르는 모습이 보였고, 네 시간 전의 헤더가 “무엇으로 시작해드릴까요?”라고 말하는 소리가 들렸다. 상냥한 목소리였다. 하지만 그녀의 것은 아니었다.
+“손은 우리를 들킨다—바리스타의 손톱 아래엔 커피의 초승달, 학생 손등엔 잉크 얼룩, 겨울 손의 마디는 벌겋게 솟는다. 예술가의 손목은 물을 흐리듯 움직인다.”
 
-14번가에서 네이비색 모자를 쓴 남자가 옆자리에 사람 있냐고 물었다. 그녀는 가방을 옮겼고, 지퍼가 손목을 스쳤다. “감사합니다.” 그녀는 고개를 끄덕였다. 대화 끝. 도시는 효율적인 교환을 사랑했다. 그래야 밤이 흐트러지지 않았다.
+열차가 툭—금속의 어깨를 맞대듯 가볍게 충격.
+맞은편 광고는 “올바른 매트리스면 3주 안에 숙면”을 약속하고,
+헤더는 자신의 침대를 떠올린다. 시트 모서리를 바짝 당겨 만들어진 다른 형태—돛, 혹은 아주 조용한 깃발.
 
-열차는 학생, 간호사, 목도리에 조심스레 얼굴을 묻고 우는 사람, 낮은 목소리와 값싼 약속으로 미래를 그리는 연인을 태우고, 한동안 젖어 있기로 한 도시를 가로질렀다. 창문은 어두운 거울이 되었고, 헤더의 반사는 두 겹, 세 겹으로 겹쳐졌다. 마치 세상이 그녀의 버전을 시험하는 것처럼.
+그녀의 창은 벽돌담과, 비둘기 기분에 따라 색이 바뀌는 하늘 조각을 품고 있다.
+라디에이터의 ‘똑딱’—오래된 시계가 아직 움직인다는 증거. 그때가 제일 좋다…라고 말하고 싶어지지만, 굳이 말로는 묶어 두지 않는다.
 
-그녀는 한 번 출간했던 단편을 떠올렸다. 그 작품을 읽은 이는 마음씨 좋은 교수와 겨울빛 같은 문장을 좋아하는 소수의 독자뿐이었다. 살짝 열었다가 천천히 닫아버린 문 같았다. 아직 맡을 준비가 안 된 냄비의 김을 잠깐 빼듯이.
+유니언 스퀘어에서 사람들은 빗살처럼 흩어졌다가 다시 모인다.
+화분을 안은 여자는 문이 닫힐 때마다 떨리는 잎을 더 꼭 끌어안고,
+헤더는 밤이 되면 뿌리에도 귀가 생겨 소리를 듣게 되는 건 아닐까, 그런 상상을 살짝.
 
-휴대폰 배터리는 8%였다. 그녀는 파일을 열지 않았다. 그걸 썼던 사람과 마주치고 싶지 않았다.
+차가운 금속에 머리를 기댄다.
+눈을 감아도 카페의 우유는 하얀 안개로 피어오르고, 네 시간 전의 헤더가 무심히 묻는다.
+무엇으로 시작해 드릴까요—상냥한 음색. 그런데, 그 목소리는 분명 그녀 것이 아니었다.
 
-열차는 그녀의 역 앞에서 낮게 한숨 쉬듯 속도를 줄였다. 플랫폼에 내리자 차가움이, 늘 그랬듯 코트를 뚫고 스며들었다. 계단을 오르자 밤과 그 온순한 비가 다시 시작되었다. 이 동네의 건물들은 어딘가 망설이는 듯했다. 창문들은 남의 삶을 위한 작은 극장이 되었다. 어떤 창은 불이 켜져 있고, 어떤 창은 꺼져 있고, 어떤 창은 TV의 푸른 바다빛으로 잠겨 있었다.
+14번가. 네이비 모자의 남자가 “자리 비었나요?” 하고 묻고,
+헤더는 가방을 옮긴다—지퍼가 손목을 스치며 짧게 스파크.
+고개를 끄덕임. “감사합니다.” 끝.
+이 도시는 효율적인 교환을 사랑한다. 그래야 밤이 흐트러지지 않으니까.
 
-복도에는 빨래 냄새와 정체 모를 달큰한 냄새가 섞여 났다. 집에 들어와 불 하나를 켰다. 야심 없는 빛이 자리를 잡았다. 창턱의 다육이는 지난주에 포기해버렸다. 그녀는 아직 치우지 않았다. 흙에는 물이 있던 작은 오목함만 남아 있었다.
+학생, 간호사, 목도리에 얼굴을 묻고 조용히 우는 사람,
+낮은 목소리와 값싼 약속으로 내일을 그리는 연인들.
+열차는 한동안 더 젖어 있기로 작정한 도시를 가로지른다.
 
-헤더는 휴대폰을 꽂아 충전하고, 잠시 서서 집이 다시 조용해지는 소리를 들었다. 작은 탁자에 앉아 공책을 펼치고 마지막으로 쓴 페이지를 바라보았다. 흑연은 그녀의 손이 너무 세게 눌렸던 자리에서 은근히 반짝였다.
+창문은 어두운 거울이 되고,
+헤더의 반사는 두 겹, 세 겹—세상이 그녀의 여러 버전을 시험하는 중처럼.
 
-그녀는 도시가 아닌 자신에 관한 문장을 써보려 했다. 연필이 머뭇거리다 눌렸다.
+한 번 출간했던 단편을 떠올린다.
+마음씨 좋은 교수와 겨울빛 문장을 좋아하던 소수의 독자.
+살짝 열렸다가 천천히 닫힌 문.
+아직 끓을 준비가 되지 않은 냄비에서 김을 잠깐 빼듯—그 정도의 경험.
+
+휴대폰 배터리 8%. 파일은 열지 않는다.
+그걸 썼던 사람과 마주칠 자신이 없어서.
+
+열차가 그녀의 역 앞에서 속도를 낮춘다—낮게, 한숨처럼.
+플랫폼의 차가움이 코트를 뚫고 스며들고,
+계단 위에서는 비가 다시 시작된다. 온순하지만 질긴 리듬.
+
+이 동네의 건물들은 늘 망설이는 표정.
+창문들은 남의 삶을 위한 작은 극장.
+어떤 창은 켜져 있고, 어떤 창은 꺼져 있고, 어떤 창은 TV의 푸른 바다빛 아래 잠긴 채.
+
+복도에는 빨래 냄새와 정체 모를 달큰함이 섞여 있다.
+문 하나 켠다. 야심 없는 빛이 제자리를 찾아 앉는다.
+창턱의 다육이는 지난주에 포기된 후 그대로—흙에는 물이 머물던 오목한 자국만 남아 있음.
+
+충전 케이블을 꽂고, 집이 다시 조용해지는 소리를 잠깐 듣는다.
+작은 탁자, 펼쳐 둔 공책, 마지막 페이지.
+너무 세게 눌려 은근히 반짝이는 흑연, 밤의 비늘처럼.
+
+이번엔 도시가 아니라 ‘나’에 관한 문장을 써 보려 한다.
+연필이 머뭇—그리고 눌림.
 
 “잠과는 흥정이 통하지 않는 종류의 피로가 내 안에 있다.”
 
-그녀는 그 문장을 보았다. 그 문장도 그녀를 응시했다. 영수증처럼 단순하고 정확했다. 더하지 않았다. 오늘은 그 정도의 정직이면 충분했다.
+그 문장을 바라본다. 문장도 그녀를 본다.
+영수증처럼 단순하고 정확해서, 더하지 않기로. 오늘은 이만큼의 정직이면 충분.
 
-라디에이터가 한 번, 그리고 다시 한 번 똑딱거렸다. 메트로놈이 다시 맞춰지는 소리. 인도에서 누군가가 웃었고, 그 웃음은 얇은 창을 타고 작은, 반가운 실수처럼 올라왔다. 헤더는 공책을 덮고 그 온기를 손바닥으로 감쌌다. 내일의 카페가 떠올랐다. 벗겨진 페인트, 암기한 주문들로 줄을 선 단골들, 팁 통 옆에서 식어가는 캐모마일.
+라디에이터가 한 번, 그리고 다시 한 번—메트로놈이 박을 맞춘다.
+복도 어딘가에서 누군가 웃고, 그 웃음이 얇은 창을 타고 올라오는 작은 실수처럼 반가움.
 
-어쩌면 도시는 잠들지 않는 게 아닐지도 모른다. 그저 숨과 숨 사이에서 한숨을 쉬는 것일 뿐.
+공책을 덮는다. 손바닥으로 잔열을 감싼 채, 내일의 카페를 떠올린다—
+벗겨진 페인트, 외워진 주문들, 팁 통 옆에서 식어 가는 캐모마일.
 
-헤더는 스탠드 불을 껐다. 방은 회색으로 가라앉았다. 비는 유리 위에 부드러운 필기체를 썼다. 어딘가 지하에서는 막차가 덜컹거리며, 긴 문장의 사이사이에 찍히는 쉼표처럼 낯선 이들을 집으로 데려가고 있었다.`,
+도시는 아마 잠들지 않는 게 아닐지 모른다.
+숨과 숨 사이에서, 길게 한 번—한숨.
+
+스탠드 불을 끄면 방은 조용한 회색.
+비는 유리 위에 부드러운 필기체를 남기고,
+어딘가 지하에서는 막차가 덜컹, 덜컹—긴 문장 사이에 찍히는 쉼표처럼,
+낯선 이들을 각자의 집으로 데려다주는 중.`,
         },
       },
       {
@@ -223,65 +298,164 @@ He looked up to confirm the world was still the world. His eyes passed, paused, 
 She closed the notebook on that. The sentence carried the shape of a beginning. Somewhere under the street, the last train for someone else rattled by, moving a few faces closer to the places they pretended to be heading. Heather watched the reflection assemble and unassemble in the window. Beyond it, the tunnel made a soft, endless mouth.
 
 He turned his page. His pencil began again. The sound was small, like rain deciding to fall.`,
-          ko: `다음 날 밤도 전날과 비슷했다. 달라진 건 날씨뿐이었다. 도시는 눈과 비 사이를 맴돌다 잠시 둘 다를 걸쳤다. 헤더는 카페 문을 잠그고, 걸레를 필요 이상 한 번 더 접은 뒤, 마지막 종소리가 복도 공기 속으로 사라지게 두었다. 계단을 내려가 타일로 마감된 좁은 통로로 들어서며, 이미 하루치 말을 다 써버린 사람들의 작은 행렬에 섞였다.
+          ko: `다음 밤도 전날과 다르지 않았다. 달라진 건 오직 날씨.
+도시는 눈과 비 사이를 맴돌다, 잠깐 두 겹으로 겹쳐 입은 듯한 표정.
+헤더는 문을 잠그고, 걸레를 쓸데없이 한 번 더 접어 놓았다. 마지막 종소리가 복도 공기 속으로 풀려 나가도록 그대로 두고.
+계단 아래, 타일로 마감된 좁은 통로. 하루치 말을 이미 다 쓴 사람들의 작은 행렬 속으로 조용히 섞인다.
 
-승강장에도 늘 그곳만의 문법이 있었다. 찬 공기에서 사랑 노래를 끌어내려 애쓰는 버스커, 지킬 수 없는 약속을 내거는 전광판, 계절을 잃어버린 틈바람. 헤더는 ‘YOU ARE HERE’라 적힌 오래된 스티커가 어쩐지 협박처럼 느껴지는 기둥 곁에 섰다. 공책을 열었다가 다시 닫았다.
+승강장에는 그곳만의 문법이 있다.
+찬 공기에서 사랑 노래를 끌어내려 애쓰는 버스커,
+지킬 수 없는 약속을 밝히는 전광판,
+계절을 잃어버린 틈바람.
+‘YOU ARE HERE’라 적힌 오래된 스티커 곁에서, 그 말이 어쩐지 협박처럼 느껴지는 기둥에 기대 서 본다.
+공책을 열었다가, 다시 닫는다.
 
-먼저 바람, 그다음 냄새, 그리고 브레이크 소리—노이즈 캔슬링 헤드폰도 뚫고 들어왔다. 긴 금속성 모음 하나가 역 전체를 입안에 머금은 듯 늘어졌다. 문은 늘 그렇듯 인내 어린 짜증으로 열렸다.
+먼저 바람. 그다음 냄새. 그리고 브레이크—
+노이즈 캔슬링도 뚫고 들어오는 금속의 길고 낮은 모음.
+문은 인내 어린 짜증으로 열리고, 빛이 칸 안으로 미끄러져 들어간다.
 
-그녀는 기둥을 잡았다. 칸 안에는 젖은 모직 냄새가 배어 있었고, 지친 구두 소리가 달그락거렸다. 그때 그가 보였다—같은 자리, 같은 얼굴. 가끔 열리지 않는 문 옆, 통로에서 반걸음 비켜 서서, 마음먹으면 벽에 스며들 수 있을 듯했다.
+기둥을 잡는다. 젖은 모직의 냄새, 지친 구두가 들려주는 달그락.
+그때—그가 보였다. 같은 자리, 같은 얼굴.
+가끔은 열리지 않는 문 옆, 통로에서 반걸음 비켜. 마음만 먹으면 벽에 스며들 수 있을 것 같은 태도.
 
-그의 무릎 위엔 스케치북이 있었다. 새것은 아니었다. 오래 입은 셔츠처럼 모서리가 부드러웠고, 하드보드가 포기한 등쪽엔 테이프가 붙어 한쪽 끝이 살짝 들려 있었다. 그는 그것을 애지중지하지 않았다. 짧고 빠른 선, 흑연의 낮은 속삭임, 말랑한 찰흙 지우개가 작은 구름처럼 페이지 사이를 오갔다. 엄지 안쪽은 회색으로 물들어 있었다. 코트는 진지한 체했고, 목도리는 날씨와의 싸움에서 이미 졌다.
+스케치북은 그의 무릎 위. 새것은 아니다.
+오래 입은 셔츠처럼 모서리가 부드럽고, 포기한 등판에 테이프가 한 줄—한쪽 끝이 살짝 뜬 채.
+애지중지하는 방식이 아니다. 짧고 빠른 선. 흑연의 낮은 속삭임.
+말랑한 지우개가 작은 구름처럼 페이지 사이를 오가고, 엄지 안쪽은 담백한 회색.
+코트는 진지한 척을 하고, 목도리는 날씨와의 싸움에서 이미 졌다.
 
-헤더는 세 초, 두 초. 결국 스스로도 부인할 수 있을 만큼 잘게 쪼갠 눈길만 주었다. 그녀는 얼굴보다 손을 보았다. 손이 먼저 진실을 말한다. 그의 손은 물 온도를 재듯 살짝 저으며 움직였다.
+헤더는 세 초, 두 초—스스로도 부인하기 어려울 만큼 잘게 쪼갠 눈길을 준다.
+얼굴보다 먼저 손을 본다. 손이 먼저 진실을 말하니까.
+그의 손은 물 온도를 재듯 살짝 저어 움직였다.
 
-맞은편에선 안전모 쓴 남자가 부럽도록 쉽게 잠들어 있었다. 그 옆의 여자는 책 한 권을, 맨손으로 다리를 놓듯 집중해 읽었다. 정차 때마다 칸은 다시 배열됐다. 사람들이 들고나며 페이지가 넘어갔다.
+맞은편에선 안전모를 쓴 남자가 부럽도록 쉽게 잠들어 있고,
+그 옆 여자는 책 한 권을, 맨손으로 다리를 놓듯 조심스레 읽는다.
+정차 때마다 칸은 다시 배열. 들고나는 몸들이 페이지를 넘기는 역할을 한다.
 
-헤더는 ‘기적의 매트리스’ 광고에서 눈을 떼지 않은 채 손끝으로 연필을 더듬었다. 아무것도 아닌 것처럼 작게, 종이 모서리에 적었다.
+헤더는 ‘기적의 매트리스’ 광고에서 눈을 떼지 않은 채 연필 끝을 손가락으로 더듬는다.
+아무것도 아닌 척, 종이 모서리에 작게.
+
 그는 인사를 하지 않기 위해 그린다.
 
-열차가 굽이를 돌 때 그녀의 어깨가 낯선 이의 코트를 스쳤다. 곧 차가 다시 안정되자 붙들고 있던 숨을 조용히 풀었다. 그녀는 스스로에게 말했다. 사람 하나를 기록할 뿐, 나를 겨냥한 이가 아니다. 관찰과 맺은 거래였다. 보기만 하고, 들어가지 않는 것.
+열차가 굽이를 돌 때 낯선 이의 코트에 어깨가 살짝 스치고,
+안정이 돌아오자 붙들었던 숨을 조용히 풀어 놓는다.
+스스로에게 말한다. 사람 하나를 기록할 뿐. 내게 겨눠진 건 없다.
+관찰과 맺은 거래—보기만 하고, 들어가지 않는 것.
 
-8번가에서는 두 관광객이 지도에 매달리듯 달라붙어 있었다. 프린스 스트리트에서는 기타 연주자가 탔다가 내려, 다른 칸에서 희망을 이어 가기로 했다. 커낼 스트리트에서는 문이 닫힐 때마다 잎사귀가 떨리는 화분을 안은 여자가 올라탔다. 남자는 페이지를 넘겼다. 헤더는 방금 전 그림의 잔상을 힐끗 보았다. 종이컵을 감싼 한 쌍의 손. 김은 세 줄로만 암시돼 있었다.
+8번가에서는 두 관광객이 지도에 매달리듯 엉겨 붙어 있고,
+프린스 스트리트에서는 기타 연주자가 탔다가 내려, 다른 칸에서 희망을 이어 가기로.
+커낼 스트리트에서는 문이 닫힐 때마다 잎이 떨리는 화분을 껴안은 여자가 올라탄다.
+남자는 페이지를 넘기고, 헤더는 방금 전 그림의 잔상을 힐끗—종이컵을 감싼 손.
+김은 세 줄로만 암시되어 있었다.
 
-그가 얼굴을 그리는지, 아니면 얼굴이 너무 강하게 되돌아보는지 궁금했다. 그는 어려운 형태는 나중으로 미루는 사람처럼 보였다.
+그가 얼굴을 못 그리는 사람인지, 아니면 얼굴이 너무 강하게 되돌아보는 것인지—궁금증.
+그는 어려운 형태를 나중으로 미루는 쪽처럼 보였다.
 
-그 뒤로 밤들이 염주알처럼 줄줄이 꿰였다.
+그 뒤로, 밤들이 염주알처럼 줄줄이 꿰인다.
 
-화요일엔 낯선 이들이 가구가 될 만큼 붐볐다. 헤더는 노선도 옆 자리를 골랐다. 거기선 안내 방송이 더 컸지만 여전히 또렷하진 않았다. “다운타운 행 열차는… 죄송합니다, 전부 다요.” 그는 또 있었다. 같은 자리, 무릎 위 스케치북, 소음 속에서도 찾아 들을 수 있는 연필의 리듬. 이번에는 신발을 그리고 있었다—닳은 부츠, 정성스러운 끈, 반걸음 들린 뒤꿈치. 열차가 흔들릴 때만 잠깐 고개를 들었고, 그래도 손가락 하나를 페이지 위에 얹어, 세상이 자신이 안 보는 사이 움직이지 않도록 못이라도 박듯 버텼다.
+⸻
 
-어디에 앉는지가 사람을 말해 준다, 그녀는 썼다. 그는 떠나기 쉬운 자리에 앉는다.
+화요일. 낯선 이들이 가구처럼 빽빽하던 밤.
+헤더는 노선도 옆 자리를 골랐다. 안내 방송이 더 컸지만 또렷하진 않은 곳.
+그는 또 있었다. 같은 자리, 무릎 위 스케치북. 소음 속에서도 들리는 연필의 리듬.
+이번에는 신발—닳은 부츠, 정성스러운 끈, 반걸음 들린 뒤꿈치.
+열차가 흔들릴 때만 잠깐 고개를 들고, 그 사이에도 손가락 하나를 페이지 위에 얹어
+세상이 자신이 안 보는 사이 움직이지 않도록 못을 박듯 버틴다.
 
-수요일, 역은 지하실 같은 온기로 따뜻했다. 버스커는 사랑 노래를 음계 연습으로 바꿔 놓았다. 헤더의 머리카락에는 하루 내내 밴 커피 냄새가 완고한 향수처럼 남아 있었다. 그녀는 기둥을 찾기 전에 그를 먼저 봤다—코트, 목도리, 차 안에서도 날씨가 들이닥칠 수 있기에 페이지를 지키려 몸을 살짝 접은 자세. 근처 아이 하나가 마술사나 간식 장수를 보듯 경외심으로 그를 바라봤다. 아이가 너무 가까이 다가오자 그의 손이 잠깐 허공에 머물렀다가, 더 느리게 다시 움직였다. 숨기는 건 아니다—내주지 않을 뿐.
+헤더는 쓴다.
+어디에 앉는지가 사람을 말해 준다. 그는 떠나기 쉬운 자리에 앉는다.
 
-헤더는 자기 이야기를 한 문장 쓰려다 실패했고, 그에 대한 문장을 쓰자 가슴 한쪽에서 안도의 종소리가 맑게 울렸다.
+⸻
+
+수요일. 역 전체가 지하실 같은 온기로 미지근.
+버스커는 사랑 노래 대신 음계 연습.
+헤더의 머리카락엔 하루 내내 밴 커피 냄새—완고한 향수처럼.
+
+기둥보다 그를 먼저 본다.
+코트, 목도리, 차 안에서도 날씨가 들이닥칠 수 있기에 페이지를 지키려 몸을 살짝 접은 자세.
+아이 하나가 마술사 보듯 경외의 눈빛으로 그를 바라보고,
+너무 가까이 다가오자 그의 손이 잠깐 허공에 머문 뒤, 더 느리게 다시 움직인다.
+숨기는 건 아니다—내주지 않을 뿐.
+
+자기 이야기를 한 문장 쓰려다 실패.
+그에 대한 문장을 쓰자, 가슴 한쪽에서 맑은 종소리 하나.
+
 그는 선을 따라 덧그리지 않는다. 선과 흥정한다.
 
-목요일, 열차가 늦자 낯선 이들이 동맹이 되었다. 모두가 조금씩 승강장 가장자리로 기울었고, 열차가 비명을 지르듯 들어와도 아무도 서두르지 않는 척했다. 헤더는 그의 자리 가까이에 섰다. 종이는 두툼하고 결이 거칠었다. 스티커가 있었다가 떼어져 남은 작은 흠집도 보였다. 그는 창에 비친 두 번째, 더 옅은 객차를 그리고 있었다—칸 안의 모두로 만들어진 그림자 같은 열차. 부드러운 모자를 쓰고 화분을 안은 여자. 부끄러움 없이 꾸벅꾸벅 조는 남자. 그리고 더 용감하거나 더 지쳐 보이는 자신을 닮은 누군가의 광대뼈 곡선과 콧망울을 빠르게 스케치했다.
+⸻
 
-열차가 급히 흔들렸다. 그의 연필이 미끄러져 굴렀다. 헤더의 신발이 그것을 멈췄다. 그녀는 발끝으로 살짝 밀어 되돌려 주었다. 둘은 동시에 손을 뻗다가 동시에 멈췄다—예의가 만든 엇박자. 그래도 연필은 그의 손바닥으로 돌아갔다. 그는 잠깐, 정말 한숨만큼 고개를 들었다. 차 안의 무심한 조명 아래 그의 눈은 회색이었다. 고갯짓 하나—고맙다는 뜻일 수도, 아무 의미도 아닐 수도. 헤더는 도시가 쓰는 얇은 미소로 답했다. 당신은 보였고, 당신은 안전하다.
+목요일. 열차가 늦자 낯선 이들이 잠시 동맹.
+모두가 조금씩 승강장 가장자리로 기울고,
+열차가 비명을 지르듯 들어와도 아무도 서두르지 않는 척.
 
-금요일은 눈을 내려다 말았다. 칸은 평소보다 한산했다. 그는 늘 앉던 자리에 있었다. 헤더는 맞은편에 앉았다. 더는 서서 하루를 버틸 힘이 없을 때 고르는 자리였다. 조금 가까워진 평행선. 그는 연필을 바꿨다. 이번 건 소리가 더 부드러웠다. 그는 문 옆 광고의 모서리를 그렸지만, 그 안의 얼굴은 그리지 않았다—종이 위에서도 누구에게도 아무것도 팔지 않으려는 듯.
+헤더는 그의 자리 가까이에 선다.
+종이는 두툼하고 결이 거칠다. 스티커를 떼고 남은 작은 흠집—그의 시간표 같은 흔적.
+그는 창에 비친 두 번째, 더 옅은 객차를 그리고 있다.
+칸 안 모두로 만들어진 그림자 열차.
+부드러운 모자를 쓴 채 화분을 안은 여자, 부끄럼 없이 꾸벅꾸벅 조는 남자,
+그리고 더 용감하거나 더 지쳐 보이는 자신을 닮은 누군가의 광대뼈 곡선과 콧망울.
 
-그녀가 없어도 캐모마일은 팁 통 옆에서 식고 있을 것이다. 익숙한 작은 무게처럼 떠올랐다가 이내 사라졌다.
+급작스런 흔들림. 연필이 굴러간다.
+헤더의 신발이 그것을 멈추고, 발끝으로 살짝 밀어 되돌려 준다.
+둘은 동시에 손을 뻗었다가 동시에 멈춘다—예의가 만든 엇박.
+연필은 결국 그의 손바닥으로.
+그가 아주 잠깐, 한숨만큼 고개를 든다.
+무심한 조명 아래 회색빛 눈. 고갯짓 하나—고맙다는 뜻일 수도, 아무 의미도 아닐 수도.
+헤더는 도시가 쓰는 얇은 미소로 답한다.
+당신은 보였고, 당신은 안전하다.
 
-그녀는 열차의 흔들림에 몸을 맡기고, 스스로의 규칙을 깨고서, 그의 머릿속을—그가 스케치북 안을 아는 것처럼—상상해 보았다. 드라마가 아니라 목록. 찌그러진 뚜껑의 흑연 통, 한 번만 접어 떼어낸 종이들, 한쪽이 살짝 들린 등쪽을 감은 테이프, 그리고 그 모든 것을 작은 짐승처럼 품고 다니는 버릇.
+⸻
 
-그녀는 썼다. 너무 쉽게 흘러나와 스스로도 놀랄 만큼.
+금요일. 눈이 내릴 듯 말 듯. 칸은 평소보다 한산.
+그는 늘 앉던 자리. 헤더는 맞은편.
+더는 서서 하루를 버틸 힘이 없을 때 고르는 거리.
+
+조금 가까워진 평행선.
+그는 연필을 바꾸었다—소리가 더 부드러운 심.
+문 옆 광고의 모서리만 천천히, 얼굴은 그리지 않는다.
+종이 위에서도 누구에게도 아무것도 팔지 않겠다는 태도.
+
+그녀가 없어도 캐모마일은 팁 통 옆에서 천천히 식고 있겠지—익숙한 작은 무게처럼 떠올랐다가 이내 가라앉는 생각.
+
+열차의 흔들림에 몸을 맡기며, 스스로의 규칙을 살짝 깬다.
+그의 머릿속을—그가 스케치북 안을 아는 것처럼—상상해 본다.
+드라마가 아니라 목록.
+찌그러진 뚜껑의 흑연 통, 한 번만 접어 떼어낸 종이들, 한쪽이 살짝 뜬 등판을 감은 테이프,
+그리고 그 모든 것을 작은 짐승처럼 품고 다니는 버릇.
+
+문장이 너무 쉽게 흘러나와 스스로도 놀란다.
+
 아직 만나지 않은 누군가를 기억하듯 그림을 그리는 남자가 있다.
 
-3월에서 빌려 온 듯한 일요일 밤, 버스커는 일주일 내내 헤매던 멜로디를 마침내 찾았다. 역은 괜히 무심한 척하지 않고 조용히 모여 들었다. 헤더는 노란 선 앞에 섰다. 열차가 성급하면서도 안도한 듯 들어왔다. 그녀가 칸에 오르자 그가 있었다. 같은 자리, 같은 얼굴, 빈 페이지를 펼쳐 둔 스케치북.
+⸻
 
-잠깐, 그의 연필은 움직이지 않았다.
+마치 3월을 빌려 온 듯한 일요일 밤.
+버스커가 일주일 내내 헤매던 멜로디를 마침내 찾아낸 순간.
+역은 괜히 무심한 척을 멈추고, 조용히 그 자리에 모여든다.
 
-그는 세상이 아직도 세상인지 확인하듯 고개를 들었다. 그녀의 얼굴을 스치고, 멈추고, 다시 돌아왔다. 헤더는 웃지 않았다. 자신을 그의 그림 속 승객이 아니라 그의 시야 속 사람으로 두었다. 셋까지 셌다. 시선을 먼저 거두고, 변명할 수 있을 만큼 작게 적었다.
+노란 선 앞. 열차가 성급하면서도 안도한 얼굴로 들어온다.
+칸에 오르자—그가 있다. 같은 자리, 같은 얼굴.
+빈 페이지를 펼쳐 둔 스케치북.
+
+잠깐, 연필은 움직이지 않는다.
+
+그가 세상이 아직도 세상인지 확인하듯 고개를 든다.
+그녀의 얼굴을 스치고, 멈추고, 다시 돌아온다.
+헤더는 웃지 않는다.
+자신을 그의 그림 속 승객이 아니라, 그의 시야 속 사람으로 둔다.
+마음속으로 셋을 세고, 시선을 먼저 거둔 뒤, 변명할 수 있을 만큼 작게 적는다.
 
 ［라스트 트레인, #1］
 보이는 것과 아는 것은 다르다. 그래도 사라지는 것보다는 낫다.
 
-그 문장을 덮었다. 시작의 모양을 한 문장이었다. 어딘가 지하의 어둠 속에선 누군가에게 마지막 열차가 덜컹거리며 지나가고 있었다. 몇몇 얼굴을, 그들이 향한다고 믿는 곳에 조금 더 가까이 밀어 주면서. 헤더는 창에 모였다 흩어지는 반사를 보았다. 그 너머로 터널은 부드럽고 끝도 없는 입처럼 이어졌다.
+문장을 덮는다. 시작의 모양을 한 문장.
+지하 어딘가, 누군가에게 마지막 열차가 덜컹거리며 지나간다.
+몇몇 얼굴을, 그들이 믿는 곳으로 조금 더 가까이 밀어 주면서.
+헤더는 창에 모였다 흩어지는 반사를 바라본다.
+그 너머, 터널은 부드럽고 끝을 모르는 입처럼 이어져 있었다.
 
-그는 페이지를 넘겼다. 연필이 다시 시작했다. 아주 작은 소리. 막 비가 내리기로 마음먹는 순간 같은.`,
+그는 페이지를 넘긴다.
+연필이 다시 시작한다—아주 작은 소리. 막 비가 내리기로 마음먹는 순간 같은 예고.`,
         },
       },
       {
@@ -1759,6 +1933,311 @@ OPEN이 CLOSED로 뒤집힌 뒤의 뉴욕은 더 조용해지지 않는다. 다�
 그의 책상 위, 메리디안의 편지는 여전히 평평했다. 어디로도 흐르지 못하는 얼음판. 그런데 다른 것이 열렸다. 그녀의 화면에는, 괄호를 벗은 엔트리 #5가 커서를 기다렸다. 그의 혓바닥 위에서, 캐모마일은 습관이 허락하던 시간보다 오래 따뜻함을 유지했다.
 
 둘은 이름을 갖기 전 서로를 먼저 찾아냈다. 운명이라기보다, 호의를 맡은 알고리즘이 한 소박한 일—잠 못 이루는 시간 사이를 건너 문장을 필요한 사람에게 전달하는 일. 인지는—열처럼—자기 속도로 이동한다. 컵에서 김이 올라와 쉽게 사라지지 않았다. 공기가 그걸 어떻게 다루어야 할지 배우는 동안 잠시 머물렀다. 둘은 누군가로 남을지, 서로에게 특정한 사람이 될지, 그 시간을 배우는 중이었다.`,
+        },
+      },
+      {
+        id: '10',
+        number: 10,
+        title: {
+          en: 'After the Last Train',
+          ko: '마지막 기차 이후',
+        },
+        publishDate: '2025-10-18',
+        content: {
+          en: `Monday, 10:47 PM
+
+The platform had the late-night echo it saved for people who didn't have anywhere better to be. A poster of a summer concert sagged at the corners. The "YOU ARE HERE" sticker on the map had cracked into a tiny constellation, but the arrow still pointed down with stubborn faith. Her fingers still smelled like espresso from closing.
+
+They stood side by side, slightly turned toward the tracks, as if watching for a train were the same as watching for courage. Their phones glowed in their hands like excuses. Small talk circled the safe ring—work, deadlines that behaved like weather, the radiator in her apartment that coughed like an old man, the client at his studio who wanted "edge" but also "approachable."
+
+The lights bent in the tunnel. Brakes announced themselves before the train did, that familiar iron breath. Heather swallowed and set her phone in her pocket.
+
+"I should tell you something," she said.
+
+He looked over. The train arrived with a shrug and opened its doors. Half the car was empty. Someone inside was falling asleep in a hospitality of blue plastic.
+
+Heather's voice stayed small. She wasn't hiding anymore, just tired of running. "I wrote books. Bestsellers. Then I couldn't anymore. I stopped because I couldn't hear my own sentences anymore—just what would sell. Bookstores got…loud. I started bracketing everything I felt until the pages sounded like someone else."
+
+Ian didn't reach for her. He didn't perform acceptance. He let it land and made room.
+
+"Okay," he said, quietly. "Thank you."
+
+The doors chimed their patient countdown. They stayed on the platform. The train took its light and left.
+
+A draft lifted the corner of the map. They regarded each other, the way people do when something heavy has been set down between them and the floor didn't crack.
+
+Heather exhaled. "Next one's in thirty-seven minutes."
+
+He nodded toward the stairs. "There's weather up there."
+
+"Let's go meet it," she said.
+
+They turned their backs to the schedule and climbed.
+
+10:55 PM
+
+Rain had started the way late confessions do—thin, almost ignorable. Ian had an umbrella, but he kept it closed as if an open canopy would admit something neither of them had agreed to yet. The city traced their coats in darker versions of themselves. Manhole steam braided with the drizzle and lifted the streetlight into a halo that didn't belong to anyone.
+
+They walked without urgency, a side-by-side drift that left room for the new shape between them. Heather's notebook peeked from her tote and collected three clear circles before Ian noticed.
+
+"Hey," he said, giving up the game. He opened the umbrella. It was smaller than either of them would have ordered on purpose. The world narrowed to two shoulders negotiating the same dry inch.
+
+Her hair gathered along her coat collar. Their elbows learned each other's presence. The sound of the rain changed when it hit nylon overhead—softer, almost shy—so their voices felt too loud for a moment.
+
+"The brackets," she said, watching their steps avoid the same puddle. "They were a way to keep from writing me. Like putting training wheels on feeling. [grief, mild] [want, deny]. It helped until it didn't."
+
+Ian considered. "I make my lines too clean on purpose," he said. "If there's smudge or wobble, I sand it out. Then I look at it and can't find where I was."
+
+They passed a deli that kept its fruit outside under a plastic tent, apples shining like ceramic. A taxi split a street-length river and then sewed it closed again.
+
+"It's funny," she said. "I thought if anyone knew, I'd have to be…fixed."
+
+"You don't," he said. "I don't, either."
+
+His sleeve brushed her hand. Neither apologized.
+
+11:15 PM
+
+They chose the longer path and justified nothing. The park wore the hour like an oversized coat. Swings moved with wind instead of children, and the chains made their small throat-clearing sound. The playground's rubber floor drank the rain in dark continents and didn't mind.
+
+Under an orange streetlight—the same one she'd once written under when the city felt like a dare—Heather paused. The rain refashioned the light into steady amber threads.
+
+"Here," she said. "This is where I thought maybe quiet would win."
+
+Ian slipped the umbrella into her hand. "May I?"
+
+He pulled a pencil from his coat and a small pad that had learned to live in his pocket. The rain made the paper buckle like a breath held too long. He drew anyway—fast wrist, forgiving marks. The orange light turned his wet graphite into something stubborn and alive. Drops landed and made comets, but the scene stayed.
+
+Heather tipped the umbrella to angle for him, shoulder against shoulder. Her free hand found his shoulder for balance on the slick path. She was surprised by how ordinary it felt to steady him, like she'd been waiting to do it since a train she couldn't remember.
+
+The swings spoke again. She took her notebook and wrote a clean line without brackets: The swings remember weightlessness even when no one is teaching them. She underlined nothing.
+
+They walked on when they were ready, not when the rain told them to.
+
+11:35 PM
+
+The block ahead wore its scaffolding like a borrowed skeleton. They ducked under. Puddles collected in the plywood's hesitation. Orange netting fenced off the version of the sidewalk where construction made its case.
+
+Ian slowed. "I know this spot," he said. "Different year."
+
+Heather looked at him, then at the particular seam where metal met metal. "Me too," she said.
+
+They didn't trade stories. They traded footsteps. He took her around the wide puddle that tried to be a mirror; she touched his arm in a way that said I'm here for the detour, not the shortcut. The netting glowed instead of scolding. Behind it, tools slept like benign animals.
+
+At the end of the cover, the rain greeted them again with the earnestness of a host who'd believed they'd left.
+
+12:30 AM
+
+They found it by temperature first—the block that warms itself from beneath. Steam lifted through the grate and unfurled into a pale wall. They stepped into it and disappeared from the street's attention.
+
+The air felt like a room with a door half open. Their coats gave back a little heat. The white made everything else seem unnecessary: neon, honks, the decisions other people had already made about them.
+
+Heather reached for his hand by mistake and then on purpose. Their fingers interlaced with the tentative certainty of people tying two good knots instead of one big one. The grate hummed. Drops tapped the umbrella like thoughtful metronome marks.
+
+They stood close enough to borrow breath. His forehead met hers with the absentminded care of a book leaning against another on a shelf. An almost-kiss lived in the inch between them and decided not to cross yet. It didn't feel like withholding. It felt like saving. The city's exhale held them there, invisible and necessary.
+
+"Everything's different," she said, not asking.
+
+"Yeah," he said.
+
+When the steam thinned, the world returned to its edges. They were holding hands on an empty street that hadn't earned the right to be surprised.
+
+1:30 AM
+
+Her building steps were the same steps they'd been yesterday, but the cement understood more. They sat two rises up, shoulders touching by consent rather than accident. Their shoes steamed a little.
+
+She'd gone into the corner store and come back out with two juices that had survived too many winters in the same fridge. He got mango. She got something labeled "citrus blend" that tasted like a decision committee.
+
+They drank like people who had run out of other rituals.
+
+"What do you want now?" he asked finally, as if the night had given them permission to ask grown questions.
+
+"To make things that can stand me," she said. "Even if they're small. Especially if they're small."
+
+He rolled the plastic bottle between his palms. "To make things that show their hand," he said. "Even if my hand shakes."
+
+They contemplated a plastic bag that floated up the block, reconsidered, and came back, as if auditioning.
+
+"Tomorrow," she said. "The café. Not before noon."
+
+"I'll bring a smudge you're not allowed to erase," he said.
+
+"I'll bring a sentence that doesn't want to be liked," she said.
+
+They smiled without needing to see it on the other person's face.
+
+The city quieted by degrees. A dog and its human performed a small rain negotiation at the corner and chose home. A bus exhaled. Somewhere, steam knocked and then apologized.
+
+They didn't bother pretending to be the one who needed to leave first.
+
+2:00 AM
+
+Rain had thinned to a memory on the pavement, everything still dripping its small conclusions. The hallway smelled like wet wool and an old attempt at lemon. At her door, Heather's keys performed their nervous recital in her hand.
+
+"I have tea," she said, then corrected nothing. "If you want."
+
+"Tea sounds like a good idea," he said. It was almost funny, given the day the city had borrowed from their bones.
+
+They stood at the border between what the world could see and what it couldn't. The floor here knew her footsteps; it would now learn his. He watched her hands shake and didn't pretend they weren't.
+
+She turned the lock. It made the sound of something finally agreeing.
+
+They looked at each other. No brackets. No armor. No loud promises.
+
+"After this," she said, "we stop hiding from the warm parts."
+
+"Deal," he said.
+
+They stepped through together.
+
+The door closed, a soft click that reassigned the night. The old world waited politely on the other side of the wood. Inside, the room held two pairs of wet shoes, an umbrella deciding where to drip, and a kettle that did not yet know it was about to be put to honest work.`,
+          ko: `월요일, 오후 10시 47분
+
+플랫폼에는 갈 곳이 더 나은 사람들을 위해 아껴둔 늦은 밤의 메아리가 있었다. 여름 콘서트 포스터가 모서리에서 처졌다. 지도의 "당신은 여기 있습니다" 스티커는 작은 별자리로 갈라졌지만, 화살표는 여전히 완고한 믿음으로 아래를 가리켰다. 그녀의 손가락에서는 아직 마감 때의 에스프레소 냄새가 났다.
+
+그들은 나란히 서서 선로를 향해 약간 돌아섰다. 마치 기차를 기다리는 것이 용기를 기다리는 것과 같은 듯이. 그들의 전화기는 손에서 변명처럼 빛났다. 잡담은 안전한 고리를 돌았다—일, 날씨처럼 행동하는 마감일, 늙은이처럼 기침하는 그녀 아파트의 라디에이터, "엣지"도 원하지만 "접근하기 쉬운" 것도 원하는 그의 스튜디오 고객.
+
+터널에서 빛이 구부러졌다. 브레이크가 기차보다 먼저 자신을 알렸다, 그 익숙한 철의 숨결. 헤더는 삼키고 전화기를 주머니에 넣었다.
+
+"할 말이 있어요," 그녀가 말했다.
+
+그가 돌아봤다. 기차는 어깨를 으쓱하며 도착해 문을 열었다. 차량의 절반이 비어 있었다. 안에서 누군가 파란 플라스틱의 환대 속에서 잠들고 있었다.
+
+헤더의 목소리는 작게 머물렀다. 그녀는 더 이상 숨지 않았다, 단지 도망치기에 지쳤을 뿐. "책을 썼어요. 베스트셀러였죠. 그러다 더는 쓸 수 없었어요. 내 문장이 더 이상 들리지 않아서 멈췄어요—팔릴 것만 들렸거든요. 서점이… 시끄러워졌어요. 느끼는 모든 것에 괄호를 치기 시작했고 페이지가 다른 사람처럼 들렸어요."
+
+이안은 그녀에게 손을 뻗지 않았다. 수용을 연기하지 않았다. 그것이 착륙하게 두고 공간을 만들었다.
+
+"알겠어요," 그가 조용히 말했다. "고마워요."
+
+문이 참을성 있는 카운트다운을 울렸다. 그들은 플랫폼에 머물렀다. 기차는 빛을 가져가고 떠났다.
+
+외풍이 지도의 모서리를 들어 올렸다. 그들은 서로를 바라봤다, 무거운 것이 그들 사이에 놓였지만 바닥이 갈라지지 않았을 때 사람들이 하는 방식으로.
+
+헤더가 숨을 내쉬었다. "다음 건 37분 후예요."
+
+그가 계단을 향해 고개를 끄덕였다. "위에 날씨가 있네요."
+
+"만나러 가죠," 그녀가 말했다.
+
+그들은 시간표에 등을 돌리고 올라갔다.
+
+오후 10시 55분
+
+비는 늦은 고백이 하듯 시작했다—가늘고, 거의 무시할 수 있게. 이안은 우산이 있었지만, 열린 캐노피가 그들이 아직 동의하지 않은 것을 인정하는 것처럼 닫아두었다. 도시는 그들의 코트를 더 어두운 버전으로 그렸다. 맨홀 증기가 이슬비와 엮여 가로등을 누구에게도 속하지 않는 후광으로 들어 올렸다.
+
+그들은 서두르지 않고 걸었다, 그들 사이의 새로운 형태를 위한 공간을 남겨두며 나란히 표류했다. 헤더의 노트북이 토트백에서 엿보이며 이안이 알아차리기 전에 세 개의 맑은 원을 모았다.
+
+"저기," 그가 게임을 포기하며 말했다. 그가 우산을 열었다. 둘 중 누구도 일부러 주문하지 않았을 만큼 작았다. 세계는 같은 마른 인치를 협상하는 두 어깨로 좁혀졌다.
+
+그녀의 머리카락이 코트 칼라를 따라 모였다. 그들의 팔꿈치는 서로의 존재를 배웠다. 비가 머리 위 나일론에 부딪힐 때 소리가 바뀌었다—더 부드럽고, 거의 수줍게—그래서 그들의 목소리가 잠시 너무 크게 느껴졌다.
+
+"괄호," 그녀가 같은 웅덩이를 피하는 그들의 걸음을 보며 말했다. "나를 쓰지 않기 위한 방법이었어요. 감정에 보조 바퀴를 다는 것처럼. [슬픔, 가벼운] [원함, 부정]. 도움이 되다가 안 됐죠."
+
+이안이 생각했다. "난 일부러 선을 너무 깨끗하게 만들어요," 그가 말했다. "번짐이나 흔들림이 있으면 연마해 버려요. 그런 다음 보면 내가 어디 있었는지 찾을 수 없어요."
+
+그들은 플라스틱 텐트 아래 과일을 밖에 두는 델리를 지나갔다, 사과들이 세라믹처럼 빛났다. 택시가 거리 길이의 강을 갈라놓았다가 다시 꿰매 닫았다.
+
+"웃기네요," 그녀가 말했다. "누군가 알면, 내가… 고쳐져야 한다고 생각했어요."
+
+"그럴 필요 없어요," 그가 말했다. "나도요."
+
+그의 소매가 그녀의 손을 스쳤다. 둘 다 사과하지 않았다.
+
+오후 11시 15분
+
+그들은 더 긴 길을 선택하고 아무것도 정당화하지 않았다. 공원은 시간을 특대 코트처럼 입고 있었다. 그네는 아이들 대신 바람과 함께 움직였고, 체인은 작은 목 가다듬는 소리를 냈다. 놀이터의 고무 바닥은 비를 어두운 대륙으로 마시고 개의치 않았다.
+
+주황색 가로등 아래—도시가 도전처럼 느껴졌을 때 그녀가 한때 글을 썼던 같은 곳—헤더가 멈췄다. 비는 빛을 꾸준한 호박색 실로 재단했다.
+
+"여기," 그녀가 말했다. "조용함이 이길지도 모른다고 생각했던 곳이에요."
+
+이안이 우산을 그녀 손에 넘겼다. "해도 될까요?"
+
+그는 코트에서 연필과 주머니에 사는 법을 배운 작은 패드를 꺼냈다. 비가 종이를 너무 오래 참은 숨처럼 구부렸다. 그는 어쨌든 그렸다—빠른 손목, 용서하는 표시. 주황색 빛이 그의 젖은 흑연을 완고하고 살아있는 것으로 바꿨다. 방울이 떨어져 혜성을 만들었지만, 장면은 남았다.
+
+헤더는 그를 위해 우산을 기울였다, 어깨와 어깨를 맞대고. 그녀의 자유로운 손이 미끄러운 길에서 균형을 위해 그의 어깨를 찾았다. 그를 안정시키는 것이 얼마나 평범하게 느껴지는지 놀랐다, 마치 기억할 수 없는 기차 이후로 그것을 하기를 기다려온 것처럼.
+
+그네가 다시 말했다. 그녀는 노트북을 가져와 괄호 없이 깨끗한 줄을 썼다: 그네는 아무도 가르치지 않을 때도 무중력을 기억한다. 그녀는 아무것도 밑줄 긋지 않았다.
+
+그들은 준비가 되었을 때 걸었다, 비가 말하라고 할 때가 아니라.
+
+오후 11시 35분
+
+앞 블록은 빌린 골격처럼 비계를 입고 있었다. 그들은 아래로 몸을 숙였다. 웅덩이는 합판의 망설임에 모였다. 주황색 그물이 건설이 주장하는 인도의 버전을 울타리로 막았다.
+
+이안이 속도를 늦췄다. "이 자리를 알아요," 그가 말했다. "다른 해에."
+
+헤더가 그를 보다가, 금속이 금속과 만나는 특정 이음새를 봤다. "나도요," 그녀가 말했다.
+
+그들은 이야기를 교환하지 않았다. 발걸음을 교환했다. 그는 거울이 되려는 넓은 웅덩이 주위로 그녀를 데려갔다; 그녀는 지름길이 아닌 우회로를 위해 여기 있다고 말하는 방식으로 그의 팔을 만졌다. 그물은 꾸짖는 대신 빛났다. 그 뒤에서 도구들이 양성 동물처럼 잠들었다.
+
+덮개 끝에서, 비는 그들이 떠났다고 믿었던 호스트의 진지함으로 다시 그들을 맞이했다.
+
+오전 12시 30분
+
+그들은 먼저 온도로 그것을 찾았다—아래에서 스스로를 따뜻하게 하는 블록. 증기가 격자를 통해 올라와 창백한 벽으로 펼쳐졌다. 그들은 그 안으로 들어가 거리의 관심에서 사라졌다.
+
+공기는 문이 반쯤 열린 방처럼 느껴졌다. 그들의 코트가 약간의 열을 되돌려줬다. 하얀색은 다른 모든 것을 불필요하게 만들었다: 네온, 경적, 다른 사람들이 그들에 대해 이미 내린 결정.
+
+헤더가 실수로 그리고 나서 의도적으로 그의 손을 잡았다. 그들의 손가락은 큰 매듭 하나 대신 좋은 매듭 두 개를 묶는 사람들의 잠정적 확실성으로 얽혔다. 격자가 윙윙거렸다. 방울이 우산을 신중한 메트로놈 표시처럼 두드렸다.
+
+그들은 숨을 빌릴 만큼 가까이 섰다. 그의 이마가 선반의 책이 다른 책에 기대듯 무심한 배려로 그녀의 이마와 만났다. 거의 키스가 그들 사이 인치에 살았고 아직 건너지 않기로 결정했다. 보류하는 것처럼 느껴지지 않았다. 아끼는 것처럼 느껴졌다. 도시의 숨결이 그들을 거기에 붙들었다, 보이지 않고 필요하게.
+
+"모든 게 다르네요," 그녀가 묻지 않고 말했다.
+
+"네," 그가 말했다.
+
+증기가 엷어졌을 때, 세계는 가장자리로 돌아왔다. 그들은 놀랄 권리를 얻지 못한 빈 거리에서 손을 잡고 있었다.
+
+오전 1시 30분
+
+그녀의 건물 계단은 어제와 같은 계단이었지만, 시멘트는 더 많이 이해했다. 그들은 두 계단 위에 앉았다, 어깨가 사고가 아닌 동의로 만났다. 그들의 신발이 조금 김을 냈다.
+
+그녀는 모퉁이 가게에 들어갔다가 같은 냉장고에서 너무 많은 겨울을 견딘 주스 두 개를 들고 나왔다. 그는 망고를 받았다. 그녀는 결정 위원회처럼 맛이 나는 "시트러스 블렌드"라고 표시된 것을 받았다.
+
+그들은 다른 의식이 떨어진 사람들처럼 마셨다.
+
+"이제 뭘 원해요?" 그가 마침내 물었다, 밤이 어른 질문을 할 수 있는 허락을 준 것처럼.
+
+"나를 견딜 수 있는 것들을 만들고 싶어요," 그녀가 말했다. "작아도. 특히 작으면."
+
+그는 플라스틱 병을 손바닥 사이에서 굴렸다. "손을 보여주는 것들을 만들고 싶어요," 그가 말했다. "손이 떨려도."
+
+그들은 블록을 떠올랐다가 재고하고 돌아온 비닐봉지를 생각했다, 마치 오디션을 보듯.
+
+"내일," 그녀가 말했다. "카페. 정오 전엔 안 돼요."
+
+"지우면 안 되는 얼룩을 가져올게요," 그가 말했다.
+
+"좋아 받기를 원하지 않는 문장을 가져올게요," 그녀가 말했다.
+
+그들은 서로의 얼굴에서 그것을 볼 필요 없이 미소 지었다.
+
+도시는 단계적으로 조용해졌다. 개와 그 인간이 모퉁이에서 작은 비 협상을 수행하고 집을 선택했다. 버스가 숨을 내쉬었다. 어딘가에서 증기가 두드리고 사과했다.
+
+그들은 먼저 떠나야 하는 사람인 척하는 것을 귀찮아하지 않았다.
+
+오전 2시
+
+비는 포장도로의 기억으로 얇아졌고, 모든 것이 여전히 작은 결론을 떨어뜨렸다. 복도는 젖은 양모와 레몬에 대한 오래된 시도 냄새가 났다. 그녀의 문에서, 헤더의 열쇠가 그녀의 손에서 긴장된 리사이틀을 수행했다.
+
+"차가 있어요," 그녀가 말하고 아무것도 정정하지 않았다. "원한다면."
+
+"차가 좋은 생각 같네요," 그가 말했다. 도시가 그들의 뼈에서 빌린 날을 생각하면 거의 웃긴 일이었다.
+
+그들은 세계가 볼 수 있는 것과 볼 수 없는 것 사이의 경계에 섰다. 여기 바닥은 그녀의 발걸음을 알았다; 이제 그의 것을 배울 것이다. 그는 그녀의 손이 떨리는 것을 보고 그렇지 않은 척하지 않았다.
+
+그녀가 자물쇠를 돌렸다. 마침내 동의하는 소리를 냈다.
+
+그들은 서로를 바라봤다. 괄호 없이. 갑옷 없이. 시끄러운 약속 없이.
+
+"이후엔," 그녀가 말했다, "따뜻한 부분에서 숨는 걸 멈춰요."
+
+"거래," 그가 말했다.
+
+그들은 함께 들어갔다.
+
+문이 닫혔다, 밤을 재할당하는 부드러운 클릭. 오래된 세계는 나무 반대편에서 정중하게 기다렸다. 안에는 방이 젖은 신발 두 켤레, 어디에 떨어질지 결정하는 우산, 그리고 정직한 작업에 투입될 것을 아직 모르는 주전자를 품고 있었다.`,
         },
       },
     ],
